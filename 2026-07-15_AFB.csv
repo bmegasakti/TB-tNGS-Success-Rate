@@ -1,0 +1,6296 @@
+﻿Sample_code;AFB;HIV;tNGS_platform;Identifiable?
+TB00001;Scanty;Negatif;ONT;Yes
+TB00002;Scanty;Negatif;ONT;Yes
+TB00004;2+;Negatif;ONT;Yes
+TB00005;Not tested;Negatif;ONT;No
+TB00006;Scanty;Negatif;ONT;Yes
+TB00007;Scanty;Negatif;ONT;Yes
+TB00008;Scanty;Negatif;ONT;Yes
+TB00009;Not tested;Negatif;ONT;Yes
+TB00010;Not tested;Negatif;ONT;Yes
+TB00011;Not tested;Positif;ONT;Yes
+TB00013;Not tested;Negatif;ONT;Yes
+TB00014;Not tested;Negatif;ONT;No
+TB00016;Not tested;Negatif;ONT;Yes
+TB00017;Not tested;Negatif;ONT;Yes
+TB00018;1+;Negatif;ONT;Yes
+TB00019;Not tested;Negatif;ONT;Yes
+TB00020;Scanty;Negatif;ONT;Yes
+TB00039;2+;Negatif;ONT;Yes
+TB00040;Not tested;Negatif;ONT;Yes
+TB00042;Scanty;Negatif;ONT;Yes
+TB00043;Not tested;Negatif;ONT;Yes
+TB00044;1+;Negatif;ONT;Yes
+TB00046;2+;Negatif;ONT;Yes
+TB00047;Not tested;Negatif;ONT;Yes
+TB00048;Not tested;Negatif;ONT;Yes
+TB00049;Not tested;Positif;ONT;Yes
+TB00050;2+;Negatif;ONT;Yes
+TB00051;3+;Negatif;ONT;Yes
+TB00053;Scanty;Negatif;ONT;Yes
+TB00054;Scanty;Negatif;ONT;Yes
+TB00055;Not tested;Negatif;ONT;Yes
+TB00056;Not tested;Negatif;ONT;Yes
+TB00057;Not tested;Negatif;ONT;Yes
+TB00058;Not tested;Negatif;ONT;Yes
+TB00059;Scanty;Negatif;ONT;Yes
+TB00060;1+;Negatif;ONT;Yes
+TB00061;Scanty;Negatif;ONT;Yes
+TB00062;Not tested;Negatif;ONT;Yes
+TB00063;Not tested;Negatif;ONT;Yes
+TB00064;Not tested;Negatif;ONT;Yes
+TB00065;Not tested;Negatif;ONT;Yes
+TB00066;Not tested;Negatif;ONT;No
+TB00067;Not tested;Negatif;ONT;Yes
+TB00068;Not tested;Negatif;ONT;Yes
+TB00069;Not tested;Negatif;ONT;Yes
+TB00070;Not tested;Negatif;ONT;Yes
+TB00072;Scanty;Negatif;ONT;Yes
+TB00073;3+;Negatif;ONT;Yes
+TB00074;Not tested;Positif;ONT;Yes
+TB00075;Not tested;Negatif;ONT;Yes
+TB00077;Not tested;Negatif;ONT;Yes
+TB00078;Not tested;Negatif;ONT;Yes
+TB00079;Not tested;Negatif;ONT;Yes
+TB00080;Not tested;Negatif;ONT;No
+TB00081;Not tested;Negatif;ONT;Yes
+TB00082;Not tested;Negatif;ONT;Yes
+TB00083;Not tested;Negatif;ONT;Yes
+TB00084;Not tested;Positif;ONT;Yes
+TB00085;Not tested;Negatif;ONT;Yes
+TB00086;Not tested;Negatif;ONT;Yes
+TB00087;3+;Negatif;ONT;Yes
+TB00089;Not tested;Negatif;ONT;Yes
+TB00090;Not tested;Positif;ONT;No
+TB00091;Not tested;Negatif;ONT;Yes
+TB00092;Not tested;Negatif;ONT;No
+TB00093;Not tested;Negatif;ONT;Yes
+TB00094;Not tested;Negatif;ONT;Yes
+TB00095;Not tested;Negatif;ONT;Yes
+TB00096;Not tested;Negatif;ONT;Yes
+TB00098;Not tested;Negatif;ONT;Yes
+TB00099;Not tested;Negatif;ONT;Yes
+TB00100;Not tested;Negatif;ONT;Yes
+TB00101;Not tested;Negatif;ONT;Yes
+TB00102;Not tested;Negatif;ONT;Yes
+TB00103;Not tested;Negatif;ONT;Yes
+TB00104;Not tested;Negatif;ONT;No
+TB00105;Not tested;Negatif;ONT;Yes
+TB00106;3+;Negatif;ONT;Yes
+TB00107;Not tested;Negatif;ONT;Yes
+TB00108;Not tested;Negatif;ONT;Yes
+TB00109;Not tested;Negatif;ONT;Yes
+TB00110;Not tested;Negatif;ONT;No
+TB00111;Not tested;Negatif;ONT;No
+TB00113;Not tested;Negatif;ONT;Yes
+TB00114;Not tested;Negatif;ONT;Yes
+TB00115;Not tested;Negatif;ONT;Yes
+TB00116;Not tested;Negatif;ONT;Yes
+TB00117;Not tested;Negatif;ONT;Yes
+TB00118;Not tested;Negatif;ONT;Yes
+TB00119;Not tested;Negatif;ONT;No
+TB00120;Not tested;Negatif;ONT;Yes
+TB00121;Not tested;Negatif;ONT;Yes
+TB00122;Not tested;Negatif;ONT;Yes
+TB00123;Not tested;Negatif;ONT;No
+TB00124;Not tested;Negatif;ONT;Yes
+TB00126;Not tested;Negatif;ONT;Yes
+TB00127;Not tested;Negatif;ONT;Yes
+TB00128;Not tested;Negatif;ONT;Yes
+TB00129;Not tested;Negatif;ONT;Yes
+TB00130;Not tested;Negatif;ONT;Yes
+TB00131;Not tested;Negatif;ONT;No
+TB00132;Not tested;Negatif;ONT;Yes
+TB00133;Not tested;Negatif;ONT;Yes
+TB00134;Not tested;Negatif;ONT;Yes
+TB00135;Not tested;Negatif;ONT;No
+TB00136;Not tested;Negatif;ONT;Yes
+TB00137;Not tested;Negatif;ONT;No
+TB00138;Not tested;Negatif;ONT;Yes
+TB00139;Not tested;Negatif;ONT;Yes
+TB00140;Not tested;Negatif;ONT;No
+TB00141;2+;Negatif;ONT;Yes
+TB00142;Not tested;Negatif;ONT;Yes
+TB00143;Not tested;Negatif;ONT;Yes
+TB00146;Not tested;Negatif;ONT;Yes
+TB00148;Not tested;Negatif;ONT;Yes
+TB00149;Not tested;Negatif;ONT;Yes
+TB00150;Not tested;Negatif;ONT;Yes
+TB00151;Not tested;Negatif;ONT;Yes
+TB00152;Not tested;Negatif;ONT;Yes
+TB00153;Scanty;Negatif;ONT;Yes
+TB00156;Not tested;Negatif;ONT;Yes
+TB00157;Not tested;Negatif;ONT;Yes
+TB00158;Not tested;Negatif;ONT;Yes
+TB00159;Not tested;Negatif;ONT;Yes
+TB00160;Not tested;Negatif;ONT;No
+TB00161;Not tested;Negatif;ONT;Yes
+TB00162;Not tested;Negatif;ONT;No
+TB00163;Not tested;Negatif;ONT;Yes
+TB00164;Not tested;Negatif;ONT;Yes
+TB00165;Not tested;Negatif;ONT;Yes
+TB00166;Scanty;Negatif;ONT;Yes
+TB00167;Not tested;Negatif;ONT;Yes
+TB00169;Not tested;Negatif;ONT;Yes
+TB00171;Not tested;Negatif;ONT;Yes
+TB00172;Not tested;Negatif;ONT;Yes
+TB00173;Not tested;Negatif;ONT;Yes
+TB00174;Not tested;Negatif;ONT;Yes
+TB00175;Not tested;Negatif;ONT;Yes
+TB00176;Not tested;Negatif;ONT;Yes
+TB00177;Not tested;Negatif;ONT;Yes
+TB00179;Not tested;Negatif;ONT;No
+TB00180;Not tested;Negatif;ONT;Yes
+TB00181;Not tested;Negatif;ONT;Yes
+TB00182;Not tested;Negatif;ONT;Yes
+TB00183;Not tested;Negatif;ONT;Yes
+TB00184;Not tested;Negatif;ONT;Yes
+TB00185;Not tested;Negatif;ONT;Yes
+TB00186;Not tested;Negatif;ONT;Yes
+TB00187;Not tested;Negatif;ONT;Yes
+TB00188;Not tested;Negatif;ONT;Yes
+TB00189;Not tested;Negatif;ONT;Yes
+TB00190;Not tested;Negatif;ONT;Yes
+TB00191;Not tested;Negatif;ONT;Yes
+TB00192;Not tested;Negatif;ONT;Yes
+TB00193;Not tested;Negatif;ONT;Yes
+TB00194;Not tested;Negatif;ONT;Yes
+TB00195;Not tested;Negatif;ONT;Yes
+TB00197;Not tested;Negatif;ONT;Yes
+TB00198;Not tested;Negatif;ONT;Yes
+TB00199;Not tested;Negatif;ONT;Yes
+TB00200;Not tested;Negatif;ONT;Yes
+TB00201;Not tested;Negatif;ONT;No
+TB00202;Not tested;Negatif;ONT;Yes
+TB00203;Not tested;Negatif;ONT;Yes
+TB00204;Not tested;Negatif;ONT;Yes
+TB00205;Not tested;Negatif;ONT;Yes
+TB00206;Not tested;Negatif;ONT;No
+TB00207;Not tested;Negatif;ONT;Yes
+TB00208;Not tested;Negatif;ONT;Yes
+TB00209;Not tested;Negatif;ONT;Yes
+TB00210;Not tested;Negatif;ONT;No
+TB00211;Not tested;Negatif;ONT;Yes
+TB00212;Not tested;Negatif;ONT;Yes
+TB00213;Not tested;Negatif;ONT;Yes
+TB00214;Not tested;Negatif;ONT;Yes
+TB00215;Not tested;Negatif;ONT;Yes
+TB00216;Not tested;Negatif;ONT;Yes
+TB00217;Not tested;Negatif;ONT;Yes
+TB00218;Not tested;Negatif;ONT;Yes
+TB00219;Not tested;Negatif;ONT;Yes
+TB00220;Not tested;Negatif;ONT;Yes
+TB00221;Not tested;Negatif;ONT;Yes
+TB00222;Not tested;Negatif;ONT;Yes
+TB00223;Scanty;Negatif;ONT;Yes
+TB00224;Not tested;Negatif;ONT;Yes
+TB00225;Not tested;Negatif;ONT;Yes
+TB00226;Not tested;Negatif;ONT;Yes
+TB00227;Not tested;Negatif;ONT;Yes
+TB00228;Not tested;Negatif;ONT;Yes
+TB00229;Not tested;Negatif;ONT;Yes
+TB00230;Not tested;Negatif;ONT;Yes
+TB00231;Not tested;Negatif;ONT;Yes
+TB00232;Not tested;Negatif;ONT;Yes
+TB00233;Not tested;Negatif;ONT;Yes
+TB00234;Scanty;Negatif;ONT;Yes
+TB00235;Not tested;Negatif;ONT;Yes
+TB00236;Not tested;Positif;ONT;Yes
+TB00237;Not tested;Negatif;ONT;Yes
+TB00238;Not tested;Negatif;ONT;Yes
+TB00239;Not tested;Negatif;ONT;No
+TB00241;Not tested;Negatif;ONT;Yes
+TB00242;Not tested;Negatif;ONT;Yes
+TB00243;Not tested;Negatif;ONT;Yes
+TB00244;Not tested;Negatif;ONT;Yes
+TB00245;Scanty;Negatif;ONT;Yes
+TB00246;Scanty;Negatif;ONT;Yes
+TB00247;Not tested;Negatif;ONT;No
+TB00248;Not tested;Negatif;ONT;Yes
+TB00249;Not tested;Negatif;ONT;Yes
+TB00250;Not tested;Negatif;ONT;Yes
+TB00251;Not tested;Negatif;ONT;Yes
+TB00252;Not tested;Negatif;ONT;Yes
+TB00253;Not tested;Negatif;ONT;Yes
+TB00254;Not tested;Negatif;ONT;No
+TB00255;Not tested;Negatif;ONT;Yes
+TB00256;Not tested;Negatif;ONT;No
+TB00257;Not tested;Negatif;ONT;Yes
+TB00258;Not tested;Negatif;ONT;Yes
+TB00259;Not tested;Negatif;ONT;Yes
+TB00260;Not tested;Negatif;ONT;Yes
+TB00261;Not tested;Negatif;ONT;Yes
+TB00262;Not tested;Negatif;ONT;Yes
+TB00263;Not tested;Negatif;ONT;Yes
+TB00264;Not tested;Negatif;ONT;Yes
+TB00265;Not tested;Negatif;ONT;Yes
+TB00266;Not tested;Negatif;ONT;Yes
+TB00267;Not tested;Negatif;ONT;Yes
+TB00268;Not tested;Negatif;ONT;Yes
+TB00269;Not tested;Negatif;ONT;Yes
+TB00270;Not tested;Negatif;ONT;Yes
+TB00271;Scanty;Negatif;ONT;Yes
+TB00272;Not tested;Negatif;ONT;Yes
+TB00273;Not tested;Negatif;ONT;Yes
+TB00274;Not tested;Negatif;ONT;Yes
+TB00275;Not tested;Negatif;ONT;Yes
+TB00276;Not tested;Negatif;ONT;Yes
+TB00277;Not tested;Negatif;ONT;Yes
+TB00278;Not tested;Negatif;ONT;Yes
+TB00279;Not tested;Negatif;ONT;Yes
+TB00280;Not tested;Negatif;ONT;Yes
+TB00281;Not tested;Negatif;ONT;Yes
+TB00282;Not tested;Negatif;ONT;Yes
+TB00283;Not tested;Negatif;ONT;Yes
+TB00284;Not tested;Negatif;ONT;Yes
+TB00285;Scanty;Negatif;ONT;Yes
+TB00286;Not tested;Negatif;ONT;Yes
+TB00287;Not tested;Negatif;ONT;Yes
+TB00288;Not tested;Negatif;ONT;Yes
+TB00289;Not tested;Negatif;ONT;Yes
+TB00290;Not tested;Negatif;ONT;Yes
+TB00291;Not tested;Negatif;ONT;Yes
+TB00292;Not tested;Negatif;ONT;Yes
+TB00293;Not tested;Negatif;ONT;Yes
+TB00294;Not tested;Negatif;ONT;Yes
+TB00295;Not tested;Negatif;ONT;Yes
+TB00296;Not tested;Negatif;ONT;Yes
+TB00297;Not tested;Negatif;ONT;Yes
+TB00299;Not tested;Negatif;ONT;Yes
+TB00300;Not tested;Negatif;ONT;Yes
+TB00301;Scanty;Negatif;ONT;Yes
+TB00302;Not tested;Negatif;ONT;Yes
+TB00303;Not tested;Negatif;ONT;Yes
+TB00304;Not tested;Negatif;ONT;Yes
+TB00305;Scanty;Negatif;ONT;Yes
+TB00306;1+;Negatif;ONT;Yes
+TB00308;Not tested;Negatif;ONT;Yes
+TB00309;Not tested;Negatif;ONT;No
+TB00310;Not tested;Negatif;ONT;Yes
+TB00311;Not tested;Negatif;ONT;Yes
+TB00312;1+;Negatif;ONT;Yes
+TB00313;Not tested;Negatif;ONT;Yes
+TB00314;3+;Negatif;ONT;Yes
+TB00315;Scanty;Negatif;ONT;Yes
+TB00316;Scanty;Negatif;ONT;Yes
+TB00319;Not tested;Negatif;ONT;Yes
+TB00320;Not tested;Negatif;ONT;Yes
+TB00321;Not tested;Negatif;ONT;Yes
+TB00323;Not tested;Negatif;ONT;Yes
+TB00324;2+;Negatif;ONT;Yes
+TB00325;3+;Negatif;ONT;Yes
+TB00326;Scanty;Negatif;ONT;Yes
+TB00327;Scanty;Negatif;ONT;No
+TB00329;1+;Negatif;ONT;Yes
+TB00330;3+;Negatif;ONT;Yes
+TB00331;Scanty;Negatif;ONT;Yes
+TB00332;1+;Negatif;ONT;Yes
+TB00333;Scanty;Negatif;ONT;No
+TB00335;Scanty;Positif;ONT;Yes
+TB00336;1+;Negatif;ONT;Yes
+TB00337;Scanty;Negatif;ONT;Yes
+TB00338;3+;Negatif;ONT;Yes
+TB00339;Scanty;Negatif;ONT;Yes
+TB00340;3+;Negatif;ONT;Yes
+TB00341;3+;Negatif;ONT;Yes
+TB00342;Scanty;Negatif;ONT;No
+TB00343;3+;Negatif;ONT;Yes
+TB00344;Neg;Negatif;ONT;No
+TB00345;3+;Negatif;ONT;Yes
+TB00346;Scanty;Negatif;ONT;Yes
+TB00347;3+;Negatif;ONT;Yes
+TB00348;2+;Negatif;ONT;Yes
+TB00349;2+;Negatif;ONT;Yes
+TB00350;2+;Negatif;ONT;Yes
+TB00351;3+;Negatif;ONT;Yes
+TB00352;Scanty;Negatif;ONT;Yes
+TB00353;1+;Negatif;ONT;No
+TB00354;1+;Negatif;ONT;Yes
+TB00355;Neg;Negatif;ONT;No
+TB00356;Scanty;Negatif;ONT;Yes
+TB00357;Scanty;Negatif;ONT;Yes
+TB00358;2+;Negatif;ONT;Yes
+TB00359;Scanty;Negatif;ONT;Yes
+TB00361;1+;Negatif;ONT;Yes
+TB00362;Scanty;Negatif;ONT;Yes
+TB00363;1+;Negatif;ONT;Yes
+TB00364;Scanty;Negatif;ONT;Yes
+TB00365;1+;Negatif;ONT;Yes
+TB00366;Scanty;Positif;ONT;No
+TB00367;3+;Negatif;ONT;Yes
+TB00368;Neg;Negatif;ONT;No
+TB00369;1+;Negatif;ONT;Yes
+TB00370;Scanty;Negatif;ONT;Yes
+TB00371;Neg;Negatif;ONT;No
+TB00372;1+;Negatif;ONT;Yes
+TB00373;1+;Negatif;ONT;Yes
+TB00374;2+;Negatif;ONT;Yes
+TB00375;2+;Negatif;ONT;Yes
+TB00376;1+;Negatif;ONT;No
+TB00377;1+;Negatif;ONT;Yes
+TB00378;3+;Negatif;ONT;Yes
+TB00379;Scanty;Negatif;ONT;Yes
+TB00380;2+;Negatif;ONT;Yes
+TB00381;Neg;Negatif;ONT;Yes
+TB00382;Scanty;Negatif;ONT;Yes
+TB00383;1+;Negatif;ONT;Yes
+TB00384;2+;Negatif;ONT;Yes
+TB00385;Scanty;Negatif;ONT;Yes
+TB00386;1+;Negatif;ONT;Yes
+TB00387;1+;Negatif;ONT;Yes
+TB00388;3+;Negatif;ONT;Yes
+TB00389;1+;Negatif;ONT;Yes
+TB00390;Neg;Negatif;ONT;Yes
+TB00391;1+;Negatif;ONT;No
+TB00392;Neg;Negatif;ONT;Yes
+TB00393;Scanty;Negatif;ONT;No
+TB00394;Scanty;Negatif;ONT;Yes
+TB00395;3+;Negatif;ONT;Yes
+TB00396;1+;Negatif;ONT;Yes
+TB00397;Scanty;Negatif;ONT;No
+TB00398;2+;Negatif;ONT;Yes
+TB00399;3+;Negatif;ONT;Yes
+TB00401;Neg;Negatif;ONT;No
+TB00402;Neg;Negatif;ONT;Yes
+TB00403;1+;Negatif;ONT;Yes
+TB00404;3+;Negatif;ONT;Yes
+TB00405;Scanty;Negatif;ONT;No
+TB00407;1+;Negatif;ONT;Yes
+TB00408;Scanty;Negatif;ONT;No
+TB00409;Scanty;Negatif;ONT;Yes
+TB00410;3+;Negatif;ONT;Yes
+TB00411;Scanty;Negatif;ONT;No
+TB00412;1+;Negatif;ONT;Yes
+TB00413;Neg;Negatif;ONT;Yes
+TB00414;3+;Negatif;ONT;Yes
+TB00415;1+;Negatif;ONT;Yes
+TB00416;1+;Negatif;ONT;Yes
+TB00418;1+;Negatif;ONT;Yes
+TB00419;2+;Negatif;ONT;Yes
+TB00420;Scanty;Negatif;ONT;Yes
+TB00421;1+;Negatif;ONT;Yes
+TB00422;1+;Negatif;ONT;Yes
+TB00430;2+;Negatif;ONT;Yes
+TB00431;1+;Negatif;ONT;Yes
+TB00432;Scanty;Negatif;ONT;Yes
+TB00433;1+;Negatif;ONT;No
+TB00434;Scanty;Negatif;ONT;No
+TB00435;2+;Negatif;ONT;Yes
+TB00436;1+;Negatif;ONT;Yes
+TB00437;1+;Negatif;ONT;Yes
+TB00438;1+;Negatif;ONT;Yes
+TB00439;Scanty;Negatif;ONT;Yes
+TB00440;Scanty;Negatif;ONT;No
+TB00441;Not tested;Negatif;ONT;Yes
+TB00442;3+;Negatif;ONT;Yes
+TB00443;1+;Negatif;ONT;Yes
+TB00444;Scanty;Negatif;ONT;No
+TB00445;Scanty;Negatif;ONT;No
+TB00446;Neg;Negatif;ONT;No
+TB00447;3+;Negatif;ONT;Yes
+TB00448;1+;Negatif;ONT;Yes
+TB00449;Neg;Negatif;ONT;Yes
+TB00450;Scanty;Negatif;ONT;Yes
+TB00451;Scanty;Negatif;ONT;Yes
+TB00453;1+;Negatif;ONT;Yes
+TB00454;2+;Negatif;ONT;Yes
+TB00455;1+;Negatif;ONT;Yes
+TB00456;3+;Negatif;ONT;Yes
+TB00457;1+;Negatif;ONT;Yes
+TB00470;3+;Negatif;ONT;Yes
+TB00471;1+;Negatif;ONT;Yes
+TB00472;Scanty;Negatif;ONT;No
+TB00473;Neg;Negatif;ONT;No
+TB00474;Neg;Negatif;ONT;No
+TB00475;2+;Negatif;ONT;Yes
+TB00478;3+;Negatif;ONT;No
+TB00479;Scanty;Negatif;ONT;No
+TB00480;3+;Negatif;ONT;Yes
+TB00481;1+;Negatif;ONT;Yes
+TB00482;1+;Negatif;ONT;Yes
+TB00483;2+;Negatif;ONT;Yes
+TB00484;1+;Negatif;ONT;Yes
+TB00486;Scanty;Negatif;ONT;No
+TB00487;Neg;Negatif;ONT;Yes
+TB00490;2+;Negatif;ONT;Yes
+TB00492;Neg;Negatif;ONT;Yes
+TB00493;2+;Negatif;ONT;Yes
+TB00494;Neg;Negatif;ONT;Yes
+TB00496;Neg;Negatif;ONT;No
+TB00497;Scanty;Negatif;ONT;No
+TB00498;1+;Negatif;ONT;Yes
+TB00499;Scanty;Negatif;ONT;Yes
+TB00500;1+;Negatif;ONT;Yes
+TB00501;Neg;Negatif;ONT;No
+TB00502;1+;Negatif;ONT;Yes
+TB00503;3+;Negatif;ONT;Yes
+TB00504;1+;Negatif;ONT;Yes
+TB00505;Scanty;Negatif;ONT;Yes
+TB00506;1+;Negatif;ONT;Yes
+TB00507;Scanty;Negatif;ONT;Yes
+TB00508;1+;Negatif;ONT;Yes
+TB00509;Scanty;Negatif;ONT;Yes
+TB00510;Not tested;Negatif;ONT;No
+TB00512;3+;Negatif;ONT;Yes
+TB00513;Scanty;Negatif;ONT;Yes
+TB00514;Neg;Negatif;ONT;No
+TB00515;1+;Negatif;ONT;Yes
+TB00516;Scanty;Negatif;ONT;Yes
+TB00517;Scanty;Negatif;ONT;No
+TB00518;Scanty;Negatif;ONT;Yes
+TB00519;Scanty;Negatif;ONT;Yes
+TB00520;Scanty;Negatif;ONT;Yes
+TB00521;1+;Negatif;ONT;Yes
+TB00522;Scanty;Negatif;ONT;Yes
+TB00523;3+;Negatif;ONT;Yes
+TB00524;Scanty;Negatif;ONT;Yes
+TB00525;1+;Negatif;ONT;Yes
+TB00526;3+;Negatif;ONT;Yes
+TB00527;Not tested;Negatif;ONT;No
+TB00528;Not tested;Negatif;ONT;Yes
+TB00529;Not tested;Negatif;ONT;No
+TB00530;Not tested;Negatif;ONT;Yes
+TB00531;Not tested;Negatif;ONT;Yes
+TB00532;Neg;Negatif;ONT;Yes
+TB00533;Not tested;Negatif;ONT;No
+TB00534;Not tested;Negatif;ONT;Yes
+TB00535;Not tested;Negatif;ONT;Yes
+TB00536;Not tested;Negatif;ONT;Yes
+TB00537;Not tested;Negatif;ONT;Yes
+TB00538;Not tested;Negatif;ONT;Yes
+TB00539;Not tested;Negatif;ONT;Yes
+TB00540;Neg;Negatif;ONT;No
+TB00541;3+;Negatif;ONT;No
+TB00543;Scanty;Negatif;ONT;Yes
+TB00544;Scanty;Negatif;ONT;Yes
+TB00545;Scanty;Negatif;ONT;Yes
+TB00546;1+;Negatif;ONT;Yes
+TB00547;Neg;Negatif;ONT;No
+TB00551;Scanty;Negatif;ONT;No
+TB00552;Scanty;Negatif;ONT;Yes
+TB00553;Neg;Negatif;ONT;Yes
+TB00554;Neg;Negatif;ONT;No
+TB00555;2+;Negatif;ONT;Yes
+TB00556;3+;Negatif;ONT;Yes
+TB00557;Neg;Negatif;ONT;No
+TB00558;2+;Negatif;ONT;Yes
+TB00559;Scanty;Negatif;ONT;Yes
+TB00560;2+;Negatif;ONT;Yes
+TB00561;3+;Negatif;ONT;Yes
+TB00562;2+;Negatif;ONT;No
+TB00564;2+;Negatif;ONT;Yes
+TB00565;2+;Negatif;ONT;Yes
+TB00566;3+;Negatif;ONT;Yes
+TB00567;1+;Negatif;ONT;Yes
+TB00568;Scanty;Negatif;ONT;Yes
+TB00570;3+;Negatif;ONT;Yes
+TB00571;2+;Negatif;ONT;Yes
+TB00572;2+;Negatif;ONT;Yes
+TB00573;1+;Negatif;ONT;Yes
+TB00574;2+;Negatif;ONT;Yes
+TB00575;2+;Negatif;ONT;Yes
+TB00576;3+;Negatif;ONT;Yes
+TB00580;3+;Negatif;ONT;Yes
+TB00581;3+;Negatif;ONT;Yes
+TB00582;3+;Negatif;ONT;Yes
+TB00583;3+;Negatif;ONT;Yes
+TB00584;1+;Negatif;ONT;No
+TB00585;3+;Negatif;ONT;Yes
+TB00586;Scanty;Negatif;ONT;Yes
+TB00587;Scanty;Negatif;ONT;Yes
+TB00588;2+;Negatif;ONT;Yes
+TB00589;2+;Negatif;ONT;Yes
+TB00590;Scanty;Negatif;ONT;No
+TB00591;3+;Negatif;ONT;Yes
+TB00592;Scanty;Negatif;ONT;Yes
+TB00593;3+;Negatif;ONT;Yes
+TB00594;1+;Negatif;ONT;Yes
+TB00595;3+;Negatif;ONT;Yes
+TB00596;Scanty;Negatif;ONT;No
+TB00597;Neg;Negatif;ONT;No
+TB00598;Scanty;Negatif;ONT;No
+TB00599;3+;Negatif;ONT;Yes
+TB00600;1+;Negatif;ONT;Yes
+TB00601;Not tested;Negatif;ONT;Yes
+TB00602;3+;Negatif;ONT;Yes
+TB00603;3+;Negatif;ONT;Yes
+TB00604;2+;Negatif;ONT;No
+TB00605;Scanty;Negatif;ONT;Yes
+TB00606;1+;Negatif;ONT;Yes
+TB00607;Not tested;Negatif;GS;No
+TB00608;Not tested;Negatif;GS;Yes
+TB00609;Not tested;Negatif;GS;No
+TB00610;Not tested;Negatif;GS;Yes
+TB00611;Not tested;Negatif;GS;No
+TB00612;Not tested;Positif;GS;No
+TB00613;Not tested;Negatif;GS;No
+TB00614;Not tested;Negatif;GS;Yes
+TB00615;Not tested;Negatif;GS;No
+TB00616;Not tested;Negatif;GS;No
+TB00617;Not tested;Negatif;GS;No
+TB00618;2+;Negatif;GS;Yes
+TB00619;Not tested;no data;GS;No
+TB00620;Not tested;Negatif;GS;No
+TB00621;Not tested;Negatif;GS;No
+TB00622;Not tested;Negatif;GS;No
+TB00623;Not tested;Negatif;GS;No
+TB00624;Not tested;Negatif;GS;No
+TB00625;Not tested;Negatif;GS;No
+TB00626;Not tested;Negatif;GS;No
+TB00627;Not tested;Negatif;GS;Yes
+TB00628;Not tested;Negatif;GS;Yes
+TB00629;Not tested;Negatif;ONT;No
+TB00630;3+;Negatif;ONT;Yes
+TB00631;Not tested;Negatif;GS;No
+TB00632;Not tested;Negatif;ONT;No
+TB00633;Not tested;Negatif;ONT;No
+TB00634;Not tested;Negatif;ONT;No
+TB00635;Not tested;Negatif;GS;Yes
+TB00636;Not tested;Negatif;GS;No
+TB00637;Not tested;Negatif;GS;Yes
+TB00639;Not tested;Negatif;ONT;No
+TB00640;Not tested;Negatif;GS;Yes
+TB00641;Not tested;Negatif;GS;No
+TB00643;Not tested;Negatif;GS;No
+TB00644;Not tested;Negatif;GS;No
+TB00645;Not tested;Negatif;GS;No
+TB00647;Not tested;Negatif;ONT;No
+TB00648;Neg;Negatif;ONT;No
+TB00649;1+;Negatif;ONT;Yes
+TB00650;3+;Negatif;ONT;Yes
+TB00651;Scanty;Negatif;ONT;No
+TB00652;2+;Negatif;ONT;Yes
+TB00653;Not tested;Negatif;ONT;Yes
+TB00654;3+;Negatif;ONT;Yes
+TB00655;Scanty;Negatif;ONT;Yes
+TB00656;3+;Negatif;ONT;Yes
+TB00660;Scanty;Negatif;ONT;No
+TB00661;1+;Negatif;ONT;Yes
+TB00662;3+;Negatif;ONT;Yes
+TB00663;3+;Negatif;ONT;Yes
+TB00664;3+;Negatif;ONT;Yes
+TB00665;Not tested;Negatif;ONT;No
+TB00666;Scanty;Negatif;ONT;Yes
+TB00667;Scanty;Negatif;ONT;Yes
+TB00668;2+;Negatif;ONT;Yes
+TB00669;Scanty;Negatif;ONT;No
+TB00670;1+;Negatif;ONT;No
+TB00671;3+;Negatif;ONT;Yes
+TB00672;Scanty;Negatif;ONT;No
+TB00678;3+;Negatif;ONT;Yes
+TB00680;3+;Negatif;ONT;Yes
+TB00681;Scanty;Negatif;ONT;Yes
+TB00682;2+;Negatif;ONT;Yes
+TB00684;1+;Negatif;ONT;Yes
+TB00685;Scanty;Negatif;ONT;Yes
+TB00686;Scanty;;GS;Yes
+TB00687;3+;Negatif;ONT;Yes
+TB00688;3+;Negatif;ONT;Yes
+TB00689;Not tested;Negatif;ONT;No
+TB00690;Not tested;Negatif;ONT;Yes
+TB00691;Scanty;Negatif;ONT;Yes
+TB00692;Scanty;Negatif;ONT;Yes
+TB00693;Not tested;Positif;ONT;Yes
+TB00694;Neg;Negatif;ONT;Yes
+TB00695;3+;Negatif;ONT;Yes
+TB00696;1+;Negatif;ONT;Yes
+TB00697;3+;Negatif;ONT;Yes
+TB00698;Scanty;Negatif;ONT;Yes
+TB00699;1+;Negatif;ONT;Yes
+TB00700;Neg;Negatif;ONT;No
+TB00701;1+;Negatif;ONT;Yes
+TB00702;1+;Negatif;ONT;Yes
+TB00703;3+;Negatif;ONT;Yes
+TB00704;Scanty;Negatif;ONT;Yes
+TB00705;2+;Negatif;ONT;Yes
+TB00706;1+;Negatif;ONT;Yes
+TB00707;Scanty;Negatif;ONT;Yes
+TB00708;3+;Negatif;ONT;Yes
+TB00709;2+;Negatif;ONT;Yes
+TB00710;1+;Negatif;ONT;Yes
+TB00711;Scanty;Negatif;ONT;No
+TB00712;Not tested;Negatif;ONT;No
+TB00713;Not tested;Negatif;ONT;No
+TB00714;Not tested;Negatif;ONT;Yes
+TB00715;Not tested;Negatif;ONT;No
+TB00716;Not tested;Negatif;ONT;No
+TB00717;Not tested;Negatif;ONT;No
+TB00718;Not tested;Negatif;ONT;No
+TB00719;Not tested;Negatif;ONT;No
+TB00720;Not tested;Negatif;ONT;No
+TB00721;Not tested;Negatif;ONT;No
+TB00722;Not tested;Negatif;ONT;No
+TB00723;Not tested;Negatif;ONT;No
+TB00724;Not tested;Negatif;ONT;No
+TB00725;Not tested;Negatif;ONT;Yes
+TB00726;Not tested;Negatif;ONT;Yes
+TB00727;Not tested;Negatif;ONT;No
+TB00728;Not tested;Negatif;ONT;No
+TB00729;Not tested;Negatif;ONT;Yes
+TB00730;Not tested;Negatif;ONT;No
+TB00731;Not tested;Negatif;ONT;No
+TB00732;Not tested;Negatif;ONT;No
+TB00733;Not tested;Negatif;ONT;No
+TB00734;Not tested;Negatif;ONT;No
+TB00735;Not tested;Negatif;ONT;No
+TB00736;Not tested;Negatif;ONT;No
+TB00737;Not tested;Negatif;ONT;No
+TB00738;Not tested;Negatif;ONT;No
+TB00739;Not tested;Negatif;ONT;No
+TB00740;Not tested;Negatif;ONT;No
+TB00741;Not tested;Negatif;ONT;No
+TB00742;Not tested;Negatif;ONT;No
+TB00743;Not tested;Negatif;ONT;No
+TB00744;Not tested;Negatif;ONT;No
+TB00745;Not tested;Negatif;ONT;No
+TB00746;Not tested;Negatif;ONT;No
+TB00747;Not tested;Negatif;ONT;No
+TB00748;Not tested;Negatif;ONT;No
+TB00749;Not tested;Negatif;ONT;No
+TB00750;Not tested;Negatif;ONT;No
+TB00751;Not tested;Negatif;ONT;No
+TB00752;Not tested;Negatif;ONT;No
+TB00753;Not tested;Negatif;ONT;No
+TB00754;Not tested;Negatif;ONT;Yes
+TB00755;Not tested;Negatif;ONT;No
+TB00756;Not tested;Negatif;ONT;No
+TB00757;Not tested;Negatif;ONT;No
+TB00758;Not tested;Negatif;ONT;No
+TB00759;3+;Negatif;ONT;Yes
+TB00772;Scanty;Negatif;ONT;Yes
+TB00773;3+;Negatif;ONT;Yes
+TB00774;Not tested;Negatif;ONT;Yes
+TB00776;1+;Negatif;ONT;Yes
+TB00784;2+;Negatif;ONT;Yes
+TB00785;Neg;Negatif;ONT;No
+TB00787;1+;Negatif;ONT;Yes
+TB00788;Scanty;Negatif;ONT;Yes
+TB00793;Not tested;Negatif;ONT;Yes
+TB00801;Scanty;Negatif;ONT;Yes
+TB00803;3+;Negatif;ONT;Yes
+TB00804;2+;Negatif;ONT;Yes
+TB00805;Scanty;Negatif;ONT;No
+TB00806;Scanty;Negatif;ONT;Yes
+TB00807;1+;Negatif;ONT;Yes
+TB00808;3+;Negatif;ONT;Yes
+TB00809;3+;Negatif;ONT;Yes
+TB00810;2+;Negatif;ONT;Yes
+TB00811;1+;Negatif;ONT;Yes
+TB00813;Scanty;Negatif;ONT;Yes
+TB00814;3+;Negatif;ONT;Yes
+TB00815;1+;Negatif;ONT;Yes
+TB00816;Scanty;Negatif;ONT;No
+TB00817;Scanty;Negatif;ONT;No
+TB00818;2+;Negatif;ONT;Yes
+TB00819;3+;Negatif;ONT;Yes
+TB00820;1+;Negatif;ONT;Yes
+TB00821;Scanty;Negatif;ONT;Yes
+TB00824;Scanty;Negatif;ONT;Yes
+TB00825;1+;Negatif;ONT;Yes
+TB00826;Scanty;Negatif;ONT;Yes
+TB00827;Scanty;Negatif;ONT;Yes
+TB00828;3+;Negatif;ONT;Yes
+TB00829;1+;Negatif;ONT;Yes
+TB00834;3+;Negatif;ONT;Yes
+TB00835;1+;Negatif;ONT;Yes
+TB00836;1+;Negatif;ONT;Yes
+TB00837;Scanty;Negatif;ONT;No
+TB00838;3+;Negatif;ONT;Yes
+TB00839;3+;Negatif;ONT;Yes
+TB00841;Neg;Positif;ONT;Yes
+TB00842;Scanty;Negatif;ONT;Yes
+TB00843;Neg;Negatif;ONT;No
+TB00844;1+;Negatif;ONT;Yes
+TB00845;1+;Negatif;ONT;Yes
+TB00846;Scanty;Negatif;ONT;Yes
+TB00847;Scanty;Negatif;ONT;Yes
+TB00849;1+;Negatif;ONT;Yes
+TB00850;Not tested;Negatif;ONT;Yes
+TB00851;3+;Negatif;ONT;Yes
+TB00852;1+;Negatif;ONT;Yes
+TB00853;Scanty;Negatif;ONT;Yes
+TB00854;Neg;Positif;ONT;Yes
+TB00855;Not tested;Negatif;ONT;No
+TB00858;2+;Negatif;ONT;Yes
+TB00863;1+;Negatif;ONT;Yes
+TB00864;Scanty;Negatif;ONT;No
+TB00868;Not tested;Negatif;ONT;Yes
+TB00869;Scanty;Negatif;ONT;Yes
+TB00870;Scanty;Negatif;ONT;No
+TB00872;Scanty;Negatif;ONT;No
+TB00874;3+;Negatif;ONT;Yes
+TB00875;Scanty;Negatif;ONT;No
+TB00876;Scanty;Negatif;ONT;Yes
+TB00889;Scanty;Negatif;ONT;Yes
+TB00890;Scanty;Negatif;ONT;Yes
+TB00891;Scanty;Negatif;ONT;Yes
+TB00892;3+;Negatif;ONT;Yes
+TB00893;3+;Negatif;ONT;Yes
+TB00894;Scanty;Negatif;ONT;Yes
+TB00905;Scanty;Positif;ONT;Yes
+TB00906;3+;Negatif;ONT;Yes
+TB00907;Scanty;Negatif;ONT;Yes
+TB00909;3+;Negatif;ONT;Yes
+TB00911;2+;Negatif;ONT;Yes
+TB00928;Scanty;Negatif;ONT;Yes
+TB00929;Scanty;Negatif;ONT;Yes
+TB00930;Scanty;Negatif;ONT;Yes
+TB00931;Scanty;Negatif;ONT;No
+TB00932;Scanty;Negatif;ONT;Yes
+TB00939;Scanty;Negatif;ONT;Yes
+TB00940;3+;Negatif;ONT;Yes
+TB00945;1+;Negatif;ONT;Yes
+TB00946;Scanty;Negatif;ONT;Yes
+TB00950;2+;Negatif;ONT;Yes
+TB00951;2+;Negatif;ONT;Yes
+TB00952;1+;Negatif;ONT;Yes
+TB00953;Scanty;Negatif;ONT;No
+TB00954;Scanty;Negatif;ONT;No
+TB00955;Scanty;Negatif;ONT;Yes
+TB00963;Scanty;Negatif;ONT;No
+TB00965;Scanty;Negatif;ONT;Yes
+TB00967;Not tested;Negatif;ONT;Yes
+TB00970;3+;Negatif;ONT;Yes
+TB00972;1+;Negatif;ONT;Yes
+TB00973;1+;Negatif;ONT;Yes
+TB00974;3+;Negatif;ONT;Yes
+TB00975;Neg;Negatif;ONT;No
+TB00976;Scanty;Negatif;ONT;No
+TB00977;3+;Negatif;ONT;Yes
+TB00978;2+;Negatif;ONT;Yes
+TB00979;1+;Negatif;ONT;Yes
+TB00980;Scanty;Negatif;ONT;Yes
+TB00981;3+;Positif;ONT;Yes
+TB00986;Scanty;Negatif;ONT;Yes
+TB00987;2+;Negatif;ONT;Yes
+TB00988;Scanty;Positif;ONT;Yes
+TB00989;Scanty;Negatif;ONT;No
+TB00993;Scanty;Negatif;ONT;No
+TB00995;Scanty;Negatif;ONT;Yes
+TB00996;2+;Negatif;ONT;Yes
+TB00997;3+;Negatif;ONT;Yes
+TB00998;Scanty;Negatif;ONT;No
+TB00999;Scanty;Negatif;ONT;Yes
+TB01002;1+;Negatif;ONT;Yes
+TB01003;Scanty;Negatif;ONT;Yes
+TB01005;1+;Negatif;ONT;Yes
+TB01006;3+;Negatif;ONT;Yes
+TB01007;Scanty;Negatif;ONT;Yes
+TB01008;1+;Negatif;ONT;Yes
+TB01009;Scanty;Negatif;ONT;Yes
+TB01010;2+;Negatif;ONT;Yes
+TB01011;1+;Negatif;ONT;Yes
+TB01013;1+;Negatif;ONT;Yes
+TB01014;1+;Negatif;ONT;No
+TB01015;Scanty;Negatif;ONT;No
+TB01016;3+;Negatif;ONT;Yes
+TB01019;Scanty;Negatif;ONT;Yes
+TB01024;Scanty;Negatif;ONT;No
+TB01025;2+;Negatif;ONT;Yes
+TB01026;Scanty;;GS;Yes
+TB01027;Scanty;Negatif;ONT;No
+TB01028;Neg;Negatif;ONT;No
+TB01029;Neg;Negatif;ONT;No
+TB01030;1+;Negatif;ONT;Yes
+TB01033;Scanty;Negatif;ONT;Yes
+TB01034;1+;Negatif;ONT;Yes
+TB01035;Scanty;Negatif;ONT;Yes
+TB01036;Scanty;no data;GS;No
+TB01037;No Data;;GS;Yes
+TB01040;Scanty;Negatif;ONT;Yes
+TB01041;3+;Negatif;ONT;Yes
+TB01045;1+;Negatif;ONT;Yes
+TB01053;1+;;GS;Yes
+TB01055;3+;;GS;Yes
+TB01059;2+;Negatif;ONT;Yes
+TB01060;Scanty;Negatif;ONT;Yes
+TB01065;2+;Negatif;ONT;No
+TB01089;2+;Negatif;ONT;Yes
+TB01090;1+;Negatif;ONT;Yes
+TB01090;Scanty;no data;GS;No
+TB01092;Scanty;Negatif;ONT;Yes
+TB01093;Scanty;Negatif;ONT;No
+TB01094;1+;Negatif;ONT;Yes
+TB01103;2+;Negatif;ONT;Yes
+TB01116;2+;Negatif;ONT;Yes
+TB01122;Scanty;Negatif;ONT;No
+TB01124;1+;Negatif;ONT;No
+TB01125;Scanty;Negatif;ONT;Yes
+TB01126;Neg;Negatif;ONT;No
+TB01127;Scanty;Negatif;ONT;Yes
+TB01128;Scanty;Negatif;ONT;Yes
+TB01129;Scanty;Negatif;ONT;Yes
+TB01130;Neg;Negatif;ONT;No
+TB01131;Scanty;Negatif;ONT;No
+TB01132;3+;Negatif;ONT;Yes
+TB01133;2+;Negatif;ONT;Yes
+TB01134;Neg;Negatif;ONT;Yes
+TB01135;Scanty;Negatif;ONT;Yes
+TB01136;3+;Negatif;ONT;Yes
+TB01137;2+;Negatif;ONT;Yes
+TB01138;1+;Negatif;ONT;Yes
+TB01139;Scanty;Negatif;ONT;Yes
+TB01140;Scanty;Negatif;ONT;No
+TB01141;Scanty;Negatif;ONT;No
+TB01142;2+;Negatif;ONT;Yes
+TB01143;2+;Negatif;ONT;Yes
+TB01147;1+;Negatif;ONT;No
+TB01149;Scanty;Negatif;ONT;Yes
+TB01150;Scanty;Negatif;ONT;No
+TB01151;Neg;Negatif;ONT;No
+TB01152;Scanty;Negatif;ONT;No
+TB01153;1+;Negatif;ONT;Yes
+TB01154;Scanty;Negatif;ONT;No
+TB01155;Neg;Negatif;ONT;Yes
+TB01156;1+;Negatif;ONT;Yes
+TB01157;2+;Negatif;ONT;Yes
+TB01158;Neg;Negatif;ONT;Yes
+TB01159;1+;Negatif;ONT;Yes
+TB01160;2+;Negatif;ONT;Yes
+TB01161;Scanty;Negatif;ONT;No
+TB01162;1+;Negatif;ONT;Yes
+TB01163;3+;Negatif;ONT;Yes
+TB01164;Neg;Negatif;ONT;No
+TB01165;3+;Negatif;ONT;Yes
+TB01167;3+;Negatif;ONT;Yes
+TB01168;2+;Negatif;ONT;Yes
+TB01169;2+;Negatif;ONT;Yes
+TB01171;2+;Negatif;ONT;Yes
+TB01172;3+;Negatif;ONT;Yes
+TB01173;Neg;Negatif;ONT;No
+TB01174;Scanty;Negatif;ONT;Yes
+TB01175;1+;Negatif;ONT;Yes
+TB01176;1+;Negatif;ONT;Yes
+TB01177;1+;Negatif;ONT;Yes
+TB01178;Neg;Negatif;ONT;No
+TB01179;Neg;Negatif;ONT;No
+TB01180;3+;Negatif;ONT;Yes
+TB01181;3+;Negatif;ONT;Yes
+TB01182;1+;Negatif;ONT;Yes
+TB01183;1+;Negatif;ONT;Yes
+TB01184;Scanty;Negatif;ONT;No
+TB01185;3+;Negatif;ONT;Yes
+TB01186;3+;Negatif;ONT;Yes
+TB01187;1+;Negatif;ONT;Yes
+TB01188;Not tested;Negatif;ONT;No
+TB01189;Scanty;Negatif;ONT;No
+TB01192;2+;Negatif;ONT;Yes
+TB01193;1+;Negatif;ONT;Yes
+TB01194;Scanty;Negatif;ONT;Yes
+TB01195;3+;Negatif;ONT;Yes
+TB01196;Scanty;Negatif;ONT;Yes
+TB01197;Neg;Negatif;ONT;No
+TB01198;Scanty;Negatif;ONT;No
+TB01199;2+;Negatif;ONT;Yes
+TB01200;2+;Negatif;ONT;Yes
+TB01202;2+;Negatif;ONT;Yes
+TB01204;2+;Negatif;ONT;Yes
+TB01247;3+;Negatif;ONT;Yes
+TB01248;Scanty;Negatif;ONT;No
+TB01249;Not tested;Negatif;ONT;Yes
+TB01250;Scanty;Negatif;ONT;Yes
+TB01251;Neg;Negatif;ONT;No
+TB01252;2+;Negatif;ONT;Yes
+TB01253;Scanty;Negatif;ONT;Yes
+TB01254;3+;Negatif;ONT;Yes
+TB01255;3+;Positif;ONT;Yes
+TB01256;1+;Negatif;ONT;Yes
+TB01257;1+;Negatif;ONT;Yes
+TB01258;1+;Negatif;ONT;No
+TB01259;2+;Negatif;ONT;No
+TB01260;3+;Negatif;ONT;No
+TB01261;Neg;Negatif;ONT;Yes
+TB01262;Neg;Negatif;ONT;No
+TB01263;Scanty;Negatif;ONT;Yes
+TB01265;3+;Negatif;ONT;Yes
+TB01266;3+;Negatif;ONT;Yes
+TB01267;Scanty;Negatif;ONT;No
+TB01268;Scanty;Negatif;ONT;No
+TB01269;1+;Negatif;ONT;Yes
+TB01270;3+;Negatif;ONT;Yes
+TB01271;3+;Negatif;ONT;Yes
+TB01272;1+;Negatif;ONT;Yes
+TB01273;Scanty;Negatif;ONT;Yes
+TB01274;Scanty;Negatif;ONT;No
+TB01275;Scanty;Negatif;ONT;Yes
+TB01277;Scanty;Negatif;ONT;No
+TB01278;1+;Negatif;ONT;No
+TB01279;Neg;Negatif;ONT;No
+TB01280;Scanty;no data;GS;No
+TB01281;Scanty;;GS;Yes
+TB01282;3+;;GS;Yes
+TB01286;3+;Negatif;ONT;Yes
+TB01287;3+;Negatif;ONT;Yes
+TB01288;1+;Negatif;ONT;Yes
+TB01289;1+;Negatif;ONT;Yes
+TB01290;1+;Negatif;ONT;No
+TB01291;2+;Negatif;ONT;Yes
+TB01292;Neg;Negatif;ONT;No
+TB01293;3+;Negatif;ONT;Yes
+TB01294;Neg;Negatif;ONT;No
+TB01295;3+;Negatif;ONT;Yes
+TB01296;3+;Negatif;ONT;Yes
+TB01297;1+;Negatif;ONT;Yes
+TB01298;3+;Negatif;ONT;Yes
+TB01299;1+;Negatif;ONT;Yes
+TB01300;Scanty;Negatif;ONT;No
+TB01301;Scanty;Negatif;ONT;Yes
+TB01302;Scanty;Negatif;ONT;Yes
+TB01303;1+;Negatif;ONT;Yes
+TB01304;1+;Negatif;ONT;Yes
+TB01305;1+;Negatif;ONT;Yes
+TB01306;Scanty;Negatif;ONT;No
+TB01311;1+;Negatif;ONT;Yes
+TB01312;2+;Negatif;ONT;Yes
+TB01313;3+;Negatif;ONT;Yes
+TB01315;3+;Positif;ONT;No
+TB01316;Scanty;Negatif;ONT;No
+TB01317;No Data;Negatif;ONT;No
+TB01318;Scanty;Negatif;ONT;No
+TB01319;1+;Negatif;ONT;No
+TB01320;Not tested;Negatif;ONT;No
+TB01325;Scanty;Negatif;ONT;Yes
+TB01334;3+;Negatif;ONT;Yes
+TB01336;Scanty;Negatif;ONT;No
+TB01337;3+;Negatif;ONT;Yes
+TB01339;1+;Negatif;ONT;No
+TB01342;Scanty;Negatif;ONT;No
+TB01343;1+;Negatif;ONT;Yes
+TB01345;3+;Negatif;ONT;Yes
+TB01348;2+;Negatif;ONT;No
+TB01350;3+;Negatif;ONT;Yes
+TB01353;3+;Negatif;ONT;Yes
+TB01354;3+;Negatif;ONT;Yes
+TB01357;Neg;no data;GS;No
+TB01361;Neg;;GS;Yes
+TB01367;No Data;no data;GS;Yes
+TB01370;No Data;no data;GS;No
+TB01373;No Data;no data;GS;Yes
+TB01374;No Data;;GS;Yes
+TB01376;Neg;;GS;Yes
+TB01380;1+;Negatif;ONT;Yes
+TB01383;1+;Negatif;ONT;Yes
+TB01385;1+;Negatif;ONT;Yes
+TB01386;3+;Negatif;ONT;Yes
+TB01391;Scanty;Negatif;ONT;Yes
+TB01398;3+;;GS;Yes
+TB01399;Scanty;;GS;Yes
+TB01405;Not tested;;GS;Yes
+TB01407;No Data;no data;GS;Yes
+TB01408;No Data;;GS;Yes
+TB01411;No Data;no data;GS;Yes
+TB01413;No Data;no data;GS;Yes
+TB01416;No Data;no data;GS;Yes
+TB01417;No Data;no data;GS;Yes
+TB01418;No Data;no data;GS;Yes
+TB01419;Scanty;no data;GS;No
+TB01420;1+;;GS;Yes
+TB01421;No Data;no data;GS;No
+TB01423;No Data;;GS;Yes
+TB01426;No Data;no data;GS;No
+TB01427;No Data;no data;GS;Yes
+TB01428;1+;no data;GS;No
+TB01437;No Data;no data;GS;Yes
+TB01439;No Data;no data;GS;Yes
+TB01444;Scanty;no data;GS;No
+TB01445;Scanty;;GS;Yes
+TB01446;1+;no data;GS;No
+TB01447;1+;;GS;Yes
+TB01448;Scanty;no data;GS;No
+TB01450;1+;;GS;Yes
+TB01451;Scanty;Negatif;GS;No
+TB01452;No Data;no data;GS;No
+TB01453;No Data;;GS;Yes
+TB01454;No Data;no data;GS;No
+TB01455;No Data;;GS;Yes
+TB01457;2+;;GS;Yes
+TB01458;1+;;GS;Yes
+TB01459;3+;;GS;Yes
+TB01460;No Data;;GS;Yes
+TB01462;No Data;;GS;Yes
+TB01463;No Data;;GS;Yes
+TB01465;No Data;no data;GS;No
+TB01466;No Data;;GS;Yes
+TB01467;Not tested;no data;GS;No
+TB01469;No Data;;GS;Yes
+TB01470;No Data;;GS;Yes
+TB01471;3+;;GS;Yes
+TB01473;No Data;no data;GS;No
+TB01474;2+;;GS;Yes
+TB01475;No Data;;GS;Yes
+TB01476;No Data;;GS;Yes
+TB01477;No Data;;GS;Yes
+TB01478;No Data;no data;GS;No
+TB01480;2+;;GS;Yes
+TB01481;2+;;GS;Yes
+TB01482;3+;;GS;Yes
+TB01486;2+;;GS;Yes
+TB01487;2+;;GS;Yes
+TB01488;Scanty;Negatif;GS;Yes
+TB01490;No Data;;GS;Yes
+TB01491;Scanty;;GS;Yes
+TB01492;No Data;;GS;Yes
+TB01493;No Data;;GS;Yes
+TB01494;No Data;;GS;Yes
+TB01495;No Data;;GS;Yes
+TB01496;No Data;;GS;Yes
+TB01497;No Data;;GS;Yes
+TB01498;Scanty;Negatif;GS;Yes
+TB01499;Scanty;Negatif;GS;Yes
+TB01501;Not tested;Negatif;ONT;Yes
+TB01502;Not tested;Negatif;ONT;Yes
+TB01503;Not tested;Negatif;ONT;Yes
+TB01504;Not tested;Negatif;ONT;Yes
+TB01505;Not tested;Negatif;ONT;Yes
+TB01506;Not tested;Negatif;ONT;No
+TB01507;Not tested;Negatif;ONT;Yes
+TB01508;Not tested;Negatif;ONT;No
+TB01509;Not tested;Negatif;ONT;No
+TB01510;Not tested;Negatif;ONT;Yes
+TB01511;Not tested;Negatif;GS;No
+TB01512;Not tested;Negatif;GS;No
+TB01513;Not tested;Negatif;ONT;Yes
+TB01514;Not tested;Negatif;ONT;Yes
+TB01515;Not tested;Negatif;ONT;Yes
+TB01516;Not tested;Negatif;ONT;Yes
+TB01517;Not tested;Negatif;ONT;Yes
+TB01518;Not tested;Negatif;ONT;Yes
+TB01519;Not tested;Negatif;ONT;Yes
+TB01520;Not tested;Negatif;ONT;Yes
+TB01521;Not tested;Negatif;ONT;Yes
+TB01522;Not tested;Negatif;ONT;Yes
+TB01523;Not tested;Negatif;ONT;Yes
+TB01524;Not tested;Negatif;ONT;Yes
+TB01525;Not tested;Negatif;ONT;Yes
+TB01526;Not tested;Negatif;ONT;Yes
+TB01527;Not tested;Negatif;ONT;Yes
+TB01528;Not tested;Negatif;ONT;No
+TB01529;Not tested;Negatif;ONT;Yes
+TB01530;Not tested;Negatif;ONT;Yes
+TB01531;Not tested;Negatif;ONT;Yes
+TB01532;Not tested;Negatif;ONT;Yes
+TB01533;Not tested;Negatif;ONT;Yes
+TB01534;Not tested;Negatif;ONT;No
+TB01535;Not tested;Negatif;ONT;No
+TB01536;Not tested;Negatif;ONT;No
+TB01537;Not tested;Negatif;ONT;No
+TB01538;Not tested;Negatif;ONT;No
+TB01539;Not tested;Negatif;ONT;No
+TB01540;Not tested;Negatif;ONT;No
+TB01541;Not tested;Negatif;ONT;No
+TB01542;Not tested;Negatif;ONT;No
+TB01543;Not tested;Negatif;ONT;No
+TB01544;Not tested;Negatif;ONT;No
+TB01545;Not tested;Negatif;ONT;No
+TB01546;Not tested;Negatif;ONT;No
+TB01547;1+;Negatif;ONT;Yes
+TB01548;Neg;Negatif;ONT;Yes
+TB01549;Neg;Negatif;ONT;Yes
+TB01550;Neg;Negatif;ONT;Yes
+TB01551;Neg;Negatif;ONT;Yes
+TB01552;Neg;Negatif;ONT;Yes
+TB01553;1+;Negatif;ONT;Yes
+TB01554;Neg;Negatif;ONT;Yes
+TB01555;3+;Negatif;ONT;Yes
+TB01556;3+;Negatif;ONT;Yes
+TB01557;1+;Negatif;ONT;Yes
+TB01558;Neg;Negatif;ONT;Yes
+TB01559;Scanty;Negatif;ONT;Yes
+TB01560;Neg;Negatif;ONT;Yes
+TB01561;Neg;Negatif;ONT;Yes
+TB01562;1+;Negatif;ONT;Yes
+TB01563;Neg;Negatif;ONT;Yes
+TB01564;1+;Negatif;ONT;Yes
+TB01565;2+;Negatif;ONT;No
+TB01566;2+;Negatif;ONT;Yes
+TB01567;Neg;Negatif;ONT;No
+TB01568;1+;Negatif;ONT;Yes
+TB01569;3+;Negatif;ONT;Yes
+TB01570;3+;Negatif;ONT;No
+TB01571;Neg;Negatif;ONT;No
+TB01572;Scanty;Negatif;ONT;Yes
+TB01573;Neg;Negatif;ONT;No
+TB01574;Neg;Negatif;ONT;No
+TB01575;Neg;Negatif;ONT;No
+TB01576;Neg;Negatif;ONT;No
+TB01577;Neg;Negatif;ONT;No
+TB01578;Neg;Negatif;ONT;No
+TB01579;3+;Negatif;ONT;No
+TB01580;Neg;Negatif;ONT;No
+TB01581;1+;Negatif;ONT;Yes
+TB01582;1+;Negatif;ONT;Yes
+TB01583;2+;Negatif;ONT;Yes
+TB01584;2+;Negatif;ONT;No
+TB01585;3+;Negatif;ONT;Yes
+TB01586;Neg;Negatif;ONT;No
+TB01587;Not tested;Negatif;ONT;Yes
+TB01588;Scanty;Negatif;ONT;No
+TB01589;3+;Negatif;ONT;No
+TB01590;3+;Negatif;ONT;No
+TB01591;Neg;Negatif;ONT;Yes
+TB01592;1+;Negatif;ONT;No
+TB01593;Not tested;Negatif;ONT;Yes
+TB01594;Neg;Negatif;ONT;No
+TB01595;Not tested;Negatif;ONT;No
+TB01596;Scanty;Negatif;ONT;No
+TB01597;Neg;Negatif;ONT;No
+TB01598;2+;Negatif;ONT;Yes
+TB01599;2+;Negatif;ONT;No
+TB01600;Neg;Negatif;ONT;No
+TB01601;Neg;Negatif;ONT;No
+TB01602;Neg;Negatif;ONT;No
+TB01603;Neg;Negatif;ONT;No
+TB01604;2+;Negatif;ONT;No
+TB01605;2+;Negatif;ONT;No
+TB01606;Scanty;Negatif;ONT;No
+TB01607;2+;Negatif;ONT;Yes
+TB01608;2+;Negatif;ONT;No
+TB01609;1+;Negatif;ONT;No
+TB01611;2+;Negatif;ONT;No
+TB01613;1+;Negatif;ONT;No
+TB01614;Neg;Negatif;ONT;No
+TB01615;Neg;Negatif;ONT;No
+TB01616;Neg;Negatif;ONT;No
+TB01617;Neg;Negatif;ONT;No
+TB01618;Neg;Negatif;ONT;No
+TB01619;Neg;Negatif;ONT;No
+TB01620;Neg;Negatif;ONT;No
+TB01621;Neg;Negatif;ONT;No
+TB01622;Neg;Negatif;ONT;No
+TB01623;3+;Negatif;ONT;No
+TB01624;Neg;Negatif;ONT;No
+TB01625;3+;Negatif;ONT;No
+TB01626;Neg;Negatif;ONT;No
+TB01627;Scanty;Negatif;ONT;No
+TB01628;Neg;Negatif;ONT;No
+TB01629;1+;Negatif;ONT;No
+TB01630;1+;Negatif;ONT;No
+TB01630;No Data;;GS;Yes
+TB01631;Neg;Negatif;ONT;No
+TB01632;Neg;Negatif;ONT;No
+TB01633;1+;Negatif;ONT;No
+TB01634;2+;Negatif;ONT;No
+TB01635;Neg;Negatif;ONT;No
+TB01636;2+;Negatif;ONT;No
+TB01637;Neg;Negatif;ONT;Yes
+TB01638;Neg;Negatif;ONT;No
+TB01639;3+;Negatif;ONT;No
+TB01640;1+;Negatif;ONT;No
+TB01641;Neg;Negatif;ONT;No
+TB01642;1+;Negatif;ONT;No
+TB01643;1+;Negatif;ONT;No
+TB01644;Neg;Negatif;ONT;No
+TB01645;Neg;Negatif;ONT;No
+TB01646;Neg;Negatif;ONT;No
+TB01647;Neg;Negatif;ONT;No
+TB01648;Neg;Negatif;ONT;No
+TB01649;Scanty;Negatif;ONT;No
+TB01650;Neg;Negatif;ONT;No
+TB01651;Neg;Negatif;ONT;No
+TB01652;Neg;Negatif;ONT;No
+TB01653;Neg;Negatif;ONT;No
+TB01654;2+;Negatif;ONT;No
+TB01655;Neg;Negatif;ONT;No
+TB01656;Neg;Negatif;ONT;No
+TB01657;2+;Negatif;ONT;No
+TB01658;1+;Positif;ONT;No
+TB01659;1+;Negatif;ONT;No
+TB01661;2+;Negatif;ONT;No
+TB01662;1+;Negatif;ONT;No
+TB01663;Neg;Negatif;ONT;No
+TB01664;Neg;Negatif;ONT;No
+TB01665;Neg;Negatif;ONT;No
+TB01666;Neg;Negatif;ONT;No
+TB01667;1+;Negatif;ONT;No
+TB01668;Neg;Negatif;ONT;No
+TB01669;Neg;Negatif;ONT;No
+TB01670;2+;Negatif;ONT;No
+TB01671;Neg;Positif;ONT;No
+TB01672;Neg;Negatif;ONT;No
+TB01673;3+;Negatif;ONT;No
+TB01674;Neg;Negatif;ONT;No
+TB01675;2+;Negatif;ONT;No
+TB01676;1+;Negatif;ONT;No
+TB01677;Neg;Negatif;ONT;No
+TB01678;Neg;Negatif;ONT;No
+TB01679;1+;Negatif;ONT;No
+TB01680;Neg;Negatif;ONT;No
+TB01681;3+;Negatif;ONT;No
+TB01682;Neg;Negatif;ONT;No
+TB01683;Neg;Positif;ONT;No
+TB01684;2+;Negatif;ONT;No
+TB01685;2+;Negatif;ONT;No
+TB01686;Neg;Negatif;ONT;No
+TB01687;3+;Negatif;ONT;No
+TB01688;1+;Negatif;ONT;No
+TB01689;Neg;Negatif;ONT;No
+TB01690;Neg;Negatif;ONT;No
+TB01691;Neg;Negatif;ONT;No
+TB01692;Neg;Negatif;ONT;No
+TB01693;Neg;Negatif;ONT;No
+TB01694;Neg;Negatif;ONT;No
+TB01695;Scanty;Negatif;ONT;No
+TB01696;Neg;Negatif;ONT;No
+TB01697;1+;Negatif;ONT;No
+TB01698;1+;Negatif;ONT;No
+TB01701;Scanty;Negatif;ONT;No
+TB01702;1+;Negatif;ONT;No
+TB01703;2+;Negatif;ONT;No
+TB01704;Neg;Negatif;ONT;No
+TB01705;1+;Negatif;ONT;No
+TB01706;3+;Negatif;ONT;No
+TB01707;1+;Negatif;ONT;No
+TB01708;1+;Negatif;ONT;No
+TB01709;Neg;Negatif;ONT;No
+TB01710;1+;Negatif;ONT;No
+TB01711;Neg;Negatif;ONT;No
+TB01712;3+;Negatif;ONT;No
+TB01713;2+;Negatif;ONT;No
+TB01714;Neg;Negatif;ONT;No
+TB01715;1+;Negatif;ONT;No
+TB01716;2+;Negatif;ONT;No
+TB01717;3+;Negatif;ONT;No
+TB01718;Neg;Negatif;GS;Yes
+TB01719;Neg;Negatif;GS;Yes
+TB01720;Neg;Negatif;ONT;No
+TB01721;Neg;Negatif;GS;No
+TB01722;3+;Negatif;ONT;Yes
+TB01723;1+;Negatif;ONT;Yes
+TB01724;Scanty;Negatif;GS;Yes
+TB01725;1+;Negatif;GS;No
+TB01726;Neg;Negatif;GS;No
+TB01727;Neg;Negatif;GS;No
+TB01728;Neg;Negatif;GS;No
+TB01729;Neg;Negatif;GS;Yes
+TB01730;Neg;Negatif;GS;No
+TB01731;Neg;Negatif;GS;Yes
+TB01732;Neg;Negatif;GS;Yes
+TB01733;2+;Negatif;GS;No
+TB01734;Neg;Negatif;GS;No
+TB01735;Neg;Negatif;GS;No
+TB01736;Neg;Negatif;GS;Yes
+TB01737;2+;Negatif;GS;No
+TB01738;2+;Negatif;ONT;Yes
+TB01739;2+;Negatif;ONT;Yes
+TB01740;3+;Negatif;ONT;Yes
+TB01741;1+;Negatif;ONT;Yes
+TB01742;Neg;Negatif;GS;No
+TB01743;Neg;Negatif;ONT;No
+TB01744;3+;Negatif;GS;No
+TB01745;3+;Negatif;ONT;No
+TB01746;1+;Negatif;GS;No
+TB01747;Scanty;Negatif;GS;No
+TB01748;Neg;Negatif;GS;No
+TB01749;1+;Negatif;GS;No
+TB01750;2+;Negatif;ONT;No
+TB01751;1+;Negatif;GS;No
+TB01752;Neg;Negatif;GS;Yes
+TB01753;1+;Negatif;ONT;Yes
+TB01754;3+;Negatif;ONT;Yes
+TB01755;3+;Negatif;ONT;Yes
+TB01756;3+;Negatif;ONT;Yes
+TB01757;3+;Negatif;ONT;Yes
+TB01758;1+;Negatif;ONT;No
+TB01759;3+;Negatif;ONT;Yes
+TB01760;Neg;Negatif;ONT;Yes
+TB01761;Neg;Positif;GS;No
+TB01762;3+;Negatif;ONT;No
+TB01763;2+;Negatif;ONT;No
+TB01764;1+;Negatif;GS;No
+TB01765;2+;Negatif;ONT;Yes
+TB01766;Neg;Negatif;GS;No
+TB01767;3+;Negatif;ONT;Yes
+TB01768;Neg;Negatif;GS;Yes
+TB01769;Neg;Negatif;GS;No
+TB01770;1+;Positif;ONT;Yes
+TB01771;Neg;Negatif;GS;Yes
+TB01772;Neg;Negatif;GS;Yes
+TB01773;Neg;Negatif;GS;Yes
+TB01774;1+;no data;GS;No
+TB01775;Neg;Negatif;ONT;No
+TB01776;3+;Negatif;ONT;No
+TB01777;Neg;Negatif;ONT;No
+TB01778;1+;Negatif;ONT;No
+TB01779;Neg;Negatif;ONT;No
+TB01780;Neg;Negatif;ONT;No
+TB01781;Neg;Negatif;ONT;No
+TB01782;Neg;Negatif;ONT;No
+TB01783;1+;Negatif;ONT;No
+TB01784;Neg;Negatif;ONT;No
+TB01785;3+;Negatif;ONT;No
+TB01786;Neg;Negatif;ONT;No
+TB01787;Neg;Negatif;ONT;No
+TB01788;Neg;Negatif;ONT;No
+TB01789;1+;Negatif;ONT;No
+TB01790;1+;Negatif;ONT;No
+TB01791;Neg;Negatif;ONT;No
+TB01792;1+;Negatif;ONT;No
+TB01793;1+;Negatif;ONT;No
+TB01794;Neg;Negatif;ONT;No
+TB01795;Scanty;Positif;ONT;No
+TB01796;2+;Negatif;ONT;No
+TB01797;Neg;Negatif;GS;Yes
+TB01798;1+;no data;GS;No
+TB01799;1+;Negatif;GS;Yes
+TB01800;1+;Negatif;GS;No
+TB01801;1+;Negatif;GS;Yes
+TB01802;Neg;Negatif;GS;Yes
+TB01803;2+;Negatif;GS;No
+TB01804;Neg;Negatif;GS;Yes
+TB01805;1+;Negatif;GS;No
+TB01806;Neg;Negatif;GS;No
+TB01807;2+;Negatif;GS;Yes
+TB01808;3+;no data;GS;No
+TB01809;Neg;;GS;Yes
+TB01810;1+;;GS;Yes
+TB01811;Neg;;GS;Yes
+TB01812;Neg;no data;GS;No
+TB01813;3+;;GS;Yes
+TB01814;Neg;no data;GS;No
+TB01815;Neg;no data;GS;No
+TB01816;3+;no data;GS;No
+TB01817;Neg;no data;GS;No
+TB01818;Neg;;GS;Yes
+TB01819;Neg;no data;GS;No
+TB01820;Neg;;GS;Yes
+TB01821;Neg;;GS;Yes
+TB01822;No Data;no data;GS;No
+TB01823;Neg;;GS;Yes
+TB01824;1+;;GS;Yes
+TB01825;Neg;;GS;Yes
+TB01826;Neg;no data;GS;No
+TB01827;Neg;;GS;Yes
+TB01828;2+;;GS;Yes
+TB01829;Neg;;GS;Yes
+TB01830;3+;;GS;Yes
+TB01831;2+;;GS;Yes
+TB01832;Neg;;GS;Yes
+TB01833;2+;no data;GS;No
+TB01834;2+;;GS;Yes
+TB01835;Neg;no data;GS;No
+TB01837;Neg;no data;GS;No
+TB01838;Neg;;GS;Yes
+TB01839;1+;;GS;Yes
+TB01840;Neg;no data;GS;No
+TB01841;1+;;GS;Yes
+TB01842;Neg;no data;GS;No
+TB01843;No Data;;GS;Yes
+TB01844;No Data;no data;GS;No
+TB01845;No Data;;GS;Yes
+TB01846;No Data;no data;GS;No
+TB01847;No Data;no data;GS;No
+TB01848;No Data;;GS;Yes
+TB01849;No Data;no data;GS;No
+TB01850;No Data;;GS;Yes
+TB01851;No Data;no data;GS;No
+TB01853;No Data;;GS;Yes
+TB01857;No Data;no data;GS;No
+TB01858;No Data;;GS;Yes
+TB01861;No Data;;GS;Yes
+TB01862;No Data;;GS;Yes
+TB01864;No Data;no data;GS;No
+TB01865;No Data;no data;GS;No
+TB01866;2+;;GS;Yes
+TB01869;3+;;GS;Yes
+TB01872;No Data;no data;GS;No
+TB01873;Scanty;;GS;Yes
+TB01874;1+;;GS;Yes
+TB01875;2+;;GS;Yes
+TB01876;No Data;;GS;Yes
+TB01877;No Data;no data;GS;No
+TB01878;No Data;;GS;Yes
+TB01879;1+;;GS;Yes
+TB01880;No Data;no data;GS;No
+TB01881;No Data;no data;GS;No
+TB01882;3+;;GS;Yes
+TB01883;2+;no data;GS;No
+TB01885;3+;;GS;Yes
+TB01886;No Data;no data;GS;No
+TB01887;No Data;;GS;Yes
+TB01888;2+;;GS;Yes
+TB01889;No Data;no data;GS;No
+TB01890;3+;;GS;Yes
+TB01891;2+;;GS;Yes
+TB01893;1+;;GS;Yes
+TB01896;2+;;GS;Yes
+TB01897;No Data;no data;GS;No
+TB01898;No Data;no data;GS;No
+TB01901;No Data;no data;GS;No
+TB01902;3+;;GS;Yes
+TB01903;3+;;GS;Yes
+TB01905;No Data;;GS;Yes
+TB01908;2+;no data;GS;No
+TB01909;2+;;GS;Yes
+TB01910;2+;;GS;Yes
+TB01911;No Data;;GS;Yes
+TB01912;No Data;no data;GS;No
+TB01915;2+;no data;GS;No
+TB01917;No Data;no data;GS;No
+TB01919;No Data;;GS;Yes
+TB01920;1+;;GS;Yes
+TB01921;No Data;;GS;Yes
+TB01924;No Data;;GS;Yes
+TB01926;No Data;;GS;Yes
+TB01928;No Data;;GS;Yes
+TB01930;No Data;no data;GS;Yes
+TB01931;No Data;;GS;Yes
+TB01932;No Data;;GS;Yes
+TB01934;No Data;;GS;Yes
+TB01938;No Data;no data;GS;No
+TB01939;No Data;;GS;Yes
+TB01940;No Data;;GS;Yes
+TB01941;No Data;;GS;Yes
+TB01942;No Data;;GS;Yes
+TB01945;No Data;;GS;Yes
+TB01947;No Data;;GS;Yes
+TB01948;No Data;;GS;Yes
+TB01949;No Data;;GS;Yes
+TB01953;No Data;;GS;Yes
+TB01955;No Data;;GS;Yes
+TB01957;No Data;;GS;Yes
+TB01958;No Data;;GS;Yes
+TB01959;No Data;;GS;Yes
+TB01960;No Data;;GS;Yes
+TB01961;No Data;;GS;Yes
+TB01962;No Data;;GS;Yes
+TB01962;No Data;;GS;Yes
+TB01963;No Data;;GS;Yes
+TB01964;No Data;;GS;Yes
+TB01968;No Data;no data;GS;No
+TB01970;No Data;;GS;Yes
+TB01971;No Data;;GS;Yes
+TB01972;No Data;;GS;Yes
+TB01979;No Data;;GS;Yes
+TB01980;No Data;;GS;Yes
+TB01981;No Data;;GS;Yes
+TB01983;No Data;no data;GS;No
+TB01986;No Data;no data;GS;No
+TB01987;No Data;no data;GS;Yes
+TB01988;No Data;no data;GS;No
+TB01989;No Data;no data;GS;No
+TB01990;No Data;no data;GS;No
+TB01991;No Data;no data;GS;Yes
+TB01992;No Data;;GS;Yes
+TB01993;No Data;;GS;Yes
+TB01994;No Data;no data;GS;No
+TB01995;No Data;no data;GS;No
+TB01996;No Data;no data;GS;No
+TB01997;No Data;;GS;Yes
+TB01999;No Data;;GS;Yes
+TB02005;No Data;no data;GS;Yes
+TB02006;No Data;;GS;Yes
+TB02009;No Data;no data;GS;No
+TB02014;No Data;;GS;Yes
+TB02016;No Data;no data;GS;No
+TB02017;No Data;;GS;Yes
+TB02021;No Data;;GS;Yes
+TB02023;No Data;;GS;Yes
+TB02024;No Data;;GS;Yes
+TB02026;No Data;;GS;Yes
+TB02032;No Data;;GS;Yes
+TB02033;No Data;;GS;Yes
+TB02037;No Data;;GS;Yes
+TB02041;No Data;;GS;Yes
+TB02042;No Data;;GS;Yes
+TB02044;No Data;;GS;Yes
+TB02048;No Data;;GS;Yes
+TB02055;No Data;;GS;Yes
+TB02060;No Data;;GS;Yes
+TB02062;No Data;;GS;Yes
+TB02064;No Data;no data;GS;No
+TB02065;No Data;;GS;Yes
+TB02067;No Data;no data;GS;No
+TB02070;No Data;;GS;Yes
+TB02101;3+;Negatif;ONT;Yes
+TB02102;2+;Negatif;ONT;Yes
+TB02103;Scanty;Negatif;ONT;Yes
+TB02104;3+;Negatif;ONT;Yes
+TB02105;2+;Negatif;ONT;Yes
+TB02107;1+;Negatif;ONT;Yes
+TB02108;Neg;Negatif;ONT;Yes
+TB02109;1+;Negatif;ONT;Yes
+TB02111;3+;Negatif;ONT;Yes
+TB02112;2+;Negatif;ONT;Yes
+TB02113;1+;Negatif;ONT;Yes
+TB02114;2+;Negatif;ONT;Yes
+TB02116;3+;Negatif;ONT;Yes
+TB02117;2+;Negatif;ONT;Yes
+TB02118;2+;Negatif;ONT;Yes
+TB02119;2+;Negatif;ONT;Yes
+TB02120;Neg;Negatif;ONT;Yes
+TB02121;Neg;Negatif;ONT;Yes
+TB02122;Neg;Negatif;ONT;Yes
+TB02123;2+;Negatif;ONT;Yes
+TB02124;2+;Negatif;ONT;Yes
+TB02125;1+;Negatif;ONT;Yes
+TB02126;Scanty;Negatif;ONT;Yes
+TB02127;Neg;Negatif;ONT;Yes
+TB02128;Scanty;Negatif;ONT;Yes
+TB02129;Neg;Negatif;ONT;Yes
+TB02130;Neg;Negatif;ONT;Yes
+TB02131;2+;Negatif;ONT;Yes
+TB02132;Neg;Negatif;ONT;Yes
+TB02133;Neg;Negatif;ONT;Yes
+TB02134;Neg;Negatif;ONT;Yes
+TB02135;1+;Negatif;ONT;Yes
+TB02136;1+;Negatif;ONT;Yes
+TB02137;2+;Negatif;ONT;Yes
+TB02138;1+;Negatif;ONT;Yes
+TB02139;2+;Negatif;ONT;Yes
+TB02140;Scanty;Negatif;ONT;Yes
+TB02141;Scanty;Negatif;ONT;Yes
+TB02142;3+;Negatif;ONT;Yes
+TB02143;2+;Negatif;ONT;Yes
+TB02144;2+;Negatif;ONT;Yes
+TB02145;3+;Negatif;ONT;Yes
+TB02146;2+;Negatif;ONT;Yes
+TB02147;1+;Negatif;ONT;Yes
+TB02148;1+;Negatif;ONT;Yes
+TB02149;Neg;Negatif;ONT;Yes
+TB02150;Neg;Negatif;ONT;Yes
+TB02151;2+;Negatif;ONT;Yes
+TB02152;2+;Negatif;ONT;Yes
+TB02153;Neg;Negatif;ONT;Yes
+TB02154;Neg;Negatif;ONT;Yes
+TB02155;Neg;Negatif;ONT;Yes
+TB02156;3+;Negatif;ONT;Yes
+TB02157;3+;Negatif;ONT;Yes
+TB02158;Neg;Negatif;ONT;Yes
+TB02159;Neg;Negatif;ONT;Yes
+TB02160;1+;Negatif;ONT;Yes
+TB02161;3+;Negatif;ONT;Yes
+TB02162;Neg;Negatif;ONT;Yes
+TB02163;2+;Negatif;ONT;Yes
+TB02164;Scanty;Negatif;ONT;Yes
+TB02165;Neg;Negatif;ONT;No
+TB02166;Neg;Negatif;ONT;No
+TB02167;2+;Negatif;ONT;Yes
+TB02168;Neg;Negatif;ONT;Yes
+TB02169;2+;Negatif;ONT;Yes
+TB02170;2+;Negatif;ONT;Yes
+TB02171;Neg;Positif;ONT;No
+TB02172;Neg;Negatif;ONT;No
+TB02173;2+;Negatif;ONT;Yes
+TB02174;Scanty;Negatif;ONT;Yes
+TB02175;1+;Negatif;ONT;Yes
+TB02176;1+;Negatif;ONT;Yes
+TB02177;Neg;Negatif;ONT;Yes
+TB02178;Neg;Negatif;ONT;No
+TB02179;Neg;Negatif;ONT;Yes
+TB02180;2+;Negatif;ONT;Yes
+TB02181;Neg;Negatif;ONT;Yes
+TB02182;1+;Negatif;ONT;Yes
+TB02183;Neg;Negatif;ONT;Yes
+TB02184;Scanty;Negatif;ONT;Yes
+TB02185;3+;Negatif;ONT;Yes
+TB02186;Neg;Negatif;ONT;Yes
+TB02187;1+;Negatif;ONT;No
+TB02188;3+;Negatif;ONT;No
+TB02189;2+;Negatif;ONT;Yes
+TB02190;Neg;Negatif;ONT;No
+TB02191;2+;Negatif;ONT;Yes
+TB02192;Neg;Negatif;ONT;No
+TB02193;Scanty;Negatif;ONT;No
+TB02194;2+;Negatif;ONT;Yes
+TB02195;Neg;Negatif;ONT;Yes
+TB02196;Neg;Negatif;ONT;No
+TB02197;3+;Negatif;ONT;Yes
+TB02198;Neg;Negatif;ONT;Yes
+TB02199;Neg;Negatif;ONT;No
+TB02200;3+;Negatif;ONT;Yes
+TB02201;Neg;Negatif;ONT;Yes
+TB02202;Neg;Negatif;ONT;Yes
+TB02203;Neg;Positif;ONT;No
+TB02204;Neg;Negatif;ONT;Yes
+TB02205;1+;Negatif;ONT;Yes
+TB02206;Neg;Negatif;ONT;Yes
+TB02207;3+;Negatif;ONT;Yes
+TB02208;Neg;Positif;ONT;Yes
+TB02209;Neg;Negatif;ONT;Yes
+TB02210;3+;Negatif;ONT;Yes
+TB02211;3+;Negatif;ONT;Yes
+TB02212;2+;Negatif;ONT;Yes
+TB02213;Neg;Negatif;ONT;No
+TB02214;Neg;Negatif;ONT;Yes
+TB02215;1+;Negatif;ONT;Yes
+TB02216;Neg;Negatif;ONT;Yes
+TB02217;Neg;Negatif;ONT;No
+TB02218;Neg;Negatif;ONT;No
+TB02219;2+;Negatif;ONT;Yes
+TB02220;3+;Negatif;ONT;Yes
+TB02221;3+;Negatif;ONT;Yes
+TB02222;Scanty;Negatif;ONT;Yes
+TB02223;Neg;Negatif;ONT;Yes
+TB02224;Neg;Negatif;ONT;Yes
+TB02225;Neg;Negatif;ONT;No
+TB02226;Neg;Negatif;ONT;No
+TB02227;3+;Negatif;ONT;Yes
+TB02228;1+;Negatif;ONT;Yes
+TB02229;3+;Negatif;ONT;Yes
+TB02230;Neg;Negatif;ONT;Yes
+TB02231;1+;Negatif;ONT;Yes
+TB02232;1+;Negatif;ONT;No
+TB02233;Neg;Negatif;ONT;Yes
+TB02234;Neg;Negatif;ONT;Yes
+TB02235;Neg;Negatif;ONT;No
+TB02236;2+;Negatif;ONT;Yes
+TB02237;2+;Negatif;ONT;Yes
+TB02238;Scanty;Negatif;ONT;Yes
+TB02239;2+;Negatif;ONT;Yes
+TB02240;2+;Negatif;ONT;Yes
+TB02241;Neg;Negatif;ONT;No
+TB02242;Scanty;Negatif;ONT;Yes
+TB02243;Neg;Negatif;ONT;Yes
+TB02244;Neg;Negatif;ONT;Yes
+TB02245;Scanty;Negatif;ONT;Yes
+TB02246;2+;Negatif;ONT;Yes
+TB02247;1+;Negatif;ONT;Yes
+TB02248;Neg;Negatif;ONT;Yes
+TB02249;2+;Negatif;ONT;Yes
+TB02250;1+;Negatif;ONT;Yes
+TB02251;1+;Negatif;ONT;Yes
+TB02252;2+;Negatif;ONT;Yes
+TB02253;Neg;Negatif;ONT;Yes
+TB02254;Neg;Negatif;ONT;Yes
+TB02255;Neg;Negatif;ONT;Yes
+TB02256;Neg;Negatif;ONT;No
+TB02257;2+;Negatif;ONT;Yes
+TB02258;Neg;Negatif;ONT;No
+TB02259;Neg;Negatif;ONT;No
+TB02260;2+;Negatif;ONT;Yes
+TB02261;Neg;Negatif;ONT;No
+TB02262;2+;Negatif;ONT;Yes
+TB02263;2+;Negatif;ONT;Yes
+TB02264;Scanty;Negatif;ONT;Yes
+TB02265;Neg;Negatif;ONT;Yes
+TB02266;Neg;Negatif;ONT;Yes
+TB02267;Neg;Negatif;ONT;Yes
+TB02268;3+;Negatif;ONT;Yes
+TB02269;2+;Negatif;ONT;Yes
+TB02270;Neg;Negatif;ONT;No
+TB02271;2+;Negatif;ONT;Yes
+TB02272;2+;Negatif;ONT;No
+TB02273;2+;Negatif;ONT;Yes
+TB02274;1+;Negatif;ONT;Yes
+TB02275;3+;Negatif;ONT;Yes
+TB02276;3+;Negatif;ONT;Yes
+TB02277;Neg;Negatif;ONT;Yes
+TB02278;Neg;Negatif;ONT;No
+TB02279;3+;Negatif;ONT;Yes
+TB02280;1+;Negatif;ONT;Yes
+TB02281;1+;Negatif;ONT;Yes
+TB02282;Neg;Negatif;ONT;Yes
+TB02283;3+;Negatif;ONT;Yes
+TB02284;Scanty;Negatif;ONT;Yes
+TB02285;2+;Negatif;ONT;Yes
+TB02286;2+;Negatif;ONT;Yes
+TB02287;Neg;Negatif;ONT;No
+TB02288;2+;Negatif;ONT;Yes
+TB02289;Scanty;Negatif;ONT;No
+TB02290;3+;Negatif;ONT;No
+TB02291;1+;Negatif;ONT;Yes
+TB02292;Scanty;Negatif;ONT;Yes
+TB02293;Scanty;Negatif;ONT;Yes
+TB02294;Neg;Negatif;ONT;No
+TB02295;1+;Negatif;ONT;Yes
+TB02541;2+;Negatif;ONT;No
+TB02543;Neg;Negatif;ONT;No
+TB02544;Neg;Negatif;ONT;No
+TB02545;3+;Negatif;ONT;Yes
+TB02546;Neg;Negatif;ONT;Yes
+TB02547;Neg;Negatif;ONT;Yes
+TB02548;3+;Negatif;ONT;Yes
+TB02549;Neg;Negatif;ONT;No
+TB02550;3+;Negatif;ONT;Yes
+TB02551;3+;Negatif;ONT;No
+TB02552;Neg;Positif;ONT;No
+TB02553;Neg;Negatif;ONT;No
+TB02554;Neg;Negatif;ONT;Yes
+TB02555;Neg;Negatif;ONT;No
+TB02556;2+;Negatif;ONT;No
+TB02557;2+;Negatif;ONT;Yes
+TB02558;2+;Negatif;ONT;No
+TB02559;3+;Negatif;ONT;Yes
+TB02560;2+;Negatif;ONT;Yes
+TB02561;3+;Negatif;ONT;Yes
+TB02562;3+;Negatif;ONT;Yes
+TB02563;Neg;Negatif;ONT;No
+TB02564;Scanty;Negatif;ONT;Yes
+TB02566;1+;Negatif;ONT;No
+TB02567;Neg;Negatif;ONT;No
+TB02568;Scanty;Negatif;ONT;Yes
+TB02569;2+;Negatif;ONT;Yes
+TB02570;1+;Negatif;ONT;No
+TB02571;Neg;Negatif;ONT;Yes
+TB02572;Neg;Negatif;ONT;No
+TB02573;Neg;Negatif;ONT;Yes
+TB02574;2+;Negatif;ONT;Yes
+TB02575;Neg;Negatif;ONT;Yes
+TB02576;3+;Negatif;ONT;Yes
+TB02577;Scanty;Negatif;ONT;Yes
+TB02579;Neg;Negatif;ONT;No
+TB02580;Scanty;Negatif;ONT;No
+TB02581;3+;Negatif;ONT;Yes
+TB02582;3+;Negatif;ONT;Yes
+TB02583;3+;Negatif;ONT;Yes
+TB02584;3+;Negatif;ONT;Yes
+TB02585;2+;Negatif;ONT;No
+TB02586;Not tested;Negatif;ONT;No
+TB02587;Neg;Positif;ONT;No
+TB02588;Neg;Negatif;ONT;No
+TB02589;Not tested;Negatif;ONT;No
+TB02590;1+;Negatif;ONT;No
+TB02591;Neg;Negatif;ONT;No
+TB02592;2+;Negatif;ONT;Yes
+TB02593;Scanty;Negatif;ONT;Yes
+TB02594;Scanty;Negatif;ONT;No
+TB02595;2+;Negatif;ONT;Yes
+TB02596;Neg;Negatif;ONT;No
+TB02597;1+;Negatif;ONT;No
+TB02598;Neg;Negatif;ONT;No
+TB02599;1+;Negatif;ONT;No
+TB02600;3+;Negatif;ONT;Yes
+TB02601;Neg;Negatif;ONT;No
+TB02602;1+;Negatif;ONT;Yes
+TB02603;Neg;Negatif;ONT;No
+TB02604;Neg;Negatif;ONT;No
+TB02605;2+;Negatif;ONT;No
+TB02606;Neg;Negatif;ONT;No
+TB02607;Neg;Negatif;ONT;No
+TB02608;Neg;Negatif;ONT;No
+TB02609;Neg;Negatif;ONT;No
+TB02611;1+;Negatif;ONT;No
+TB02612;Neg;Negatif;ONT;No
+TB02613;2+;Negatif;ONT;Yes
+TB02614;Neg;Negatif;ONT;No
+TB02616;Neg;Negatif;ONT;No
+TB02617;Not tested;Negatif;ONT;No
+TB02618;Neg;Negatif;ONT;No
+TB02620;Neg;Negatif;ONT;No
+TB02621;2+;Negatif;ONT;Yes
+TB02622;2+;Negatif;ONT;No
+TB02623;2+;Negatif;ONT;Yes
+TB02625;Neg;Negatif;ONT;No
+TB02626;2+;Negatif;ONT;No
+TB02627;Neg;Negatif;ONT;No
+TB02628;3+;Negatif;ONT;Yes
+TB02629;2+;Negatif;ONT;Yes
+TB02630;Neg;Negatif;ONT;No
+TB02631;3+;Positif;ONT;Yes
+TB02632;2+;Negatif;ONT;Yes
+TB02633;Not tested;Negatif;ONT;No
+TB02634;2+;Negatif;ONT;No
+TB02635;3+;Negatif;ONT;Yes
+TB02636;1+;Negatif;ONT;Yes
+TB02637;1+;Negatif;ONT;No
+TB02638;Scanty;Negatif;ONT;No
+TB02639;Neg;Negatif;ONT;No
+TB02640;2+;Negatif;ONT;Yes
+TB02641;1+;Negatif;ONT;Yes
+TB02642;3+;Negatif;ONT;Yes
+TB02643;3+;Negatif;ONT;Yes
+TB02644;3+;Negatif;ONT;Yes
+TB02645;Neg;Negatif;ONT;No
+TB02646;2+;Negatif;ONT;Yes
+TB02647;2+;Negatif;ONT;Yes
+TB02648;1+;Negatif;ONT;No
+TB02649;3+;Negatif;ONT;Yes
+TB02650;3+;Negatif;ONT;Yes
+TB02651;2+;Negatif;ONT;Yes
+TB02652;3+;Negatif;ONT;Yes
+TB02654;Scanty;Negatif;ONT;Yes
+TB02655;3+;Negatif;ONT;Yes
+TB02656;2+;Negatif;ONT;Yes
+TB02657;2+;Negatif;ONT;Yes
+TB02658;3+;Negatif;ONT;Yes
+TB02660;2+;Negatif;ONT;Yes
+TB02661;Neg;Negatif;ONT;Yes
+TB02662;Neg;Negatif;ONT;No
+TB02663;1+;Negatif;ONT;Yes
+TB02664;Neg;Negatif;ONT;No
+TB02667;Scanty;Negatif;ONT;Yes
+TB02669;Neg;Negatif;ONT;No
+TB02670;Neg;Negatif;ONT;No
+TB02671;Neg;Negatif;ONT;No
+TB02672;Neg;Negatif;ONT;No
+TB02673;2+;Negatif;ONT;Yes
+TB02674;3+;Negatif;ONT;No
+TB02675;1+;Negatif;ONT;Yes
+TB02677;2+;Negatif;ONT;Yes
+TB02680;Neg;Negatif;ONT;Yes
+TB02681;1+;Negatif;ONT;No
+TB02682;Neg;Negatif;ONT;No
+TB02684;Neg;Negatif;ONT;Yes
+TB02685;Neg;Negatif;ONT;No
+TB02686;Scanty;Negatif;ONT;No
+TB02687;1+;Negatif;ONT;No
+TB02688;Neg;Negatif;ONT;No
+TB02689;Neg;Negatif;ONT;No
+TB02690;Neg;Negatif;ONT;No
+TB02691;Neg;Negatif;ONT;No
+TB02692;2+;Negatif;ONT;Yes
+TB02693;3+;Negatif;ONT;Yes
+TB02695;Neg;Negatif;ONT;No
+TB02696;Neg;Negatif;ONT;No
+TB02698;Neg;Negatif;ONT;No
+TB02699;2+;Negatif;ONT;No
+TB02702;Scanty;Negatif;ONT;No
+TB02703;Scanty;Negatif;ONT;No
+TB02704;1+;Negatif;ONT;No
+TB02708;Neg;Negatif;ONT;No
+TB02709;2+;Negatif;ONT;Yes
+TB02710;3+;Negatif;ONT;Yes
+TB02711;1+;Negatif;ONT;Yes
+TB02712;Neg;Negatif;ONT;No
+TB02713;2+;Negatif;ONT;Yes
+TB02714;2+;Negatif;ONT;Yes
+TB02715;Scanty;Negatif;ONT;No
+TB02716;Neg;Negatif;ONT;No
+TB02717;3+;Negatif;ONT;Yes
+TB02718;1+;Negatif;ONT;No
+TB02719;Neg;Negatif;ONT;No
+TB02721;3+;Negatif;ONT;Yes
+TB02722;3+;Negatif;ONT;Yes
+TB02723;1+;Negatif;ONT;No
+TB02724;Neg;Negatif;ONT;No
+TB02725;3+;Negatif;ONT;Yes
+TB02727;Neg;Positif;ONT;No
+TB02728;Neg;Negatif;ONT;No
+TB02731;1+;Negatif;ONT;No
+TB02741;3+;Negatif;ONT;No
+TB02744;Neg;Negatif;ONT;No
+TB03041;3+;Negatif;ONT;Yes
+TB03042;Neg;Negatif;ONT;No
+TB03044;Neg;Negatif;ONT;Yes
+TB03045;Neg;Negatif;ONT;No
+TB03046;3+;Negatif;ONT;Yes
+TB03231;1+;Negatif;ONT;Yes
+TB03232;1+;Negatif;ONT;Yes
+TB03233;2+;Negatif;ONT;Yes
+TB03234;Neg;Negatif;ONT;Yes
+TB03235;1+;Negatif;ONT;Yes
+TB03236;Neg;Negatif;ONT;Yes
+TB03237;1+;Negatif;ONT;Yes
+TB03238;Scanty;Negatif;ONT;Yes
+TB03239;1+;Negatif;ONT;Yes
+TB03240;Scanty;Negatif;ONT;Yes
+TB03241;Neg;Negatif;ONT;No
+TB03242;Neg;Negatif;ONT;No
+TB03243;3+;Negatif;ONT;Yes
+TB03244;Neg;Negatif;ONT;Yes
+TB03245;Neg;Negatif;ONT;No
+TB03246;3+;Negatif;ONT;Yes
+TB03247;Neg;Negatif;ONT;No
+TB03248;1+;Negatif;ONT;Yes
+TB03282;No Data;;GS;Yes
+TB03283;Scanty;Negatif;GS;Yes
+TB03284;No Data;;GS;Yes
+TB03285;Scanty;Negatif;GS;No
+TB03286;No Data;;GS;Yes
+TB03288;Scanty;Negatif;GS;No
+TB03289;No Data;;GS;Yes
+TB03290;No Data;;GS;Yes
+TB03291;No Data;;GS;Yes
+TB03292;1+;Negatif;GS;Yes
+TB03293;3+;Negatif;GS;Yes
+TB03294;No Data;;GS;Yes
+TB03295;No Data;;GS;Yes
+TB03296;No Data;no data;GS;No
+TB03302;Scanty;Negatif;GS;No
+TB03304;No Data;;GS;Yes
+TB03305;No Data;;GS;Yes
+TB03309;Scanty;Positif;GS;Yes
+TB03311;No Data;no data;GS;No
+TB03314;No Data;no data;GS;No
+TB03316;No Data;no data;GS;No
+TB03318;Scanty;Negatif;GS;Yes
+TB03320;No Data;no data;GS;No
+TB03321;No Data;;GS;Yes
+TB03322;No Data;no data;GS;No
+TB03323;No Data;;GS;Yes
+TB03324;No Data;;GS;Yes
+TB03325;No Data;no data;GS;No
+TB03326;No Data;no data;GS;No
+TB03327;No Data;;GS;Yes
+TB03328;No Data;;GS;Yes
+TB03329;Not tested;no data;GS;Yes
+TB03330;Neg;no data;GS;Yes
+TB03331;No Data;;GS;Yes
+TB03332;No Data;;GS;Yes
+TB03333;No Data;;GS;Yes
+TB03334;No Data;;GS;Yes
+TB03335;Not tested;Negatif;GS;Yes
+TB03336;No Data;;GS;Yes
+TB03337;No Data;no data;GS;No
+TB03338;No Data;;GS;Yes
+TB03339;No Data;no data;GS;No
+TB03340;No Data;;GS;Yes
+TB03341;No Data;;GS;Yes
+TB03343;No Data;no data;GS;Yes
+TB03344;No Data;;GS;Yes
+TB03345;No Data;;GS;Yes
+TB03346;No Data;;GS;Yes
+TB03347;No Data;;GS;Yes
+TB03348;No Data;no data;GS;No
+TB03349;No Data;no data;GS;No
+TB03350;No Data;;GS;Yes
+TB03352;No Data;;GS;Yes
+TB03355;No Data;no data;GS;No
+TB03356;No Data;;GS;Yes
+TB03357;No Data;;GS;Yes
+TB03359;No Data;;GS;Yes
+TB03360;No Data;;GS;Yes
+TB03361;No Data;;GS;Yes
+TB03362;No Data;no data;GS;No
+TB03365;No Data;;GS;Yes
+TB03366;No Data;;GS;Yes
+TB03367;No Data;;GS;Yes
+TB03368;No Data;;GS;Yes
+TB03369;3+;;GS;Yes
+TB03370;No Data;;GS;Yes
+TB03372;No Data;;GS;Yes
+TB03373;No Data;;GS;Yes
+TB03374;No Data;;GS;Yes
+TB03375;No Data;no data;GS;No
+TB03376;No Data;;GS;Yes
+TB03377;No Data;;GS;Yes
+TB03380;Scanty;;GS;Yes
+TB03381;2+;;GS;Yes
+TB03382;No Data;no data;GS;No
+TB03383;No Data;;GS;Yes
+TB03384;No Data;;GS;Yes
+TB03385;No Data;;GS;Yes
+TB03386;No Data;;GS;Yes
+TB03388;No Data;;GS;Yes
+TB03391;No Data;;GS;Yes
+TB03392;No Data;no data;GS;Yes
+TB03393;No Data;;GS;Yes
+TB03394;No Data;;GS;Yes
+TB03395;No Data;;GS;Yes
+TB03396;No Data;;GS;Yes
+TB03398;No Data;;GS;Yes
+TB03399;No Data;;GS;Yes
+TB03400;No Data;;GS;Yes
+TB03401;No Data;;GS;Yes
+TB03402;No Data;;GS;Yes
+TB03403;No Data;;GS;Yes
+TB03404;No Data;;GS;Yes
+TB03405;No Data;no data;GS;No
+TB03406;No Data;no data;GS;No
+TB03407;No Data;;GS;Yes
+TB03408;No Data;;GS;Yes
+TB03409;No Data;no data;GS;No
+TB03410;No Data;;GS;Yes
+TB03412;No Data;;GS;Yes
+TB03413;No Data;;GS;Yes
+TB03414;No Data;;GS;Yes
+TB03415;No Data;;GS;Yes
+TB03416;No Data;;GS;Yes
+TB03417;No Data;;GS;Yes
+TB03419;No Data;;GS;Yes
+TB03420;No Data;;GS;Yes
+TB03421;No Data;;GS;Yes
+TB03422;No Data;no data;GS;No
+TB03433;No Data;;GS;Yes
+TB03434;No Data;;GS;Yes
+TB03436;No Data;;GS;Yes
+TB03437;No Data;;GS;Yes
+TB03438;No Data;;GS;Yes
+TB03440;No Data;;GS;Yes
+TB03441;No Data;no data;GS;No
+TB03444;No Data;;GS;Yes
+TB03446;No Data;no data;GS;No
+TB03447;No Data;no data;GS;No
+TB03448;No Data;;GS;Yes
+TB03449;No Data;;GS;Yes
+TB03453;No Data;no data;GS;No
+TB03454;No Data;;GS;Yes
+TB03455;No Data;;GS;Yes
+TB03456;No Data;;GS;Yes
+TB03460;No Data;;GS;Yes
+TB03464;No Data;;GS;Yes
+TB03465;No Data;;GS;Yes
+TB03468;No Data;;GS;Yes
+TB03469;No Data;;GS;Yes
+TB03470;No Data;;GS;Yes
+TB03471;No Data;;GS;Yes
+TB03473;No Data;no data;GS;No
+TB03474;No Data;no data;GS;No
+TB03482;No Data;;GS;Yes
+TB03483;No Data;;GS;Yes
+TB03484;No Data;no data;GS;No
+TB03485;No Data;;GS;Yes
+TB03486;No Data;no data;GS;No
+TB03487;No Data;;GS;Yes
+TB03488;No Data;no data;GS;No
+TB03489;No Data;;GS;Yes
+TB03490;No Data;no data;GS;No
+TB03491;No Data;;GS;Yes
+TB03493;No Data;no data;GS;Yes
+TB03494;No Data;no data;GS;No
+TB03495;No Data;;GS;Yes
+TB03497;No Data;no data;GS;No
+TB03499;No Data;;GS;Yes
+TB03501;No Data;;GS;Yes
+TB03503;No Data;;GS;Yes
+TB03504;No Data;;GS;Yes
+TB03505;No Data;;GS;Yes
+TB03506;No Data;no data;GS;No
+TB03507;No Data;no data;GS;No
+TB03508;No Data;no data;GS;No
+TB03509;No Data;no data;GS;No
+TB03510;No Data;no data;GS;No
+TB03511;No Data;;GS;Yes
+TB03512;No Data;no data;GS;Yes
+TB03518;No Data;no data;GS;Yes
+TB03519;No Data;;GS;Yes
+TB03520;No Data;;GS;Yes
+TB03523;No Data;;GS;Yes
+TB03524;No Data;;GS;Yes
+TB03527;No Data;no data;GS;No
+TB03529;No Data;;GS;Yes
+TB03533;No Data;no data;GS;No
+TB03540;No Data;no data;GS;No
+TB03544;No Data;;GS;Yes
+TB03549;No Data;;GS;Yes
+TB03568;No Data;;GS;Yes
+TB03569;No Data;;GS;Yes
+TB03570;No Data;;GS;Yes
+TB03571;No Data;;GS;Yes
+TB03571;No Data;no data;GS;No
+TB03574;No Data;no data;GS;Yes
+TB03575;No Data;;GS;Yes
+TB03577;No Data;no data;GS;Yes
+TB03579;No Data;;GS;Yes
+TB03580;No Data;;GS;Yes
+TB03585;No Data;;GS;Yes
+TB03587;No Data;no data;GS;No
+TB03597;No Data;;GS;Yes
+TB03598;No Data;no data;GS;No
+TB03599;No Data;;GS;Yes
+TB03602;No Data;;GS;Yes
+TB03603;No Data;;GS;Yes
+TB03604;No Data;no data;GS;No
+TB03605;No Data;no data;GS;No
+TB03606;No Data;no data;GS;No
+TB03608;No Data;;GS;Yes
+TB03609;No Data;no data;GS;No
+TB03612;No Data;no data;GS;No
+TB03613;No Data;no data;GS;No
+TB03614;No Data;no data;GS;No
+TB03615;No Data;no data;GS;No
+TB03616;No Data;no data;GS;No
+TB03617;No Data;no data;GS;Yes
+TB03618;No Data;no data;GS;No
+TB03619;No Data;;GS;Yes
+TB03620;No Data;no data;GS;No
+TB03621;No Data;;GS;Yes
+TB03622;No Data;;GS;Yes
+TB03623;No Data;;GS;Yes
+TB03624;No Data;no data;GS;No
+TB03625;No Data;no data;GS;No
+TB03626;No Data;;GS;Yes
+TB03627;No Data;;GS;Yes
+TB03628;No Data;no data;GS;No
+TB03629;No Data;no data;GS;No
+TB03630;No Data;;GS;Yes
+TB03631;No Data;no data;GS;No
+TB03632;No Data;;GS;Yes
+TB03633;No Data;;GS;Yes
+TB03635;No Data;no data;GS;No
+TB03636;No Data;no data;GS;Yes
+TB03637;No Data;;GS;Yes
+TB03638;No Data;;GS;Yes
+TB03639;No Data;;GS;Yes
+TB03640;No Data;;GS;Yes
+TB03641;No Data;;GS;Yes
+TB03642;No Data;no data;GS;No
+TB03643;No Data;;GS;Yes
+TB03644;No Data;;GS;Yes
+TB03645;No Data;;GS;Yes
+TB03646;No Data;;GS;Yes
+TB03647;No Data;;GS;Yes
+TB03648;No Data;no data;GS;No
+TB03649;No Data;;GS;Yes
+TB03650;No Data;no data;GS;No
+TB03651;No Data;no data;GS;No
+TB03652;No Data;no data;GS;No
+TB03653;No Data;;GS;Yes
+TB03654;No Data;;GS;Yes
+TB03655;No Data;no data;GS;No
+TB03656;No Data;no data;GS;No
+TB03657;No Data;no data;GS;Yes
+TB03658;No Data;no data;GS;No
+TB03659;No Data;no data;GS;No
+TB03660;No Data;no data;GS;Yes
+TB03661;No Data;;GS;Yes
+TB03662;No Data;;GS;Yes
+TB03663;No Data;;GS;Yes
+TB03664;No Data;;GS;Yes
+TB03665;No Data;;GS;Yes
+TB03666;No Data;no data;GS;Yes
+TB03667;No Data;;GS;Yes
+TB03668;No Data;;GS;Yes
+TB03669;No Data;no data;GS;No
+TB03670;No Data;no data;GS;No
+TB03671;No Data;no data;GS;No
+TB03672;No Data;;GS;Yes
+TB03673;No Data;no data;GS;Yes
+TB03674;No Data;no data;GS;Yes
+TB03675;No Data;;GS;Yes
+TB03676;No Data;no data;GS;Yes
+TB03677;No Data;;GS;Yes
+TB03678;No Data;no data;GS;No
+TB03679;No Data;no data;GS;No
+TB03680;No Data;no data;GS;No
+TB03681;No Data;no data;GS;No
+TB03682;No Data;;GS;Yes
+TB03683;No Data;no data;GS;No
+TB03684;No Data;;GS;Yes
+TB03685;No Data;no data;GS;Yes
+TB03686;No Data;no data;GS;No
+TB03687;No Data;no data;GS;No
+TB03688;No Data;;GS;Yes
+TB03689;No Data;no data;GS;No
+TB03690;No Data;;GS;Yes
+TB03691;No Data;;GS;Yes
+TB03692;No Data;no data;GS;No
+TB03693;No Data;no data;GS;No
+TB03694;No Data;;GS;Yes
+TB03695;No Data;no data;GS;No
+TB03696;No Data;no data;GS;No
+TB03697;No Data;;GS;Yes
+TB03698;No Data;;GS;Yes
+TB03699;No Data;no data;GS;No
+TB03700;No Data;no data;GS;No
+TB03701;No Data;no data;GS;No
+TB03702;No Data;no data;GS;No
+TB03703;No Data;no data;GS;No
+TB03704;No Data;no data;GS;No
+TB03705;No Data;no data;GS;No
+TB03706;No Data;no data;GS;No
+TB03707;No Data;no data;GS;No
+TB03708;No Data;no data;GS;No
+TB03709;No Data;no data;GS;No
+TB03710;No Data;;GS;Yes
+TB03711;No Data;no data;GS;Yes
+TB03712;No Data;no data;GS;No
+TB03713;No Data;no data;GS;No
+TB03714;No Data;no data;GS;No
+TB03715;No Data;;GS;Yes
+TB03716;No Data;no data;GS;Yes
+TB03717;No Data;;GS;Yes
+TB03718;No Data;;GS;Yes
+TB03719;No Data;no data;GS;No
+TB03720;No Data;no data;GS;No
+TB03722;No Data;;GS;Yes
+TB03723;No Data;no data;GS;No
+TB03724;No Data;;GS;Yes
+TP00001;Scanty;Negatif;GS;Yes
+TP00002;Neg;Negatif;GS;Yes
+TP00003;Neg;Negatif;GS;Yes
+TP00004;2+;Negatif;GS;Yes
+TP00005;1+;Negatif;GS;Yes
+TP00008;3+;Negatif;GS;Yes
+TP00009;3+;Negatif;GS;Yes
+TP00010;Neg;Negatif;GS;Yes
+TP00012;2+;Negatif;GS;Yes
+TP00013;1+;Negatif;GS;Yes
+TP00016;Neg;Negatif;GS;Yes
+TP00018;3+;Negatif;GS;Yes
+TP00019;1+;Negatif;GS;Yes
+TP00020;Neg;Negatif;GS;Yes
+TP00021;3+;Negatif;GS;Yes
+TP00022;3+;Negatif;GS;Yes
+TP00024;Neg;Negatif;GS;Yes
+TP00026;1+;Negatif;GS;Yes
+TP00027;Neg;Negatif;GS;Yes
+TP00029;1+;Negatif;GS;Yes
+TP00031;Neg;Negatif;GS;Yes
+TP00046;Neg;Negatif;GS;Yes
+TP00047;Neg;Negatif;GS;Yes
+TP00053;Neg;Negatif;GS;Yes
+TP00054;Scanty;Negatif;GS;Yes
+TP00061;2+;Negatif;GS;Yes
+TP00063;3+;Negatif;GS;Yes
+TP00064;1+;Negatif;GS;Yes
+TP00071;1+;Negatif;GS;Yes
+TP00072;1+;Negatif;GS;Yes
+TP00073;Scanty;Negatif;GS;Yes
+TP00076;Scanty;Negatif;GS;Yes
+TP00077;3+;Negatif;GS;Yes
+TP00085;1+;Negatif;GS;Yes
+TP00096;3+;Negatif;GS;Yes
+TP00097;Not tested;Negatif;GS;Yes
+TP00098;2+;Negatif;GS;Yes
+TP00105;Neg;Negatif;GS;Yes
+TP00106;2+;Negatif;GS;Yes
+TP00107;1+;Negatif;GS;Yes
+TP00110;Scanty;Negatif;GS;Yes
+TP00116;1+;Negatif;GS;Yes
+TP00119;Neg;Negatif;GS;Yes
+TP00120;1+;Negatif;GS;Yes
+TP00059;Neg;Negatif;GS;No
+TP00065;Neg;Negatif;GS;No
+TP00090;1+;Negatif;GS;Yes
+TP00101;Scanty;Negatif;GS;No
+TP00113;Neg;Negatif;GS;No
+TP00114;1+;Negatif;GS;Yes
+TP00123;1+;Negatif;GS;No
+TP00124;1+;Negatif;GS;No
+TP00125;Neg;Negatif;GS;Yes
+TP00127;Scanty;Negatif;GS;No
+TP00129;3+;Negatif;GS;Yes
+TP00130;2+;Negatif;GS;Yes
+TP00134;Scanty;Negatif;GS;No
+TP00135;Neg;Negatif;GS;No
+TP00137;3+;Negatif;GS;Yes
+TP00138;Neg;Negatif;GS;Yes
+TP00140;Neg;Negatif;GS;No
+TP00141;Neg;Negatif;GS;No
+TP00143;2+;Negatif;GS;Yes
+TP00144;1+;Negatif;GS;Yes
+TP00147;Scanty;Negatif;GS;No
+TP00151;Neg;Negatif;GS;No
+TP00153;Neg;Negatif;GS;Yes
+TP00155;Neg;Negatif;GS;No
+TP00157;Scanty;Negatif;GS;Yes
+TP00161;Neg;Negatif;GS;No
+TP00165;Neg;Negatif;GS;No
+TP00167;1+;Negatif;GS;Yes
+TP00168;2+;Negatif;GS;Yes
+TP00169;Neg;Negatif;GS;No
+TP00170;Neg;Negatif;GS;No
+TP00172;Neg;Negatif;GS;No
+TP00173;Neg;Negatif;GS;No
+TP00174;3+;Negatif;GS;Yes
+TP00178;Neg;Negatif;GS;No
+TP00179;Neg;Negatif;GS;No
+TP00182;Neg;Negatif;GS;Yes
+TP00183;Scanty;Negatif;GS;No
+TP00185;Neg;Negatif;GS;No
+TP00189;1+;Negatif;GS;Yes
+TP00191;Neg;Negatif;GS;Yes
+TP00193;Neg;Negatif;GS;No
+TP00194;Neg;Negatif;GS;No
+TP00198;Neg;Negatif;GS;Yes
+TP00175;1+;Negatif;GS;Yes
+TP00686;3+;Negatif;GS;Yes
+TP00692;2+;Negatif;GS;Yes
+TP00693;2+;Negatif;GS;Yes
+TP00695;2+;Negatif;GS;Yes
+TP00712;1+;Negatif;GS;Yes
+TP00772;3+;Negatif;GS;Yes
+TP00801;3+;Negatif;GS;Yes
+TP00802;2+;Negatif;GS;Yes
+TP00806;3+;Negatif;GS;Yes
+TP00810;3+;Negatif;GS;Yes
+TP00821;2+;Negatif;GS;Yes
+TP00823;1+;Negatif;GS;Yes
+TP00828;3+;Negatif;GS;Yes
+TP00832;3+;Negatif;GS;Yes
+TP00833;3+;Negatif;GS;Yes
+TP00835;1+;Negatif;GS;Yes
+TP00837;3+;Negatif;GS;Yes
+TP00839;2+;Negatif;GS;Yes
+TP00840;1+;Positif;GS;Yes
+TP00841;2+;Negatif;GS;Yes
+TP00853;1+;Negatif;GS;Yes
+TP00939;1+;Negatif;GS;Yes
+TP00940;3+;Negatif;GS;Yes
+TP00941;1+;Negatif;GS;Yes
+TP00942;1+;Negatif;GS;Yes
+TP00944;1+;Negatif;GS;Yes
+TP00945;1+;Negatif;GS;Yes
+TP00946;3+;Negatif;GS;Yes
+TP00947;3+;Negatif;GS;Yes
+TP00948;3+;Negatif;GS;Yes
+TP00949;3+;Negatif;GS;Yes
+TP00950;1+;Negatif;GS;Yes
+TP00951;3+;Negatif;GS;Yes
+TP00952;1+;Negatif;GS;Yes
+TP00953;3+;Negatif;GS;Yes
+TP00954;3+;Negatif;GS;Yes
+TP00955;2+;Negatif;GS;Yes
+TP00956;1+;Negatif;GS;Yes
+TP00957;1+;Negatif;GS;Yes
+TP00958;1+;Negatif;GS;Yes
+TP00959;1+;Negatif;GS;Yes
+TP00960;2+;Negatif;GS;Yes
+TP00961;1+;Negatif;GS;Yes
+TP00396;Not tested;Negatif;GS;No
+TP00397;1+;Negatif;GS;Yes
+TP00400;Neg;Negatif;GS;Yes
+TP00401;Not tested;Negatif;GS;Yes
+TP00406;1+;Negatif;GS;Yes
+TP00407;Neg;Negatif;GS;No
+TP00408;1+;Negatif;GS;Yes
+TP00410;Neg;Negatif;GS;No
+TP00411;Neg;Negatif;GS;Yes
+TP00412;Neg;Negatif;GS;Yes
+TP00413;Neg;Negatif;GS;No
+TP00414;Scanty;Negatif;GS;Yes
+TP00415;Neg;Negatif;GS;Yes
+TP00417;Neg;Negatif;GS;No
+TP00418;1+;Negatif;GS;Yes
+TP00419;Neg;Negatif;GS;Yes
+TP00421;Scanty;Negatif;GS;No
+TP00422;Neg;Negatif;GS;Yes
+TP00423;Neg;Negatif;GS;Yes
+TP00424;Neg;Negatif;GS;No
+TP00425;Scanty;Negatif;GS;Yes
+TP00426;Scanty;Negatif;GS;Yes
+TP00427;Neg;Negatif;GS;Yes
+TP00428;Neg;Negatif;GS;Yes
+TP00429;Neg;Negatif;GS;Yes
+TP00431;Neg;Negatif;GS;Yes
+TP00432;Not tested;Negatif;GS;Yes
+TP00433;Not tested;Negatif;GS;Yes
+TP00464;Neg;Negatif;GS;No
+TP00465;Neg;Negatif;GS;Yes
+TP00466;Scanty;Negatif;GS;Yes
+TP00468;Scanty;Negatif;GS;Yes
+TP00469;1+;Negatif;GS;Yes
+TP00470;Neg;Negatif;GS;Yes
+TP00471;Neg;Negatif;GS;No
+TP00472;Neg;Negatif;GS;Yes
+TP00476;Neg;Negatif;GS;No
+TP00477;Neg;Negatif;GS;Yes
+TP00478;Neg;Positif;GS;Yes
+TP00480;Scanty;Negatif;GS;Yes
+TP00488;Scanty;Negatif;GS;Yes
+TP00489;1+;Negatif;GS;No
+TP00490;Neg;Negatif;GS;Yes
+TP00492;2+;Negatif;GS;Yes
+TP01202;2+;Negatif;GS;Yes
+TP01204;1+;Negatif;GS;Yes
+TP01065;2+;Negatif;GS;Yes
+TP00973;1+;Negatif;GS;Yes
+TP00938;3+;Negatif;GS;Yes
+TP01205;Neg;Negatif;GS;Yes
+TP01198;1+;Negatif;GS;No
+TP01203;Neg;Negatif;GS;Yes
+TP01199;1+;Negatif;GS;Yes
+TP01193;2+;Negatif;GS;Yes
+TP01092;2+;Negatif;GS;Yes
+TP01068;1+;Negatif;GS;Yes
+TP01089;1+;Negatif;GS;Yes
+TP01190;3+;Negatif;GS;No
+TP01187;3+;Negatif;GS;Yes
+TP01189;2+;Negatif;GS;Yes
+TP01184;2+;Negatif;GS;Yes
+TP01302;Neg;Negatif;GS;No
+TP01303;Neg;Negatif;GS;Yes
+TP01364;Neg;Negatif;GS;Yes
+TP01377;Neg;Negatif;GS;No
+TP01370;Neg;Negatif;GS;Yes
+TP01361;Neg;Negatif;GS;Yes
+TP01366;Neg;Negatif;GS;No
+TP01355;Neg;Negatif;GS;No
+TP01359;Neg;Negatif;GS;No
+TP01339;Neg;Negatif;GS;No
+TP01316;Neg;Negatif;GS;No
+TP01318;Neg;Negatif;GS;No
+TP01340;Neg;Negatif;GS;No
+TP01344;1+;Negatif;GS;Yes
+TP01347;Neg;Negatif;GS;No
+TP01326;Neg;Negatif;GS;No
+TP01334;Neg;Negatif;GS;No
+TP01349;Neg;Negatif;GS;Yes
+TP01335;Neg;Negatif;GS;Yes
+TP01389;Neg;Negatif;GS;Yes
+TP01307;Neg;Negatif;GS;No
+TP01380;Neg;Negatif;GS;Yes
+TP01357;Neg;Negatif;GS;No
+TP01354;Neg;Negatif;GS;Yes
+TP01341;Neg;Negatif;GS;Yes
+TP01322;1+;Negatif;GS;Yes
+TP01328;Neg;Negatif;GS;No
+TP01308;Neg;Negatif;GS;No
+TP01336;Neg;Negatif;GS;Yes
+TP01306;Neg;Negatif;GS;Yes
+TP01346;Neg;Negatif;GS;Yes
+TP01324;Neg;Negatif;GS;No
+TP01313;Neg;Negatif;GS;Yes
+TP01325;Neg;Negatif;GS;No
+TP01330;Neg;Negatif;GS;Yes
+TP01323;Scanty;Negatif;GS;Yes
+TP01343;Neg;Negatif;GS;No
+TP01365;Neg;Negatif;GS;Yes
+TP01314;Neg;Negatif;GS;No
+TP01310;Neg;Negatif;GS;Yes
+TP01309;Neg;Negatif;GS;Yes
+TP01319;Neg;Negatif;GS;No
+TP01304;Neg;Negatif;GS;No
+TP01301;Neg;Negatif;GS;No
+TP01338;Scanty;Negatif;GS;Yes
+TP01348;3+;Negatif;GS;Yes
+TP01351;Neg;Negatif;GS;Yes
+TP01350;1+;Negatif;GS;Yes
+TP01331;Neg;Negatif;GS;Yes
+TP01382;Neg;Negatif;GS;Yes
+TP01378;2+;Negatif;GS;Yes
+TP01356;Neg;Negatif;GS;Yes
+TP01311;Neg;Negatif;GS;Yes
+TP01372;3+;Negatif;GS;Yes
+TP01352;Neg;Negatif;GS;Yes
+TP01360;3+;Negatif;GS;Yes
+TP01327;3+;Negatif;GS;Yes
+TP01342;2+;Negatif;GS;Yes
+TP01345;1+;Negatif;GS;Yes
+TP01387;2+;Negatif;GS;Yes
+TP01371;1+;Negatif;GS;Yes
+TP01386;Neg;Negatif;GS;Yes
+TP01381;3+;Negatif;GS;Yes
+TP01385;1+;Negatif;GS;Yes
+TP01353;2+;Negatif;GS;Yes
+TP01320;Neg;Negatif;GS;Yes
+TP01384;1+;Negatif;GS;Yes
+TP01332;1+;Negatif;GS;Yes
+TP01312;2+;Negatif;GS;Yes
+TP01317;1+;Negatif;GS;Yes
+TP01376;3+;Negatif;GS;Yes
+TP01358;Neg;Negatif;GS;Yes
+TP01379;2+;Negatif;GS;Yes
+TP01373;1+;Negatif;GS;Yes
+TP01337;Neg;Negatif;GS;Yes
+TP01369;Scanty;Negatif;GS;Yes
+TP01388;1+;Negatif;GS;Yes
+TP01321;Scanty;Negatif;GS;Yes
+TP01329;1+;Negatif;GS;Yes
+TP01383;1+;Negatif;GS;Yes
+TP01390;3+;Negatif;GS;Yes
+TP01362;3+;Negatif;GS;Yes
+TP01315;3+;Negatif;GS;Yes
+TP01368;1+;Negatif;GS;Yes
+TP01367;2+;Negatif;GS;Yes
+TP01333;1+;Negatif;GS;Yes
+TP01374;3+;Negatif;GS;Yes
+TP01363;3+;Negatif;GS;Yes
+TP01375;3+;Negatif;GS;Yes
+TP01441;Neg;Negatif;GS;Yes
+TP01464;Neg;Negatif;GS;No
+TP01422;Neg;Negatif;GS;No
+TP01480;Neg;Negatif;GS;Yes
+TP01483;Neg;Negatif;GS;No
+TP01475;Neg;Negatif;GS;No
+TP01491;Neg;Negatif;GS;Yes
+TP01471;Neg;Negatif;GS;No
+TP01448;Neg;Negatif;GS;Yes
+TP01462;1+;Negatif;GS;Yes
+TP01428;Neg;Negatif;GS;Yes
+TP01440;Neg;Negatif;GS;No
+TP01460;Neg;Negatif;GS;No
+TP01456;1+;Negatif;GS;Yes
+TP01426;Neg;Negatif;GS;Yes
+TP01469;Neg;Negatif;GS;No
+TP01417;Neg;Negatif;GS;No
+TP01459;Neg;Negatif;GS;Yes
+TP01442;Neg;Negatif;GS;Yes
+TP01446;Scanty;Negatif;GS;Yes
+TP01485;Neg;Negatif;GS;No
+TP01467;Neg;Negatif;GS;No
+TP01455;Neg;Negatif;GS;Yes
+TP01452;Neg;Negatif;GS;No
+TP01454;Scanty;Negatif;GS;Yes
+TP01420;Neg;Negatif;GS;Yes
+TP01427;Scanty;Negatif;GS;No
+TP01453;Neg;Negatif;GS;No
+TP01443;Scanty;Negatif;GS;Yes
+TP01444;Neg;Negatif;GS;Yes
+TP01466;Neg;Negatif;GS;No
+TP01481;Neg;Negatif;GS;No
+TP01490;Neg;Negatif;GS;Yes
+TP01489;Neg;Negatif;GS;Yes
+TP01414;Scanty;Negatif;GS;Yes
+TP01397;1+;Negatif;GS;No
+TP01413;Neg;Negatif;GS;No
+TP01404;Neg;Negatif;GS;No
+TP01400;Neg;Negatif;GS;Yes
+TP01401;Scanty;Negatif;GS;Yes
+TP01434;1+;Negatif;GS;Yes
+TP01407;1+;Negatif;GS;Yes
+TP01429;2+;Negatif;GS;Yes
+TP01408;2+;Negatif;GS;Yes
+TP01476;3+;Negatif;GS;Yes
+TP01484;3+;Negatif;GS;Yes
+TP01447;1+;Negatif;GS;Yes
+TP01461;1+;Negatif;GS;Yes
+TP01410;Neg;Negatif;GS;No
+TP01405;Neg;Negatif;GS;Yes
+TP01478;3+;Negatif;GS;Yes
+TP01465;1+;Negatif;GS;Yes
+TP01470;1+;Negatif;GS;Yes
+TP01439;Neg;Negatif;GS;No
+TP01445;1+;Negatif;GS;Yes
+TP01493;1+;Negatif;GS;Yes
+TP01468;3+;Negatif;GS;Yes
+TP01430;2+;Negatif;GS;Yes
+TP01457;Neg;Negatif;GS;Yes
+TP01419;1+;Negatif;GS;Yes
+TP01435;Scanty;Negatif;GS;Yes
+TP01402;Neg;Negatif;GS;Yes
+TP01451;1+;Negatif;GS;Yes
+TP01398;1+;Negatif;GS;Yes
+TP01449;1+;Negatif;GS;Yes
+TP01472;1+;Negatif;GS;Yes
+TP01403;Neg;Negatif;GS;Yes
+TP01433;1+;Negatif;GS;Yes
+TP01406;1+;Negatif;GS;Yes
+TP01438;Neg;Negatif;GS;No
+TP01492;2+;Negatif;GS;Yes
+TP01431;Neg;Negatif;GS;Yes
+TP01436;2+;Negatif;GS;Yes
+TP01463;Neg;Negatif;GS;Yes
+TP01412;3+;Negatif;GS;Yes
+TP01450;1+;Negatif;GS;Yes
+TP01399;1+;Negatif;GS;Yes
+TP01487;3+;Negatif;GS;Yes
+TP01416;1+;Negatif;GS;Yes
+TP01473;3+;Negatif;GS;Yes
+TP01458;Neg;Negatif;GS;No
+TP01477;3+;Negatif;GS;Yes
+TP01474;2+;Negatif;GS;Yes
+TP01533;3+;Negatif;GS;Yes
+TP01524;1+;Negatif;GS;No
+TP01281;2+;Negatif;GS;Yes
+TP01539;3+;Negatif;GS;Yes
+TP01158;1+;Negatif;GS;Yes
+TP01546;1+;Negatif;GS;Yes
+TP01145;3+;Negatif;GS;Yes
+TP01280;1+;Negatif;GS;Yes
+TP01274;Neg;Negatif;GS;Yes
+TP01273;Neg;Negatif;GS;Yes
+TP01508;Neg;Negatif;GS;Yes
+TP01151;3+;Negatif;GS;Yes
+TP01553;Neg;Negatif;GS;Yes
+TP01260;3+;Negatif;GS;Yes
+TP01521;1+;Negatif;GS;Yes
+TP01264;3+;Negatif;GS;Yes
+TP01522;Scanty;Negatif;GS;Yes
+TP01514;1+;Negatif;GS;Yes
+TP01157;3+;Negatif;GS;Yes
+TP01142;2+;Negatif;GS;Yes
+TP01507;2+;Negatif;GS;Yes
+TP01510;1+;Negatif;GS;Yes
+TP01143;3+;Negatif;GS;Yes
+TP01518;2+;Negatif;GS;Yes
+TP01150;3+;Negatif;GS;Yes
+TP01147;3+;Negatif;GS;Yes
+TP01276;3+;Negatif;GS;Yes
+TP01144;3+;Negatif;GS;Yes
+TP01267;3+;Negatif;GS;Yes
+TP01156;2+;Negatif;GS;Yes
+TP01271;3+;Negatif;GS;Yes
+TP01154;3+;Negatif;GS;Yes
+TP01259;2+;Negatif;GS;Yes
+TP01511;3+;Negatif;GS;Yes
+TP01270;3+;Negatif;GS;Yes
+TP01536;3+;Negatif;GS;Yes
+TP01506;2+;Negatif;GS;Yes
+TP01152;3+;Negatif;GS;Yes
+TP01534;1+;Negatif;GS;Yes
+TP01517;1+;Negatif;GS;Yes
+TP01515;3+;Negatif;GS;Yes
+TP01555;1+;Negatif;GS;Yes
+TP01550;1+;Negatif;GS;Yes
+TP01141;3+;Negatif;GS;Yes
+TP01272;Neg;Negatif;GS;Yes
+TP01528;Neg;Negatif;GS;Yes
+TP01512;Neg;Negatif;GS;No
+TP01278;Neg;Negatif;GS;Yes
+TP01277;Scanty;Negatif;GS;Yes
+TP01509;1+;Negatif;GS;Yes
+TP01516;3+;Negatif;GS;Yes
+TP01542;Neg;Negatif;GS;No
+TP01532;Neg;Negatif;GS;No
+TP01275;1+;Negatif;GS;No
+TP01155;1+;Negatif;GS;Yes
+TP01538;1+;Negatif;GS;Yes
+TP01530;Neg;Negatif;GS;No
+TP01551;Neg;Negatif;GS;No
+TP01549;Neg;Negatif;GS;Yes
+TP01262;Neg;Negatif;GS;No
+TP01526;Neg;Negatif;GS;Yes
+TP01556;1+;Negatif;GS;Yes
+TP01545;Neg;Negatif;GS;Yes
+TP01279;2+;Negatif;GS;Yes
+TP01548;Neg;Negatif;GS;Yes
+TP01268;1+;Positif;GS;No
+TP01531;Neg;Negatif;GS;No
+TP01527;Neg;Negatif;GS;Yes
+TP01265;2+;Negatif;GS;Yes
+TP01520;Neg;Negatif;GS;Yes
+TP01523;Neg;Negatif;GS;Yes
+TP01282;3+;Negatif;GS;No
+TP01543;Neg;Negatif;GS;No
+TP01263;Neg;Negatif;GS;No
+TP01547;Neg;Negatif;GS;Yes
+TP01153;1+;Negatif;GS;Yes
+TP01266;1+;Negatif;GS;Yes
+TP01544;Neg;Negatif;GS;Yes
+TP01261;1+;Negatif;GS;Yes
+TP01537;1+;Negatif;GS;Yes
+TP01554;Neg;Negatif;GS;No
+TP01558;Neg;Negatif;GS;No
+TP01552;1+;Negatif;GS;Yes
+TP01557;Neg;Negatif;GS;No
+TP01529;Scanty;Negatif;GS;Yes
+TP01148;1+;Negatif;GS;Yes
+TP01149;2+;Negatif;GS;Yes
+TP01146;1+;Negatif;GS;No
+TP06247;Neg;Negatif;GS;No
+TP01669;Neg;Negatif;GS;Yes
+TP06233;Scanty;Negatif;GS;Yes
+TP01648;Neg;Negatif;GS;Yes
+TP01966;Neg;Negatif;GS;Yes
+TP01647;Neg;Negatif;GS;Yes
+TP01649;Neg;Negatif;GS;Yes
+TP06252;Scanty;Negatif;GS;Yes
+TP06232;1+;Negatif;GS;Yes
+TP06262;1+;Negatif;GS;Yes
+TP06253;Neg;Negatif;GS;Yes
+TP06264;Neg;Negatif;GS;Yes
+TP01646;Neg;Negatif;GS;Yes
+TP01989;Neg;Negatif;GS;Yes
+TP06221;Neg;Negatif;GS;Yes
+TP01657;Neg;Negatif;GS;Yes
+TP01665;Neg;Negatif;GS;No
+TP02367;Neg;Negatif;GS;No
+TP01663;Scanty;Negatif;GS;Yes
+TP01651;Neg;Negatif;GS;Yes
+TP01652;Neg;Negatif;GS;Yes
+TP01658;Neg;Negatif;GS;No
+TP01889;2+;Negatif;GS;Yes
+TP01659;Neg;Negatif;GS;Yes
+TP01661;Neg;Negatif;GS;Yes
+TP01660;Neg;Positif;GS;Yes
+TP06241;1+;Negatif;GS;Yes
+TP01656;Neg;Negatif;GS;Yes
+TP06243;Scanty;Negatif;GS;Yes
+TP01653;Neg;Negatif;GS;Yes
+TP06248;Neg;Negatif;GS;Yes
+TP06228;Scanty;Negatif;GS;Yes
+TP01668;Neg;Negatif;GS;No
+TP01645;Neg;Negatif;GS;Yes
+TP01643;Neg;Negatif;GS;Yes
+TP01662;Neg;Negatif;GS;No
+TP01297;1+;Negatif;GS;Yes
+TP06229;Scanty;Negatif;GS;Yes
+TP06257;1+;Negatif;GS;Yes
+TP01655;Neg;Negatif;GS;Yes
+TP06263;1+;Negatif;GS;Yes
+TP06258;2+;Negatif;GS;Yes
+TP06261;2+;Negatif;GS;Yes
+TP06251;1+;Positif;GS;Yes
+TP06256;2+;Negatif;GS;Yes
+TP06224;2+;Negatif;GS;Yes
+TP06260;Scanty;Negatif;GS;Yes
+TP06238;Scanty;Negatif;GS;Yes
+TP06245;3+;Negatif;GS;Yes
+TP06249;3+;Negatif;GS;Yes
+TP06242;3+;Negatif;GS;Yes
+TP06237;Neg;Negatif;GS;Yes
+TP06259;2+;Negatif;GS;Yes
+TP06246;2+;Negatif;GS;Yes
+TP01654;Neg;Negatif;GS;Yes
+TP06227;1+;Negatif;GS;Yes
+TP06231;Scanty;Negatif;GS;Yes
+TP06234;1+;Negatif;GS;Yes
+TP06254;1+;Negatif;GS;Yes
+TP06255;3+;Negatif;GS;Yes
+TP06250;3+;Negatif;GS;Yes
+TP06236;Scanty;Negatif;GS;Yes
+TP01291;3+;Negatif;GS;Yes
+TP01287;3+;Negatif;GS;Yes
+TP01293;3+;Negatif;GS;Yes
+TP01650;Neg;Negatif;GS;Yes
+TP01296;3+;Negatif;GS;Yes
+TP06226;2+;Negatif;GS;Yes
+TP01295;3+;Negatif;GS;Yes
+TP01289;3+;Negatif;GS;Yes
+TP01285;3+;Negatif;GS;Yes
+TP01502;3+;Negatif;GS;Yes
+TP06220;1+;Negatif;GS;Yes
+TP06222;1+;Negatif;GS;Yes
+TP01501;3+;Negatif;GS;Yes
+TP01290;3+;Negatif;GS;No
+TP06225;3+;Negatif;GS;Yes
+TP01644;Neg;Negatif;GS;Yes
+TP01299;3+;Negatif;GS;Yes
+TP01294;1+;Negatif;GS;Yes
+TP06223;Neg;Negatif;GS;Yes
+TP01288;1+;Negatif;GS;Yes
+TP01292;1+;Negatif;GS;Yes
+TP01670;2+;Negatif;GS;Yes
+TP01284;2+;Negatif;GS;Yes
+TP00621;Not tested;Negatif;GS;Yes
+TP00359;2+;Negatif;GS;Yes
+TP00366;Neg;;GS;Yes
+TP00368;Neg;;GS;Yes
+TP00367;1+;;GS;Yes
+TP00361;Not tested;Negatif;GS;Yes
+TP00473;Not tested;Negatif;GS;Yes
+TP00399;Not tested;Negatif;GS;Yes
+TP00398;Not tested;Negatif;GS;Yes
+TP00388;Not tested;Negatif;GS;Yes
+TP00694;Neg;Negatif;GS;No
+TP00389;Not tested;Negatif;GS;Yes
+TP00392;Not tested;;GS;Yes
+TP00391;Not tested;Negatif;GS;Yes
+TP00381;Not tested;Negatif;GS;Yes
+TP00383;Not tested;Negatif;GS;Yes
+TP00371;1+;;GS;Yes
+TP00384;Not tested;Negatif;GS;Yes
+TP00378;Not tested;Negatif;GS;Yes
+TP00385;Not tested;Negatif;GS;Yes
+TP00377;Not tested;Negatif;GS;Yes
+TP00379;Not tested;Negatif;GS;Yes
+TP00382;Not tested;Negatif;GS;Yes
+TP00372;Not tested;Negatif;GS;Yes
+TP00373;Not tested;Negatif;GS;Yes
+TP00691;Neg;Negatif;GS;Yes
+TP06230;2+;Negatif;GS;Yes
+TP00393;Not tested;Negatif;GS;Yes
+TP00684;Not tested;Negatif;GS;Yes
+TP00814;2+;Negatif;GS;Yes
+TP00395;Not tested;Negatif;GS;Yes
+TP06235;Scanty;Negatif;GS;Yes
+TP00387;Not tested;Negatif;GS;Yes
+TP00738;Scanty;Negatif;GS;Yes
+TP00971;1+;Negatif;GS;Yes
+TP00829;Scanty;Negatif;GS;Yes
+TP00830;Scanty;Negatif;GS;Yes
+TP00812;1+;Negatif;GS;Yes
+TP00824;Scanty;Negatif;GS;Yes
+TP00827;Scanty;Negatif;GS;Yes
+TP00834;Scanty;Negatif;GS;Yes
+TP00836;Scanty;Negatif;GS;Yes
+TP00358;1+;Negatif;GS;Yes
+TP00032;1+;Negatif;GS;Yes
+TP00068;1+;Negatif;GS;Yes
+TP00075;Neg;Negatif;GS;No
+TP00360;Neg;Negatif;GS;Yes
+TP00078;Neg;Negatif;GS;No
+TP00719;Neg;Negatif;GS;Yes
+TP00714;2+;Negatif;GS;No
+TP00330;Neg;Negatif;GS;Yes
+TP00380;Not tested;Negatif;GS;Yes
+TP00771;Neg;Negatif;GS;No
+TP00363;Not tested;Negatif;GS;Yes
+TP00364;Not tested;;GS;Yes
+TP00370;3+;;GS;Yes
+TP00386;Not tested;Negatif;GS;Yes
+TP00362;Not tested;Negatif;GS;Yes
+TP00798;1+;Negatif;GS;Yes
+TP00838;Neg;Negatif;GS;Yes
+TP00852;Neg;Negatif;GS;Yes
+TP00584;Not tested;Negatif;GS;Yes
+TP00943;1+;Negatif;GS;Yes
+TP00928;Neg;Negatif;GS;No
+TP00724;2+;Negatif;GS;Yes
+TP00376;Not tested;Negatif;GS;Yes
+TP01139;1+;Negatif;GS;No
+TP01109;3+;Negatif;GS;No
+TP01540;Neg;Negatif;GS;No
+TP01107;2+;Negatif;GS;Yes
+TP01136;1+;Negatif;GS;Yes
+TP01049;1+;Negatif;GS;Yes
+TP01103;3+;Positif;GS;Yes
+TP01140;1+;Negatif;GS;No
+TP01525;Neg;Negatif;GS;No
+TP00033;Scanty;Negatif;GS;No
+TP00035;1+;Negatif;GS;Yes
+TP01104;Scanty;Negatif;GS;Yes
+TP01137;Neg;Negatif;GS;Yes
+TP00057;1+;Negatif;GS;Yes
+TP00375;Neg;Negatif;GS;Yes
+TP01566;Neg;Negatif;GS;No
+TP01200;2+;Negatif;GS;Yes
+TP00965;1+;Negatif;GS;No
+TP00974;1+;Negatif;GS;Yes
+TP00980;2+;Negatif;GS;Yes
+TP01047;1+;Negatif;GS;Yes
+TP00976;1+;Negatif;GS;Yes
+TP01045;2+;Negatif;GS;Yes
+TP01017;2+;Negatif;GS;Yes
+TP01048;1+;Positif;GS;Yes
+TP00983;1+;Negatif;GS;Yes
+TP01072;1+;Negatif;GS;Yes
+TP01052;1+;Negatif;GS;Yes
+TP01175;Scanty;Negatif;GS;Yes
+TP01179;1+;Negatif;GS;Yes
+TP01391;1+;Negatif;GS;Yes
+TP01393;Neg;Negatif;GS;Yes
+TP01488;Neg;Negatif;GS;No
+TP01394;Neg;Negatif;GS;Yes
+TP01395;Neg;Negatif;GS;No
+TP01229;3+;Negatif;GS;Yes
+TP01188;2+;Negatif;GS;Yes
+TP01180;Scanty;Negatif;GS;Yes
+TP01561;Neg;Negatif;GS;Yes
+TP01504;3+;Negatif;GS;Yes
+TP01497;Neg;Negatif;GS;No
+TP01562;1+;Negatif;GS;Yes
+TP01495;Scanty;Negatif;GS;No
+TP01496;1+;Negatif;GS;Yes
+TP01571;Scanty;Negatif;GS;Yes
+TP01572;Neg;Negatif;GS;Yes
+TP01630;Neg;Negatif;GS;No
+TP01633;Neg;Negatif;GS;Yes
+TP01634;Neg;Negatif;GS;No
+TP01636;Neg;Negatif;GS;No
+TP01632;Neg;Negatif;GS;Yes
+TP01573;1+;Negatif;GS;No
+TP01641;Neg;Negatif;GS;No
+TP01638;Neg;Negatif;GS;No
+TP01642;Neg;Negatif;GS;No
+TP01637;Scanty;Positif;GS;No
+TP01631;Neg;Negatif;GS;Yes
+TP00936;3+;Negatif;GS;Yes
+TP01060;1+;Negatif;GS;Yes
+TP00968;3+;Negatif;GS;Yes
+TP01053;2+;Negatif;GS;Yes
+TP01038;1+;Negatif;GS;Yes
+TP01057;3+;Negatif;GS;Yes
+TP00978;1+;Negatif;GS;Yes
+TP01036;2+;Negatif;GS;Yes
+TP01033;3+;Negatif;GS;Yes
+TP01039;1+;Negatif;GS;Yes
+TP00969;1+;Negatif;GS;Yes
+TP01054;3+;Negatif;GS;Yes
+TP01034;3+;Negatif;GS;Yes
+TP01186;2+;Negatif;GS;Yes
+TP01217;1+;Negatif;GS;Yes
+TP01192;2+;Negatif;GS;Yes
+TP01070;1+;Negatif;GS;Yes
+TP01218;2+;Negatif;GS;Yes
+TP01093;3+;Negatif;GS;Yes
+TP01100;3+;Negatif;GS;Yes
+TP01201;3+;Negatif;GS;Yes
+TP01071;1+;Negatif;GS;No
+TP01425;1+;Negatif;GS;Yes
+TP01423;3+;Negatif;GS;Yes
+TP01226;1+;Negatif;GS;Yes
+TP01392;1+;Negatif;GS;Yes
+TP01498;3+;Negatif;GS;Yes
+TP01437;2+;Negatif;GS;Yes
+TP01396;3+;Negatif;GS;Yes
+TP01432;Scanty;Negatif;GS;Yes
+TP01570;3+;Negatif;GS;Yes
+TP01505;3+;Negatif;GS;Yes
+TP01563;3+;Negatif;GS;Yes
+TP01494;3+;Negatif;GS;Yes
+TP01567;3+;Negatif;GS;Yes
+TP01503;2+;Negatif;GS;Yes
+TP01569;3+;Negatif;GS;Yes
+TP01564;3+;Negatif;GS;Yes
+TP01639;Scanty;Negatif;GS;Yes
+TP01635;Scanty;Negatif;GS;Yes
+TP01560;1+;Negatif;GS;Yes
+TP00963;3+;Negatif;GS;Yes
+TP00966;2+;Negatif;GS;Yes
+TP00964;3+;Negatif;GS;No
+TP00962;3+;Negatif;GS;Yes
+TP00927;3+;Negatif;GS;Yes
+TP01691;Scanty;Negatif;GS;Yes
+TP01837;Neg;Negatif;GS;Yes
+TP01111;1+;Negatif;GS;No
+TP01094;2+;Negatif;GS;Yes
+TP00416;Neg;Negatif;GS;Yes
+TP01032;3+;Negatif;GS;Yes
+TP01040;3+;Negatif;GS;Yes
+TP00975;2+;Negatif;GS;Yes
+TP01105;2+;Negatif;GS;Yes
+TP01090;2+;Negatif;GS;Yes
+TP01091;3+;Negatif;GS;Yes
+TP01099;3+;Negatif;GS;Yes
+TP00403;Not tested;;GS;Yes
+TP01165;3+;Negatif;GS;Yes
+TP01108;3+;Negatif;GS;Yes
+TP01576;3+;Negatif;GS;Yes
+TP01183;3+;Negatif;GS;Yes
+TP01577;Scanty;Negatif;GS;Yes
+TP01675;Neg;Negatif;GS;Yes
+TP01182;2+;Negatif;GS;Yes
+TP01589;Neg;Negatif;GS;Yes
+TP01595;3+;Negatif;GS;Yes
+TP01615;2+;Negatif;GS;Yes
+TP01181;1+;Negatif;GS;Yes
+TP01625;Scanty;Negatif;GS;No
+TP01185;3+;Negatif;GS;Yes
+TP01678;1+;Negatif;GS;Yes
+TP01687;Neg;Negatif;GS;No
+TP01676;3+;Negatif;GS;Yes
+TP01606;3+;Negatif;GS;Yes
+TP01830;Neg;Negatif;GS;Yes
+TP01840;3+;Negatif;GS;Yes
+TP01828;Neg;Negatif;GS;Yes
+TP01829;1+;Negatif;GS;Yes
+TP01699;3+;Negatif;GS;Yes
+TP01715;2+;Negatif;GS;Yes
+TP01833;1+;Negatif;GS;Yes
+TP01832;Neg;Negatif;GS;Yes
+TP01831;Neg;Negatif;GS;Yes
+TP01674;Neg;Negatif;GS;Yes
+TP01677;3+;Negatif;GS;Yes
+TP06270;2+;Negatif;GS;Yes
+TP06265;2+;Negatif;GS;Yes
+TP06268;3+;Negatif;GS;Yes
+TP00150;Neg;Negatif;GS;No
+TP06279;Scanty;Negatif;GS;No
+TP01716;Neg;Negatif;GS;No
+TP01834;Neg;Negatif;GS;No
+TP06273;Neg;Negatif;GS;No
+TP01841;Neg;Negatif;GS;Yes
+TP01673;Scanty;Negatif;GS;Yes
+TP01690;Neg;Negatif;GS;Yes
+TP01178;Scanty;Negatif;GS;Yes
+TP01601;Neg;;GS;No
+TP00402;Not tested;;GS;No
+TP01705;1+;Negatif;GS;Yes
+TP01835;Neg;Negatif;GS;Yes
+TP01836;1+;Negatif;GS;Yes
+TP01838;Neg;Negatif;GS;No
+TP01839;Neg;Negatif;GS;Yes
+TP06274;Neg;Negatif;GS;Yes
+TP06277;Scanty;Negatif;GS;Yes
+TP01591;Neg;Negatif;GS;No
+TP01610;Scanty;Negatif;GS;No
+TP01612;Scanty;Negatif;GS;No
+TP01626;Neg;Negatif;GS;No
+TP01614;Neg;Negatif;GS;No
+TP01627;Scanty;Negatif;GS;Yes
+TP01623;Neg;Negatif;GS;Yes
+TP01590;Neg;Negatif;GS;No
+TP01598;3+;Negatif;GS;Yes
+TP01602;Neg;Negatif;GS;No
+TP01604;Scanty;Negatif;GS;No
+TP01110;1+;Negatif;GS;Yes
+TP01575;Scanty;Positif;GS;No
+TP01579;3+;Negatif;GS;Yes
+TP01697;Neg;Negatif;GS;No
+TP01703;Neg;Negatif;GS;No
+TP01698;Neg;Negatif;GS;Yes
+TP01701;Neg;Negatif;GS;No
+TP01694;Neg;Negatif;GS;No
+TP01629;Neg;Negatif;GS;No
+TP01685;Neg;Negatif;GS;No
+TP01684;Scanty;Positif;GS;Yes
+TP01679;Scanty;Negatif;GS;No
+TP01617;Neg;Negatif;GS;Yes
+TP01616;Neg;Negatif;GS;No
+TP01624;Neg;Negatif;GS;No
+TP01600;Scanty;Negatif;GS;Yes
+TP01596;1+;Negatif;GS;Yes
+TP01581;3+;Negatif;GS;Yes
+TP01584;3+;Negatif;GS;Yes
+TP01588;3+;Negatif;GS;Yes
+TP01578;3+;Negatif;GS;Yes
+TP01592;3+;Negatif;GS;Yes
+TP01597;3+;Negatif;GS;Yes
+TP01605;1+;Negatif;GS;Yes
+TP01608;3+;Negatif;GS;Yes
+TP01603;2+;Negatif;GS;Yes
+TP01599;3+;Positif;GS;Yes
+TP01621;3+;Positif;GS;Yes
+TP01609;3+;Negatif;GS;Yes
+TP01618;2+;Negatif;GS;Yes
+TP01682;2+;Negatif;GS;Yes
+TP01686;3+;Negatif;GS;Yes
+TP01689;3+;Negatif;GS;Yes
+TP01700;Neg;Negatif;GS;Yes
+TP01683;3+;Negatif;GS;Yes
+TP01710;3+;Negatif;GS;Yes
+TP01771;Scanty;Negatif;GS;Yes
+TP01773;2+;Negatif;GS;Yes
+TP01718;1+;Negatif;GS;Yes
+TP01726;Neg;Positif;GS;No
+TP01611;3+;Negatif;GS;Yes
+TP01787;1+;Negatif;GS;Yes
+TP01793;Scanty;Negatif;GS;Yes
+TP01788;3+;Negatif;GS;Yes
+TP01786;Scanty;Negatif;GS;Yes
+TP01784;2+;Negatif;GS;Yes
+TP01795;3+;Negatif;GS;Yes
+TP01775;3+;Negatif;GS;Yes
+TP01790;3+;Negatif;GS;Yes
+TP01738;1+;Negatif;GS;Yes
+TP01782;Neg;Negatif;GS;Yes
+TP01798;2+;Negatif;GS;Yes
+TP01810;Neg;Negatif;GS;Yes
+TP01799;3+;Negatif;GS;Yes
+TP01809;3+;Negatif;GS;Yes
+TP01800;3+;Negatif;GS;Yes
+TP06266;3+;Negatif;GS;Yes
+TP06269;3+;Negatif;GS;Yes
+TP06267;3+;Negatif;GS;Yes
+TP01792;3+;Negatif;GS;Yes
+TP01813;3+;Negatif;GS;Yes
+TP01688;Neg;Negatif;GS;Yes
+TP01619;Neg;Negatif;GS;Yes
+TP01702;Neg;Negatif;GS;Yes
+TP01613;Neg;Negatif;GS;Yes
+TP01574;Scanty;Negatif;GS;Yes
+TP01594;Neg;Negatif;GS;Yes
+TP01586;Neg;Negatif;GS;No
+TP01585;Neg;Negatif;GS;No
+TP01583;Neg;Negatif;GS;No
+TP01587;Neg;Negatif;GS;Yes
+TP01593;1+;Negatif;GS;Yes
+TP01680;1+;Negatif;GS;Yes
+TP01681;Scanty;Negatif;GS;No
+TP01582;Scanty;Negatif;GS;No
+TP01696;Scanty;Negatif;GS;Yes
+TP01622;Scanty;Negatif;GS;Yes
+TP01628;3+;Negatif;GS;Yes
+TP01730;Neg;Negatif;GS;No
+TP01717;Neg;Negatif;GS;Yes
+TP01707;Neg;Negatif;GS;Yes
+TP01725;Scanty;Negatif;GS;Yes
+TP01704;Neg;Negatif;GS;No
+TP01607;Scanty;Negatif;GS;Yes
+TP01708;1+;Negatif;GS;Yes
+TP01706;Scanty;Negatif;GS;Yes
+TP01739;1+;Negatif;GS;Yes
+TP01785;Neg;Negatif;GS;Yes
+TP01777;Neg;Negatif;GS;Yes
+TP01805;Neg;Negatif;GS;Yes
+TP01802;1+;Negatif;GS;Yes
+TP01808;3+;Negatif;GS;Yes
+TP01812;3+;Negatif;GS;Yes
+TP01737;1+;Negatif;GS;Yes
+TP01766;Neg;Positif;GS;Yes
+TP01804;Scanty;Negatif;GS;Yes
+TP01803;1+;Negatif;GS;Yes
+TP06276;Neg;Negatif;GS;No
+TP01797;2+;Negatif;GS;Yes
+TP01772;Neg;Negatif;GS;Yes
+TP01768;Neg;Negatif;GS;Yes
+TP01791;Neg;Negatif;GS;Yes
+TP01767;Neg;Positif;GS;Yes
+TP01789;Neg;Negatif;GS;Yes
+TP01811;Scanty;Negatif;GS;Yes
+TP01580;Neg;Negatif;GS;Yes
+TP01779;3+;Negatif;GS;Yes
+TP01719;1+;Negatif;GS;Yes
+TP06295;Neg;Negatif;GS;Yes
+TP06281;Neg;Negatif;GS;Yes
+TP01780;Neg;Negatif;GS;Yes
+TP01806;Neg;Negatif;GS;Yes
+TP01807;Neg;Negatif;GS;Yes
+TP06304;Neg;Negatif;GS;No
+TP06299;Neg;Negatif;GS;Yes
+TP06284;1+;Negatif;GS;Yes
+TP01914;Neg;Negatif;GS;No
+TP06308;Neg;Negatif;GS;Yes
+TP06316;Neg;Negatif;GS;No
+TP06323;Neg;Negatif;GS;No
+TP06331;Neg;Negatif;GS;Yes
+TP06317;Neg;Negatif;GS;No
+TP06326;Neg;Negatif;GS;Yes
+TP06332;Neg;Negatif;GS;No
+TB02305;Neg;Negatif;GS;Yes
+TB02297;Neg;Negatif;GS;Yes
+TB02321;Neg;Negatif;GS;No
+TB02300;Neg;Negatif;GS;Yes
+TB02319;Neg;Negatif;GS;Yes
+TB02303;Neg;Negatif;GS;No
+TB02310;Neg;Negatif;GS;No
+TB02316;Neg;Negatif;GS;Yes
+TB02339;Scanty;Negatif;GS;No
+TB02341;Neg;Negatif;GS;No
+TB02335;Neg;Negatif;GS;Yes
+TB02343;Neg;Negatif;GS;Yes
+TB02336;Neg;Negatif;GS;Yes
+TB02351;Neg;Negatif;GS;No
+TB02352;Neg;Negatif;GS;Yes
+TB02326;Neg;Negatif;GS;Yes
+TB02359;Neg;Negatif;GS;Yes
+TP01722;3+;Negatif;GS;Yes
+TP01731;Neg;Negatif;GS;Yes
+TP01776;Neg;Negatif;GS;Yes
+TP01734;1+;Negatif;GS;Yes
+TP01735;1+;Negatif;GS;Yes
+TB02306;Neg;Negatif;GS;No
+TB02304;Neg;Negatif;GS;Yes
+TB02325;Neg;Negatif;GS;Yes
+TB02315;Neg;Negatif;GS;Yes
+TB02301;Neg;Negatif;GS;Yes
+TP06329;Neg;Negatif;GS;No
+TB02345;Neg;Negatif;GS;Yes
+TB02340;Neg;Negatif;GS;No
+TP01781;Neg;Negatif;GS;Yes
+TB02331;Neg;Negatif;GS;No
+TP01733;Neg;Negatif;GS;No
+TP01736;Neg;Negatif;GS;No
+TB02330;Neg;Negatif;GS;No
+TB02309;Neg;Negatif;GS;No
+TP01912;Neg;Negatif;GS;No
+TP01732;Neg;Negatif;GS;Yes
+TP01723;Neg;Negatif;GS;No
+TP06280;Neg;Negatif;GS;Yes
+TB02355;Neg;Negatif;GS;Yes
+TB02365;Neg;Negatif;GS;Yes
+TP06285;2+;Negatif;GS;Yes
+TP01724;2+;Negatif;GS;Yes
+TP01721;Neg;Negatif;GS;Yes
+TP01915;Neg;Negatif;GS;No
+TP01727;Neg;Negatif;GS;No
+TB02320;Neg;Negatif;GS;No
+TB02327;Neg;Negatif;GS;No
+TB02353;1+;Negatif;GS;Yes
+TB02338;2+;Negatif;GS;Yes
+TB02337;Neg;Negatif;GS;Yes
+TP01729;Neg;Negatif;GS;No
+TP01720;Neg;Negatif;GS;No
+TP01640;Neg;Negatif;GS;No
+TB02349;Neg;Negatif;GS;Yes
+TP06334;Neg;Negatif;GS;No
+TP06328;Neg;Negatif;GS;No
+TP06321;Neg;Negatif;GS;No
+TP06330;Neg;Negatif;GS;No
+TP06318;Neg;Negatif;GS;No
+TP06322;Neg;Negatif;GS;No
+TP06333;Neg;Negatif;GS;No
+TP06324;Neg;Negatif;GS;No
+TP06313;Neg;Negatif;GS;No
+TP06327;Neg;Negatif;GS;No
+TP06335;Neg;Negatif;GS;No
+TP06336;Neg;Negatif;GS;No
+TP06312;Neg;Negatif;GS;No
+TP06293;Neg;Negatif;GS;Yes
+TP06303;Scanty;Negatif;GS;Yes
+TP06314;Neg;Negatif;GS;No
+TP01711;2+;Negatif;GS;Yes
+TP01765;Neg;Negatif;GS;No
+TP01825;Neg;Negatif;GS;No
+TP01713;3+;Negatif;GS;Yes
+TP01755;2+;Negatif;GS;Yes
+TP01714;Neg;Negatif;GS;No
+TP01814;Neg;Negatif;GS;No
+TP01712;3+;Negatif;GS;Yes
+TP01823;Neg;Negatif;GS;No
+TP01846;Neg;Negatif;GS;Yes
+TP01857;Neg;Negatif;GS;No
+TP01856;Neg;Negatif;GS;No
+TP01849;Neg;Negatif;GS;Yes
+TP01817;Neg;Negatif;GS;No
+TP01858;Neg;Negatif;GS;No
+TP01848;Neg;Negatif;GS;No
+TP01842;Neg;Negatif;GS;No
+TP01855;Neg;Negatif;GS;No
+TP01859;Neg;Negatif;GS;No
+TP01861;Neg;Negatif;GS;No
+TP01864;Neg;Negatif;GS;No
+TP01860;Neg;Negatif;GS;No
+TP01863;Neg;Negatif;GS;Yes
+TP01913;Neg;Negatif;GS;No
+TP01862;Neg;Negatif;GS;Yes
+TP01878;Neg;Negatif;GS;No
+TP01866;Neg;Negatif;GS;No
+TP01865;Neg;Negatif;GS;No
+TP01844;Scanty;Negatif;GS;Yes
+TP01881;Neg;Negatif;GS;No
+TP01880;1+;Negatif;GS;Yes
+TP01867;Scanty;Negatif;GS;No
+TP01932;Neg;Negatif;GS;No
+TP01907;Scanty;Negatif;GS;Yes
+TP01941;Neg;Negatif;GS;No
+TP01928;Neg;Negatif;GS;No
+TP01930;Neg;Negatif;GS;No
+TP01938;Scanty;Negatif;GS;Yes
+TP01919;Neg;Negatif;GS;No
+TP01922;3+;Negatif;GS;Yes
+TP01874;Neg;Negatif;GS;Yes
+TP01939;Scanty;Negatif;GS;Yes
+TP01916;Neg;Negatif;GS;Yes
+TP01879;Neg;Negatif;GS;Yes
+TP01693;Neg;Negatif;GS;No
+TP02097;2+;Negatif;GS;Yes
+TP02094;3+;Negatif;GS;Yes
+TP02090;3+;Negatif;GS;Yes
+TP02068;1+;Negatif;GS;Yes
+TP02071;1+;Negatif;GS;Yes
+TP02091;3+;Negatif;GS;Yes
+TP02074;1+;Negatif;GS;Yes
+TP02093;1+;Negatif;GS;Yes
+TP02079;2+;Negatif;GS;Yes
+TP02081;1+;Negatif;GS;Yes
+TP02080;2+;Negatif;GS;Yes
+TP02065;1+;Negatif;GS;Yes
+TP02067;2+;Negatif;GS;Yes
+TP02061;2+;Negatif;GS;Yes
+TP02058;2+;Negatif;GS;Yes
+TP02057;3+;Negatif;GS;Yes
+TP02056;1+;Negatif;GS;Yes
+TP02055;2+;Negatif;GS;Yes
+TP02053;3+;Negatif;GS;Yes
+TP02052;1+;Negatif;GS;Yes
+TP02051;1+;Negatif;GS;Yes
+TP02040;1+;Negatif;GS;Yes
+TP02045;2+;Negatif;GS;Yes
+TP02039;3+;Negatif;GS;Yes
+TP01877;3+;Negatif;GS;Yes
+TP01883;3+;Negatif;GS;Yes
+TP01875;2+;Negatif;GS;Yes
+TP01871;2+;Negatif;GS;Yes
+TP01876;3+;Negatif;GS;Yes
+TP01854;3+;Negatif;GS;Yes
+TP01853;3+;Negatif;GS;Yes
+TP01852;3+;Negatif;GS;Yes
+TP01872;3+;Negatif;GS;Yes
+TP01850;3+;Negatif;GS;Yes
+TP01851;1+;Negatif;GS;Yes
+TP01845;2+;Negatif;GS;Yes
+TP01827;3+;Negatif;GS;Yes
+TP01847;1+;Negatif;GS;Yes
+TP01843;3+;Negatif;GS;Yes
+TP01822;3+;Negatif;GS;Yes
+TP01826;3+;Negatif;GS;Yes
+TP01824;Neg;Negatif;GS;Yes
+TP01821;3+;Negatif;GS;Yes
+TP01816;3+;Negatif;GS;Yes
+TP01815;1+;Negatif;GS;Yes
+TP02046;Scanty;Negatif;GS;No
+TP02064;Scanty;Negatif;GS;Yes
+TP02042;Neg;Negatif;GS;No
+TP02044;Neg;Negatif;GS;No
+TP02089;Neg;Negatif;GS;Yes
+TP02103;Neg;Negatif;GS;No
+TP02098;Neg;Positif;GS;No
+TP02109;Neg;Negatif;GS;No
+TP02096;Neg;Negatif;GS;No
+TP02101;Scanty;Negatif;GS;Yes
+TP02104;Scanty;Negatif;GS;Yes
+TP02113;Scanty;Negatif;GS;Yes
+TP02115;Scanty;Negatif;GS;Yes
+TP02116;Neg;Negatif;GS;Yes
+TP02085;Neg;Negatif;GS;Yes
+TP02084;Neg;Negatif;GS;No
+TP02086;Neg;Negatif;GS;Yes
+TP02077;Neg;Negatif;GS;Yes
+TP02072;Neg;Negatif;GS;No
+TP02066;Neg;Negatif;GS;No
+TP02073;Neg;Negatif;GS;No
+TP02062;Scanty;Negatif;GS;Yes
+TP02059;Scanty;Negatif;GS;Yes
+TP02075;Neg;Negatif;GS;No
+TP02070;Neg;Negatif;GS;No
+TP02069;Neg;Positif;GS;No
+TP02076;Neg;Negatif;GS;No
+TP02050;Scanty;Negatif;GS;Yes
+TP02060;Neg;Negatif;GS;Yes
+TP02049;Scanty;Negatif;GS;No
+TP02041;Neg;Negatif;GS;No
+TP02004;3+;Negatif;GS;Yes
+TP02048;Neg;Negatif;GS;No
+TP02063;Scanty;Negatif;GS;Yes
+TP02043;Neg;Negatif;GS;No
+TP02102;Neg;Negatif;GS;No
+TP02092;Neg;Negatif;GS;No
+TP02095;Neg;Negatif;GS;No
+TP02083;Neg;Negatif;GS;No
+TP02082;Neg;Negatif;GS;No
+TP02054;Neg;Negatif;GS;Yes
+TP02047;Neg;Negatif;GS;Yes
+TP02087;Neg;Negatif;GS;Yes
+TP02088;Scanty;Negatif;GS;Yes
+TP02078;Scanty;Negatif;GS;Yes
+TP02158;Neg;Negatif;GS;Yes
+TP02206;Neg;Negatif;GS;Yes
+TP02148;Neg;Negatif;GS;Yes
+TP02153;Neg;Negatif;GS;No
+TP02156;Neg;Negatif;GS;No
+TP02151;Neg;Negatif;GS;No
+TP02135;Neg;Negatif;GS;No
+TP02142;Neg;Negatif;GS;No
+TP02147;Neg;Negatif;GS;No
+TP02134;1+;Negatif;GS;No
+TP02145;Neg;Negatif;GS;No
+TP02143;Neg;Negatif;GS;No
+TP02144;Neg;Negatif;GS;No
+TP02137;Neg;Negatif;GS;No
+TP02168;Neg;Negatif;GS;No
+TP02155;Neg;Negatif;GS;Yes
+TP02164;Neg;Negatif;GS;No
+TP02160;Neg;Negatif;GS;Yes
+TP02161;Neg;Negatif;GS;Yes
+TP02192;Neg;Negatif;GS;No
+TP02188;Neg;Negatif;GS;No
+TP02175;Scanty;Negatif;GS;Yes
+TP02180;Neg;Negatif;GS;No
+TP02154;Scanty;Negatif;GS;Yes
+TP02170;Scanty;Negatif;GS;Yes
+TP02173;Neg;Negatif;GS;Yes
+TP02183;Neg;Negatif;GS;Yes
+TP02186;Neg;Negatif;GS;Yes
+TP02181;Neg;Negatif;GS;No
+TP02202;Neg;Negatif;GS;No
+TP02207;Neg;Negatif;GS;Yes
+TP02195;Neg;Negatif;GS;Yes
+TP02201;1+;Negatif;GS;Yes
+TP02200;Neg;Negatif;GS;Yes
+TP02196;Scanty;Negatif;GS;Yes
+TP02209;Neg;Negatif;GS;No
+TP02199;2+;Negatif;GS;Yes
+TP02197;1+;Negatif;GS;Yes
+TP02130;Neg;Negatif;GS;No
+TP02125;Neg;Negatif;GS;No
+TP02131;Neg;Negatif;GS;No
+TP02203;1+;Negatif;GS;Yes
+TP02128;Neg;Negatif;GS;No
+TP02119;Neg;Negatif;GS;Yes
+TP02117;Scanty;Negatif;GS;No
+TP01882;1+;Negatif;GS;Yes
+TP01888;Neg;Negatif;GS;No
+TP02029;Neg;Negatif;GS;No
+TP02354;2+;Negatif;GS;Yes
+TP02357;2+;Negatif;GS;Yes
+TP02358;1+;Negatif;GS;Yes
+TP02355;1+;Negatif;GS;Yes
+TP02356;2+;Negatif;GS;Yes
+TP02015;1+;Negatif;GS;Yes
+TP01903;Neg;Negatif;GS;No
+TP01885;Scanty;Negatif;GS;Yes
+TP01886;POS;Negatif;GS;Yes
+TP01942;POS;Negatif;GS;Yes
+TP01947;POS;Positif;GS;Yes
+TP01957;Neg;Negatif;GS;Yes
+TP01945;Neg;Negatif;GS;No
+TP01869;Neg;Negatif;GS;No
+TP01943;Neg;Negatif;GS;No
+TP01946;Neg;Negatif;GS;No
+TP02400;Neg;Negatif;GS;No
+TP02401;Neg;Negatif;GS;Yes
+TP02375;Neg;Negatif;GS;No
+TP02444;2+;Negatif;GS;Yes
+TP02374;Neg;Negatif;GS;No
+TP02393;1+;Negatif;GS;Yes
+TP02361;2+;Negatif;GS;Yes
+TP02360;3+;Negatif;GS;Yes
+TP02359;1+;Negatif;GS;Yes
+TP02395;Neg;Negatif;GS;Yes
+TP02446;3+;Negatif;GS;Yes
+TP02456;1+;Negatif;GS;Yes
+TP02457;3+;Negatif;GS;Yes
+TP02450;2+;Negatif;GS;Yes
+TP02451;2+;Negatif;GS;Yes
+TP02447;1+;Negatif;GS;Yes
+TP02458;1+;Negatif;GS;Yes
+TP02461;2+;Negatif;GS;Yes
+TP02445;3+;Negatif;GS;Yes
+TP02460;3+;Negatif;GS;Yes
+TP02462;2+;Negatif;GS;Yes
+TP02463;2+;Negatif;GS;Yes
+TP02533;Neg;Negatif;GS;No
+TP02459;1+;Negatif;GS;Yes
+TP02464;3+;Negatif;GS;Yes
+TP00929;Neg;Negatif;GS;Yes
+TP02212;Scanty;Negatif;GS;Yes
+TP02213;3+;Negatif;GS;Yes
+TP02221;3+;Negatif;GS;Yes
+TP02214;1+;Negatif;GS;Yes
+TP02253;1+;Negatif;GS;Yes
+TP02223;1+;Negatif;GS;Yes
+TP02294;3+;Negatif;GS;Yes
+TP02297;Neg;Negatif;GS;Yes
+TP02298;Neg;Negatif;GS;No
+TP02301;3+;Negatif;GS;Yes
+TP02303;Scanty;Negatif;GS;Yes
+TP02299;3+;Negatif;GS;Yes
+TP02259;3+;Negatif;GS;Yes
+TP02293;3+;Negatif;GS;Yes
+TP02282;2+;Negatif;GS;Yes
+TP02291;Neg;Positif;GS;No
+TP02274;1+;Negatif;GS;Yes
+TP02287;2+;Negatif;GS;Yes
+TP02290;Neg;Negatif;GS;Yes
+TP02262;1+;Negatif;GS;Yes
+TP02284;3+;Negatif;GS;Yes
+TP02258;1+;Negatif;GS;Yes
+TP02289;Neg;Negatif;GS;Yes
+TP02281;1+;Negatif;GS;Yes
+TP02308;Scanty;Negatif;GS;Yes
+TP02328;Scanty;Negatif;GS;Yes
+TP02326;3+;Negatif;GS;Yes
+TP02322;3+;Negatif;GS;Yes
+TP02320;1+;Negatif;GS;Yes
+TP02327;3+;Negatif;GS;Yes
+TP02304;Neg;Negatif;GS;No
+TP02321;1+;Negatif;GS;Yes
+TP02329;Scanty;Negatif;GS;Yes
+TP02306;1+;Negatif;GS;Yes
+TP02314;3+;Negatif;GS;Yes
+TP02317;2+;Negatif;GS;Yes
+TP02311;2+;Negatif;GS;Yes
+TP02312;2+;Negatif;GS;Yes
+TP02313;1+;Negatif;GS;Yes
+TP02229;2+;Negatif;GS;Yes
+TP02227;Neg;Negatif;GS;Yes
+TP02246;1+;Negatif;GS;Yes
+TP02235;1+;Negatif;GS;Yes
+TP02233;1+;Negatif;GS;Yes
+TP01954;3+;Negatif;GS;Yes
+TP02305;Neg;Negatif;GS;Yes
+TP02017;Neg;Negatif;GS;No
+TP02210;Neg;Negatif;GS;Yes
+TP01992;Neg;Negatif;GS;Yes
+TP02216;Neg;Negatif;GS;No
+TP01998;1+;Negatif;GS;Yes
+TP02224;Neg;Negatif;GS;No
+TP02218;2+;Negatif;GS;Yes
+TP02237;Neg;Negatif;GS;No
+TP02238;Neg;Negatif;GS;Yes
+TP02220;Neg;Negatif;GS;Yes
+TP02257;Neg;Negatif;GS;No
+TP02249;Neg;Negatif;GS;Yes
+TP02219;Scanty;Negatif;GS;Yes
+TP02211;2+;Negatif;GS;Yes
+TP02225;Scanty;Negatif;GS;Yes
+TP02271;Neg;Negatif;GS;No
+TP02270;Neg;Negatif;GS;Yes
+TP02269;Neg;Negatif;GS;No
+TP02240;Neg;Negatif;GS;Yes
+TP02272;Neg;Negatif;GS;No
+TP02286;Neg;Negatif;GS;No
+TP02283;Neg;Negatif;GS;No
+TP02260;Neg;Negatif;GS;Yes
+TP02277;Neg;Negatif;GS;No
+TP02276;Neg;Negatif;GS;No
+TP02295;Neg;Negatif;GS;Yes
+TP02285;Scanty;Negatif;GS;Yes
+TP02300;Neg;Negatif;GS;No
+TP02288;Neg;Negatif;GS;Yes
+TP02296;1+;Negatif;GS;Yes
+TP02307;Neg;Negatif;GS;Yes
+TP02302;Neg;Negatif;GS;Yes
+TP02310;Neg;Negatif;GS;No
+TP02292;Neg;Positif;GS;Yes
+TP02330;Neg;Negatif;GS;No
+TP02319;Neg;Negatif;GS;Yes
+TP02316;Scanty;Negatif;GS;No
+TP02309;Neg;Negatif;GS;No
+TP02331;Neg;Negatif;GS;Yes
+TP02325;Neg;Negatif;GS;No
+TP02318;Neg;Negatif;GS;Yes
+TP02315;1+;Negatif;GS;Yes
+TP02323;Neg;Negatif;GS;Yes
+TP02324;Scanty;Negatif;GS;Yes
+TP02449;Scanty;Negatif;GS;No
+TP02410;Neg;Negatif;GS;Yes
+TP02452;Neg;Negatif;GS;No
+TP02412;Neg;Negatif;GS;Yes
+TP02422;Neg;Negatif;GS;Yes
+TP02448;Neg;Negatif;GS;No
+TP02419;Neg;Negatif;GS;Yes
+TP02418;Neg;Negatif;GS;Yes
+TP02426;Neg;Negatif;GS;No
+TP02417;Neg;Negatif;GS;Yes
+TP01763;Neg;Negatif;GS;Yes
+TP01759;Neg;Negatif;GS;Yes
+TP01762;Neg;Negatif;GS;Yes
+TP01764;Neg;Negatif;GS;No
+TP02352;Neg;Negatif;GS;Yes
+TP02409;Neg;Negatif;GS;No
+TP02348;Neg;Negatif;GS;Yes
+TP02344;1+;Negatif;GS;Yes
+TP02353;Neg;Negatif;GS;Yes
+TP01974;1+;Negatif;GS;No
+TP01955;Neg;Negatif;GS;No
+TP01967;Scanty;Negatif;GS;No
+TP01981;Scanty;Positif;GS;No
+TP01999;Neg;Negatif;GS;No
+TP01959;Scanty;Negatif;GS;Yes
+TP01987;3+;Negatif;GS;No
+TP01963;Neg;Negatif;GS;No
+TP02342;Neg;Negatif;GS;No
+TP02337;Neg;Negatif;GS;No
+TP02338;Neg;Negatif;GS;Yes
+TP02341;2+;Negatif;GS;Yes
+TP02333;Neg;Negatif;GS;Yes
+TP02347;Neg;Negatif;GS;No
+TP01988;Neg;Negatif;GS;Yes
+TP02332;Neg;Negatif;GS;Yes
+TP02345;Neg;Negatif;GS;Yes
+TP02346;Neg;Negatif;GS;Yes
+TP02349;Neg;Negatif;GS;Yes
+TP02350;Neg;Negatif;GS;No
+TP02408;Neg;Negatif;GS;No
+TP01757;Neg;Negatif;GS;No
+TP02428;Neg;Negatif;GS;Yes
+TP02414;1+;Negatif;GS;Yes
+TP02425;Neg;Negatif;GS;Yes
+TP02413;Neg;Negatif;GS;Yes
+TP02407;1+;Negatif;GS;Yes
+TP02416;Neg;Negatif;GS;Yes
+TP02420;Neg;Negatif;GS;Yes
+TP02397;2+;Negatif;GS;Yes
+TP02423;2+;Negatif;GS;Yes
+TP02427;1+;Negatif;GS;Yes
+TP02343;3+;Negatif;GS;Yes
+TP02592;Neg;Negatif;GS;No
+TP02455;2+;Negatif;GS;Yes
+TP02421;Neg;Negatif;GS;Yes
+TP01756;Neg;Negatif;GS;Yes
+TP01760;Neg;Negatif;GS;Yes
+TP02023;3+;Negatif;GS;Yes
+TP01971;1+;Negatif;GS;Yes
+TP01953;Scanty;Negatif;GS;Yes
+TP01761;Neg;Negatif;GS;Yes
+TP01970;1+;Negatif;GS;Yes
+TP01958;3+;Negatif;GS;Yes
+TP01972;2+;Negatif;GS;Yes
+TP01977;2+;Negatif;GS;Yes
+TP01979;2+;Negatif;GS;Yes
+TP02001;1+;Negatif;GS;Yes
+TP01975;3+;Negatif;GS;Yes
+TP01758;Neg;Negatif;GS;Yes
+TP01980;1+;Negatif;GS;Yes
+TP02003;2+;Negatif;GS;Yes
+TP02335;1+;Negatif;GS;No
+TP02339;Scanty;Negatif;GS;Yes
+TP02334;3+;Negatif;GS;No
+TP02336;2+;Negatif;GS;No
+TP02340;2+;Negatif;GS;No
+TP02402;Neg;Negatif;GS;Yes
+TP02406;Neg;Negatif;GS;Yes
+TP01982;2+;Negatif;GS;Yes
+TP02351;Scanty;Negatif;GS;Yes
+TP02411;Neg;Negatif;GS;No
+TP02454;Scanty;Negatif;GS;No
+TP02415;1+;Negatif;GS;Yes
+TP02424;Neg;Negatif;GS;No
+TP02453;Scanty;Negatif;GS;No
+TP02011;Neg;Negatif;GS;No
+TP02008;Neg;Negatif;GS;No
+TP02012;2+;Negatif;GS;Yes
+TP02006;1+;Negatif;GS;Yes
+TP02013;Neg;Negatif;GS;No
+TP02031;Neg;Negatif;GS;No
+TP02024;Neg;Negatif;GS;No
+TP02014;1+;Negatif;GS;Yes
+TP02005;Neg;Negatif;GS;Yes
+TP02018;Neg;Negatif;GS;No
+TP02034;Neg;Negatif;GS;No
+TP02362;Neg;Negatif;GS;No
+TP02035;Neg;Negatif;GS;No
+TP02026;Scanty;Negatif;GS;No
+TP02036;Neg;Negatif;GS;No
+TP02033;Neg;Negatif;GS;Yes
+TP02028;Neg;Negatif;GS;Yes
+TP02027;Neg;Negatif;GS;Yes
+TP02030;1+;Negatif;GS;Yes
+TP02032;Neg;Negatif;GS;No
+TP02386;Neg;Negatif;GS;No
+TP02387;Neg;Negatif;GS;No
+TP02382;Neg;Positif;GS;Yes
+TP02384;Neg;Negatif;GS;No
+TP02383;Neg;Negatif;GS;Yes
+TP02389;Neg;Negatif;GS;Yes
+TP02403;Neg;Negatif;GS;Yes
+TP02405;Neg;Negatif;GS;No
+TP02385;Neg;Negatif;GS;Yes
+TP02388;Neg;Negatif;GS;No
+TP02725;Neg;Negatif;GS;No
+TP02404;2+;Negatif;GS;Yes
+TP02480;Neg;Negatif;GS;No
+TP02486;Neg;Negatif;GS;Yes
+TP02477;2+;Negatif;GS;Yes
+TP02729;Neg;Negatif;GS;No
+TP02392;1+;Negatif;GS;Yes
+TP02482;3+;Negatif;GS;Yes
+TP02726;Neg;Negatif;GS;Yes
+TP02730;Neg;Negatif;GS;Yes
+TP02731;1+;Negatif;GS;Yes
+TP02728;Neg;Negatif;GS;No
+TP02732;Neg;Negatif;GS;No
+TP02727;3+;Negatif;GS;Yes
+TP02002;Scanty;Negatif;GS;Yes
+TP02736;1+;Negatif;GS;No
+TP02761;3+;Negatif;GS;Yes
+TP02763;Neg;Negatif;GS;No
+TP02759;3+;Negatif;GS;Yes
+TP02739;3+;Negatif;GS;Yes
+TP01695;Neg;Negatif;GS;Yes
+TP02534;Scanty;Negatif;GS;Yes
+TP02595;Scanty;Negatif;GS;No
+TP02605;3+;Negatif;GS;Yes
+TP02596;3+;Negatif;GS;Yes
+TP02545;Neg;Negatif;GS;No
+TP02440;Scanty;Negatif;GS;Yes
+TP02556;Scanty;Negatif;GS;Yes
+TP02544;3+;Negatif;GS;Yes
+TP02529;3+;Negatif;GS;Yes
+TP02541;1+;Negatif;GS;Yes
+TP02531;Neg;Negatif;GS;No
+TP02527;2+;Negatif;GS;No
+TP02524;Neg;Negatif;GS;Yes
+TP02501;3+;Negatif;GS;Yes
+TP02506;3+;Negatif;GS;Yes
+TP02502;Scanty;Negatif;GS;No
+TP02521;2+;Negatif;GS;Yes
+TP02515;Neg;Negatif;GS;Yes
+TP02429;Neg;Negatif;GS;Yes
+TP02396;1+;Negatif;GS;Yes
+TP02430;1+;Negatif;GS;Yes
+TP02489;3+;Negatif;GS;Yes
+TP02499;Neg;Negatif;GS;Yes
+TP02481;2+;Negatif;GS;Yes
+TP02442;Neg;Negatif;GS;No
+TP02484;1+;Negatif;GS;Yes
+TP02560;3+;Negatif;GS;Yes
+TP02561;1+;Negatif;GS;Yes
+TP02567;Neg;Negatif;GS;No
+TP02548;3+;Negatif;GS;Yes
+TP02564;3+;Negatif;GS;Yes
+TP02571;Neg;Negatif;GS;Yes
+TP02572;Neg;Negatif;GS;Yes
+TP02576;3+;Negatif;GS;Yes
+TP02579;1+;Negatif;GS;Yes
+TP02620;1+;Negatif;GS;Yes
+TP02606;Scanty;Negatif;GS;Yes
+TP02598;Neg;Negatif;GS;No
+TP02607;1+;Negatif;GS;Yes
+TP02525;Neg;Negatif;GS;Yes
+TP02441;POS;Negatif;GS;Yes
+TP02465;Neg;Negatif;GS;Yes
+TP02470;Neg;Negatif;GS;Yes
+TP02466;Neg;Positif;GS;Yes
+TP02526;Neg;Negatif;GS;Yes
+TP02476;Neg;Negatif;GS;Yes
+TP02472;1+;Negatif;GS;Yes
+TP02479;Neg;Negatif;GS;Yes
+TP02491;Neg;Negatif;GS;Yes
+TP02478;Neg;Negatif;GS;Yes
+TP02488;Neg;Negatif;GS;Yes
+TP02532;Scanty;Positif;GS;Yes
+TP02549;Scanty;Negatif;GS;Yes
+TP02551;Neg;Positif;GS;Yes
+TP02511;Scanty;Negatif;GS;Yes
+TP02522;Scanty;Negatif;GS;Yes
+TP02507;Neg;Negatif;GS;Yes
+TP02513;Neg;Negatif;GS;Yes
+TP02505;Neg;Negatif;GS;Yes
+TP02554;Neg;Negatif;GS;Yes
+TP02492;Neg;Negatif;GS;Yes
+TP02591;Neg;Negatif;GS;Yes
+TP02593;Neg;Negatif;GS;Yes
+TP02566;Neg;Negatif;GS;Yes
+TP02594;Neg;Positif;GS;Yes
+TP02523;Neg;Negatif;GS;Yes
+TP02540;2+;Negatif;GS;Yes
+TP02552;Neg;Negatif;GS;Yes
+TP02555;Neg;Negatif;GS;Yes
+TP02535;Neg;Negatif;GS;Yes
+TP02562;Neg;Negatif;GS;Yes
+TP02608;Neg;Negatif;GS;Yes
+TP02610;Neg;Negatif;GS;Yes
+TP02613;Neg;Negatif;GS;Yes
+TP02619;Neg;Negatif;GS;Yes
+TP02623;Neg;Negatif;GS;Yes
+TP02559;Neg;Negatif;GS;Yes
+TP02568;Neg;Negatif;GS;Yes
+TP02578;2+;Negatif;GS;Yes
+TP02557;Scanty;Negatif;GS;Yes
+TP02601;3+;Negatif;GS;Yes
+TP02553;Neg;Negatif;GS;Yes
+TP02580;Neg;Negatif;GS;Yes
+TP02550;Neg;Negatif;GS;Yes
+TP04152;1+;Negatif;GS;Yes
+TP04157;3+;Negatif;GS;Yes
+TP04156;2+;Negatif;GS;Yes
+TP02569;3+;Negatif;GS;Yes
+TP04155;Neg;Negatif;GS;Yes
+TP04149;3+;Negatif;GS;Yes
+TP02530;Scanty;Negatif;GS;Yes
+TP04146;3+;Negatif;GS;Yes
+TP04147;3+;Negatif;GS;Yes
+TP04161;2+;Negatif;GS;Yes
+TP04162;2+;Negatif;GS;Yes
+TP04163;3+;Negatif;GS;Yes
+TP02493;1+;Negatif;GS;Yes
+TP04172;3+;Negatif;GS;Yes
+TP04166;3+;Negatif;GS;Yes
+TP04177;2+;Negatif;GS;Yes
+TP04173;1+;Negatif;GS;Yes
+TP04165;3+;Negatif;GS;Yes
+TP04178;2+;Negatif;GS;Yes
+TP04174;1+;Negatif;GS;Yes
+TP04168;3+;Negatif;GS;Yes
+TP04179;Neg;Negatif;GS;Yes
+TP04182;1+;Negatif;GS;Yes
+TP04184;1+;Negatif;GS;Yes
+TP04185;2+;Negatif;GS;Yes
+TP04192;3+;Negatif;GS;Yes
+TP04194;Neg;Positif;GS;Yes
+TP04193;1+;Negatif;GS;Yes
+TP04206;Neg;Negatif;GS;Yes
+TP04208;3+;Negatif;GS;Yes
+TP04200;2+;Negatif;GS;Yes
+TP04196;2+;Negatif;GS;Yes
+TP04199;2+;Negatif;GS;Yes
+TP04198;Neg;Negatif;GS;Yes
+TP02546;Neg;Negatif;GS;Yes
+TP02547;Neg;Positif;GS;Yes
+TP02494;1+;Positif;GS;Yes
+TP02498;1+;Negatif;GS;Yes
+TP02520;3+;Negatif;GS;Yes
+TP02723;3+;Negatif;GS;Yes
+TP02765;1+;Negatif;GS;Yes
+TP02738;1+;Negatif;GS;Yes
+TP02766;3+;Negatif;GS;Yes
+TP02740;1+;Negatif;GS;Yes
+TP02806;Neg;Negatif;GS;Yes
+TP04191;Neg;Negatif;GS;Yes
+TP04154;Neg;Negatif;GS;Yes
+TP04159;Neg;Negatif;GS;Yes
+TP04153;Neg;Negatif;GS;Yes
+TP04150;1+;Negatif;GS;Yes
+TP04151;Neg;Negatif;GS;Yes
+TP02581;Neg;Negatif;GS;Yes
+TP04160;Neg;Negatif;GS;Yes
+TP04175;Neg;Negatif;GS;Yes
+TP04169;Scanty;Negatif;GS;Yes
+TP04158;Neg;Negatif;GS;Yes
+TP04171;Neg;Negatif;GS;Yes
+TP04170;Neg;Negatif;GS;Yes
+TP04181;1+;Negatif;GS;Yes
+TP04180;Neg;Negatif;GS;Yes
+TP04187;Neg;Negatif;GS;Yes
+TP04164;1+;Negatif;GS;Yes
+TP04176;Neg;Negatif;GS;Yes
+TP04167;Neg;Negatif;GS;Yes
+TP04204;Neg;Negatif;GS;Yes
+TP04190;Neg;Negatif;GS;Yes
+TP04205;Neg;Negatif;GS;Yes
+TP04186;Neg;Negatif;GS;Yes
+TP04202;Neg;Positif;GS;Yes
+TP04203;Neg;Negatif;GS;Yes
+TP04189;Neg;Negatif;GS;Yes
+TP04188;Neg;Negatif;GS;Yes
+TP04195;Neg;Negatif;GS;Yes
+TP04201;Neg;Negatif;GS;Yes
+TP04207;Scanty;Negatif;GS;Yes
+TP04183;Neg;Negatif;GS;Yes
+TP04197;Neg;Negatif;GS;Yes
+TP02495;Neg;Negatif;GS;Yes
+TP02639;Neg;Positif;GS;Yes
+TP02518;Neg;Negatif;GS;Yes
+TP04148;Neg;Negatif;GS;Yes
+TP02496;Neg;Negatif;GS;Yes
+TP02820;Neg;Negatif;GS;Yes
+TP02819;Scanty;Negatif;GS;Yes
+TP02771;1+;Negatif;GS;Yes
+TP02632;Neg;Negatif;GS;Yes
+TP02724;Neg;Negatif;GS;Yes
+TP02764;Scanty;Negatif;GS;Yes
+TP02826;Scanty;Negatif;GS;Yes
+TP02471;Neg;Negatif;GS;Yes
+TP02746;Scanty;Negatif;GS;Yes
+TP02719;3+;Negatif;GS;Yes
+TB02380;1+;Negatif;GS;Yes
+TB02373;3+;Negatif;GS;Yes
+TB02371;Neg;Negatif;GS;Yes
+TB02379;1+;Negatif;GS;Yes
+TB02372;Neg;Negatif;GS;Yes
+TB02381;Scanty;Negatif;GS;Yes
+TB02376;2+;Negatif;GS;Yes
+TB02377;3+;Negatif;GS;Yes
+TB02378;2+;Negatif;GS;Yes
+TB02375;2+;Negatif;GS;Yes
+TP02745;2+;Negatif;GS;Yes
+TP02717;Neg;Negatif;GS;Yes
+TP02748;3+;Negatif;GS;Yes
+TP02749;3+;Negatif;GS;Yes
+TP03789;1+;Negatif;GS;Yes
+TP04129;3+;Negatif;GS;Yes
+TP04212;3+;Negatif;GS;Yes
+TP04211;Scanty;Negatif;GS;Yes
+TP04144;3+;Negatif;GS;Yes
+TP02652;Neg;Negatif;GS;Yes
+TP04234;Scanty;Negatif;GS;Yes
+TP04227;2+;Negatif;GS;Yes
+TP04213;Neg;Negatif;GS;Yes
+TP04222;Scanty;Negatif;GS;Yes
+TP04220;2+;Negatif;GS;Yes
+TP04214;Scanty;Negatif;GS;Yes
+TP04209;3+;Negatif;GS;Yes
+TP04235;3+;Negatif;GS;Yes
+TP04217;3+;Negatif;GS;Yes
+TP04236;1+;Negatif;GS;Yes
+TP04226;2+;Negatif;GS;Yes
+TP04238;3+;Negatif;GS;Yes
+TP04224;3+;Negatif;GS;Yes
+TP04243;2+;Negatif;GS;Yes
+TP04253;3+;Negatif;GS;Yes
+TP04240;3+;Negatif;GS;Yes
+TP04255;Neg;Negatif;GS;Yes
+TP04258;Neg;Negatif;GS;Yes
+TP04239;Neg;Negatif;GS;Yes
+TP02879;1+;Negatif;GS;Yes
+TP02840;3+;Negatif;GS;Yes
+TP02807;1+;Negatif;GS;Yes
+TP00115;Neg;Negatif;GS;No
+TP00122;Neg;Negatif;GS;No
+TP00131;Neg;Negatif;GS;No
+TP00136;Neg;Negatif;GS;No
+TP00139;2+;Negatif;GS;Yes
+TP00145;Not tested;Negatif;GS;No
+TP00200;Scanty;Negatif;GS;Yes
+TP00201;Scanty;Negatif;GS;Yes
+TP00202;3+;Negatif;GS;Yes
+TP00203;1+;Negatif;GS;Yes
+TP00204;1+;Negatif;GS;Yes
+TP00205;1+;Negatif;GS;Yes
+TP00206;3+;Negatif;GS;Yes
+TP00207;Neg;Negatif;GS;No
+TP00209;Neg;Positif;GS;No
+TP00210;Scanty;Negatif;GS;Yes
+TP00211;1+;Negatif;GS;Yes
+TP00219;1+;Negatif;GS;Yes
+TP00220;Neg;Negatif;GS;Yes
+TP00221;3+;Negatif;GS;Yes
+TP00222;Scanty;Negatif;GS;Yes
+TP00223;Neg;Negatif;GS;Yes
+TP00224;Not tested;Negatif;GS;Yes
+TP00226;Scanty;Negatif;GS;Yes
+TP00229;Neg;Negatif;GS;No
+TP00230;Neg;Negatif;GS;No
+TP00231;2+;Negatif;GS;Yes
+TP00234;1+;Negatif;GS;Yes
+TP00235;Neg;Negatif;GS;No
+TP00236;Not tested;Negatif;GS;No
+TP00241;Neg;Negatif;GS;Yes
+TP00242;1+;Negatif;GS;Yes
+TP00243;Neg;Negatif;GS;Yes
+TP00310;Not tested;Negatif;GS;Yes
+TP00314;Neg;Negatif;GS;Yes
+TP00315;1+;Negatif;GS;Yes
+TP00316;Not tested;Negatif;GS;Yes
+TP00323;2+;Negatif;GS;Yes
+TP00341;Neg;Negatif;GS;No
+TP00351;Neg;Negatif;GS;Yes
+TP00355;Neg;Negatif;GS;Yes
+TP00356;1+;Negatif;GS;Yes
+TP00357;3+;Negatif;GS;Yes
+TP00190;3+;Negatif;GS;Yes
+TP00199;Scanty;Negatif;GS;Yes
+TP00218;2+;Negatif;GS;Yes
+TP00237;1+;Negatif;GS;Yes
+TP00246;Not tested;Negatif;GS;Yes
+TP00327;Neg;Negatif;GS;Yes
+TP00335;Scanty;Negatif;GS;Yes
+TP00343;1+;Negatif;GS;Yes
+TP00498;Neg;Negatif;GS;Yes
+TP00494;1+;Negatif;GS;Yes
+TP00616;3+;Negatif;GS;Yes
+TP00475;Not tested;Negatif;GS;Yes
+TP00474;Neg;Negatif;GS;Yes
+TP00493;Scanty;Negatif;GS;Yes
+TP00685;1+;Negatif;GS;No
+TP00590;Scanty;Negatif;GS;No
+TP00600;Not tested;Negatif;GS;No
+TP00619;3+;Negatif;GS;No
+TP00606;Not tested;Negatif;GS;No
+TP00620;1+;Negatif;GS;No
+TP00603;Neg;Negatif;GS;No
+TP00579;Not tested;Negatif;GS;No
+TP00599;Not tested;Negatif;GS;No
+TP00585;Not tested;Negatif;GS;No
+TP00597;Neg;Negatif;GS;No
+TP00497;Scanty;Negatif;GS;No
+TP00467;Neg;Negatif;GS;No
+TP00345;Neg;Negatif;GS;No
+TP00594;Neg;Negatif;GS;No
+TP00332;Neg;Negatif;GS;No
+TP00586;Neg;Negatif;GS;No
+TP00329;Neg;Negatif;GS;No
+TP00618;Neg;Negatif;GS;No
+TP00149;Neg;Negatif;GS;No
+TP00587;Neg;Negatif;GS;No
+TP00598;Scanty;Negatif;GS;No
+TP00337;Neg;Negatif;GS;No
+TP00326;Neg;Negatif;GS;No
+TP00344;Neg;Negatif;GS;No
+TP00727;Scanty;Negatif;GS;Yes
+TP01130;3+;Negatif;GS;Yes
+TP00731;1+;Negatif;GS;Yes
+TP01129;2+;Negatif;GS;Yes
+TP00805;Scanty;Negatif;GS;Yes
+TP00735;1+;Negatif;GS;Yes
+TP00809;1+;Negatif;GS;Yes
+TP01128;1+;Negatif;GS;No
+TP00721;3+;Negatif;GS;Yes
+TP00704;Scanty;Negatif;GS;Yes
+TP00698;3+;Negatif;GS;Yes
+TP00716;Neg;Negatif;GS;No
+TP00717;3+;Negatif;GS;Yes
+TP00718;1+;Negatif;GS;No
+TP00711;3+;Negatif;GS;Yes
+TP00699;2+;Negatif;GS;No
+TP00736;1+;Negatif;GS;Yes
+TP00713;1+;Negatif;GS;Yes
+TP00811;2+;Negatif;GS;Yes
+TP00734;3+;Negatif;GS;Yes
+TP00725;Scanty;Negatif;GS;Yes
+TP00708;Neg;Negatif;GS;Yes
+TP00807;3+;Negatif;GS;Yes
+TP00722;2+;Negatif;GS;Yes
+TP00804;1+;Negatif;GS;Yes
+TP00701;2+;Negatif;GS;Yes
+TP00696;Neg;Negatif;GS;No
+TP00703;3+;Negatif;GS;Yes
+TP00705;Neg;Negatif;GS;Yes
+TP00715;1+;Negatif;GS;Yes
+TP00700;2+;Negatif;GS;Yes
+TP00702;Neg;Negatif;GS;No
+TP00728;2+;Negatif;GS;Yes
+TP00709;Neg;Negatif;GS;Yes
+TP00720;3+;Negatif;GS;Yes
+TP00710;2+;Negatif;GS;No
+TP00697;Neg;Negatif;GS;No
+TP00723;1+;Negatif;GS;Yes
+TP00726;Scanty;Negatif;GS;No
+TP00732;2+;Negatif;GS;Yes
+TP00733;2+;Negatif;GS;Yes
+TP00706;1+;Negatif;GS;Yes
+TP00729;2+;Negatif;GS;Yes
+TP01131;1+;Negatif;GS;Yes
+TP01121;2+;Negatif;GS;Yes
+TP01118;3+;Negatif;GS;Yes
+TP01126;3+;Negatif;GS;Yes
+TP01216;1+;Negatif;GS;Yes
+TP01115;3+;Negatif;GS;Yes
+TP01210;3+;Negatif;GS;Yes
+TP01213;1+;Negatif;GS;No
+TP01122;1+;Negatif;GS;Yes
+TP01135;1+;Negatif;GS;Yes
+TP01220;1+;Negatif;GS;Yes
+TP01219;3+;Negatif;GS;Yes
+TP01214;3+;Negatif;GS;Yes
+TP01234;1+;Negatif;GS;Yes
+TP01112;2+;Negatif;GS;Yes
+TP01215;2+;Negatif;GS;Yes
+TP01125;3+;Negatif;GS;Yes
+TP01222;3+;Negatif;GS;Yes
+TP01132;2+;Negatif;GS;Yes
+TP01124;1+;Negatif;GS;Yes
+TP01212;1+;Negatif;GS;Yes
+TP01134;2+;Negatif;GS;Yes
+TP01235;1+;Negatif;GS;Yes
+TP01117;1+;Negatif;GS;No
+TP01224;3+;Negatif;GS;Yes
+TP01116;1+;Negatif;GS;Yes
+TP01113;3+;Negatif;GS;Yes
+TP01223;3+;Negatif;GS;Yes
+TP01127;3+;Negatif;GS;Yes
+TP01123;1+;Negatif;GS;Yes
+TP01231;3+;Negatif;GS;Yes
+TP01119;2+;Negatif;GS;Yes
+TP01221;3+;Negatif;GS;Yes
+TP01232;1+;Negatif;GS;Yes
+TP01211;3+;Negatif;GS;Yes
+TP01208;3+;Negatif;GS;Yes
+TP01114;1+;Negatif;GS;Yes
+TP01120;1+;Negatif;GS;Yes
+TP01228;1+;Negatif;GS;Yes
+TP01230;2+;Negatif;GS;Yes
+TP01233;1+;Negatif;GS;Yes
+TP01133;3+;Negatif;GS;Yes
+TP01225;1+;Negatif;GS;No
+TP01209;1+;Negatif;GS;Yes
+TP01227;2+;Negatif;GS;Yes
+TB01430;Scanty;Negatif;GS;Yes
+TB01429;Scanty;Negatif;GS;Yes
+TB01372;1+;Negatif;GS;Yes
+TB01058;1+;Negatif;GS;Yes
+TB01358;3+;Negatif;GS;Yes
+TB01363;2+;Negatif;GS;Yes
+TB01431;1+;Negatif;GS;Yes
+TB01341;Scanty;Negatif;GS;Yes
+TB01330;3+;Negatif;GS;Yes
+TB01356;1+;Negatif;GS;No
+TB01340;Scanty;Negatif;GS;Yes
+TB01360;3+;Negatif;GS;Yes
+TB01331;Scanty;Negatif;GS;Yes
+TB01409;1+;Negatif;GS;Yes
+TB01364;1+;Negatif;GS;Yes
+TB00871;1+;Negatif;GS;Yes
+TB00966;1+;Negatif;GS;Yes
+TB01414;1+;Negatif;GS;No
+TB00802;Scanty;Negatif;GS;No
+TB01309;1+;Negatif;GS;Yes
+TB01091;Scanty;Negatif;GS;No
+TB01410;1+;Negatif;GS;Yes
+TB01369;1+;Negatif;GS;Yes
+TB01365;Scanty;Negatif;GS;Yes
+TB01406;1+;Negatif;GS;Yes
+TB01359;Scanty;Negatif;GS;Yes
+TB01371;1+;Negatif;GS;No
+TB01146;Scanty;Negatif;GS;Yes
+TB01021;1+;Negatif;GS;Yes
+TB01366;1+;Negatif;GS;Yes
+TB01308;1+;Negatif;GS;No
+TB01335;Neg;Negatif;GS;No
+TB01362;1+;Negatif;GS;Yes
+TB01338;3+;Negatif;GS;Yes
+TB01054;2+;Negatif;GS;Yes
+TB01328;Scanty;Negatif;GS;Yes
+TB01425;2+;Negatif;GS;Yes
+TB01326;1+;Negatif;GS;Yes
+TB01332;Scanty;Negatif;GS;No
+TB01327;Scanty;Negatif;GS;No
+TB01329;3+;Negatif;GS;Yes
+TB01307;Scanty;Negatif;GS;No
+TB01246;3+;Negatif;GS;Yes
+TB01449;3+;Negatif;GS;Yes
+TB00866;Scanty;Negatif;GS;Yes
+TB01264;Scanty;Negatif;GS;No
+TB01276;1+;Positif;GS;Yes
+TB01321;Neg;Negatif;GS;No
+TB01310;Scanty;Negatif;GS;Yes
+TB01314;1+;Negatif;GS;Yes
+TB01322;Scanty;Negatif;GS;No
+TB01323;Scanty;Negatif;GS;No
+TB01324;Neg;Negatif;GS;Yes
+TB01333;Scanty;Negatif;GS;No
+TB01344;Scanty;Negatif;GS;Yes
+TB01346;Scanty;Negatif;GS;Yes
+TB01347;Scanty;Negatif;GS;Yes
+TB01349;2+;Negatif;GS;Yes
+TB01351;Scanty;Negatif;GS;No
+TB01352;Scanty;Negatif;GS;Yes
+TB01355;Scanty;Negatif;GS;No
+TB01375;2+;Negatif;GS;Yes
+TB01377;3+;Negatif;GS;Yes
+TB01378;1+;Negatif;GS;Yes
+TB01379;Scanty;Negatif;GS;Yes
+TB01381;Scanty;Negatif;GS;No
+TB01382;1+;Negatif;GS;Yes
+TB01384;Scanty;Negatif;GS;No
+TB01387;Scanty;Negatif;GS;No
+TB01388;1+;Positif;GS;Yes
+TB01389;Scanty;Negatif;GS;No
+TB01390;Scanty;Positif;GS;No
+TB01392;2+;Negatif;GS;No
+TB01393;2+;Negatif;GS;Yes
+TB01394;1+;Negatif;GS;Yes
+TB01395;Scanty;Negatif;GS;Yes
+TB01396;2+;Negatif;GS;Yes
+TB01397;Scanty;Negatif;GS;Yes
+TB01400;Scanty;Negatif;GS;No
+TB01401;2+;Negatif;GS;Yes
+TB01402;1+;Negatif;GS;Yes
+TB01403;3+;Negatif;GS;Yes
+TB01404;3+;Negatif;GS;Yes
+TB01433;Scanty;Negatif;GS;Yes
+TB01434;Scanty;Negatif;GS;Yes
+TB01435;Scanty;Negatif;GS;No
+TB01440;1+;Negatif;GS;Yes
+TB01441;1+;Negatif;GS;Yes
+TB01442;Scanty;Positif;GS;No
+TP04721;2+;Negatif;GS;Yes
+TP04722;2+;Negatif;GS;Yes
+TP04723;3+;Negatif;GS;Yes
+TP04724;1+;Negatif;GS;No
+TP04725;1+;Negatif;GS;No
+TP04726;1+;Negatif;GS;Yes
+TP04727;Scanty;Negatif;GS;Yes
+TP04728;3+;Negatif;GS;Yes
+TP04729;3+;Negatif;GS;No
+TP04730;1+;Negatif;GS;No
+TP04731;3+;Negatif;GS;Yes
+TP04732;1+;Negatif;GS;Yes
+TP04733;1+;Negatif;GS;Yes
+TP04734;Scanty;Negatif;GS;Yes
+TP04735;3+;Negatif;GS;Yes
+TP04736;1+;Negatif;GS;Yes
+TP04737;3+;Negatif;GS;Yes
+TP04738;1+;Negatif;GS;No
+TP04739;2+;Negatif;GS;Yes
+TP04740;3+;Negatif;GS;Yes
+TP04741;3+;Negatif;GS;Yes
+TP04742;2+;Negatif;GS;Yes
+TP04743;Scanty;Negatif;GS;No
+TP04744;3+;Negatif;GS;No
+TP04745;1+;Negatif;GS;No
+TP04746;Scanty;Negatif;GS;Yes
+TP04747;3+;Negatif;GS;Yes
+TP04748;3+;Negatif;GS;Yes
+TP04749;2+;Negatif;GS;Yes
+TP04750;3+;Negatif;GS;No
+TP04751;1+;Negatif;GS;Yes
+TP04752;3+;Negatif;GS;Yes
+TP04753;Scanty;Negatif;GS;No
+TP04754;Scanty;Negatif;GS;No
+TP04755;3+;Negatif;GS;Yes
+TP04756;2+;Negatif;GS;Yes
+TP04757;Scanty;Negatif;GS;No
+TP04758;3+;Negatif;GS;Yes
+TP04759;1+;Negatif;GS;No
+TP04760;1+;Negatif;GS;No
+TP04761;1+;Negatif;GS;Yes
+TP04762;3+;Negatif;GS;Yes
+TP04763;1+;Negatif;GS;Yes
+TP04764;1+;Negatif;GS;No
+TP04765;2+;Negatif;GS;No
+TP04766;3+;Negatif;GS;No
+TP04767;3+;Negatif;GS;No
+TP04768;1+;Negatif;GS;No
+TP04769;3+;Negatif;GS;No
+TP04770;1+;Negatif;GS;No
+TP04771;1+;Negatif;GS;No
+TP04772;3+;Negatif;GS;No
+TP04773;3+;Negatif;GS;No
+TP04774;Scanty;Negatif;GS;No
+TP04775;2+;Negatif;GS;Yes
+TP04776;1+;Negatif;GS;No
+TP04777;1+;Negatif;GS;No
+TP04778;Scanty;Negatif;GS;No
+TP04779;2+;Negatif;GS;Yes
+TP04780;3+;Negatif;GS;No
+TP04781;1+;Negatif;GS;No
+TP04782;2+;Negatif;GS;No
+TP04783;1+;Negatif;GS;No
+TP04784;1+;Negatif;GS;No
+TP04785;2+;Negatif;GS;No
+TP04786;3+;Negatif;GS;No
+TP04787;3+;Negatif;GS;No
+TP04788;3+;Negatif;GS;No
+TP04789;3+;Negatif;GS;Yes
+TP04790;2+;Negatif;GS;Yes
+TP04791;1+;Negatif;GS;No
+TP04792;3+;Negatif;GS;Yes
+TP04793;3+;Negatif;GS;Yes
+TP04794;1+;Negatif;GS;No
+TP04795;3+;Negatif;GS;No
+TP04796;3+;Negatif;GS;No
+TP04797;1+;Negatif;GS;Yes
+TP04798;2+;Negatif;GS;Yes
+TP04799;3+;Negatif;GS;Yes
+TP04800;1+;Negatif;GS;Yes
+TP04801;1+;Negatif;GS;Yes
+TP04802;3+;Negatif;GS;Yes
+TP04803;3+;Negatif;GS;Yes
+TP04804;1+;Negatif;GS;No
+TP04805;3+;Negatif;GS;Yes
+TP04806;3+;Negatif;GS;Yes
+TP04807;3+;Negatif;GS;Yes
+TP04808;3+;Negatif;GS;Yes
+TP04296;2+;Negatif;GS;Yes
+TP04297;1+;Negatif;GS;Yes
+TP04298;Scanty;Negatif;GS;Yes
+TP04299;2+;Negatif;GS;Yes
+TP04300;2+;Negatif;GS;Yes
+TP04301;3+;Negatif;GS;Yes
+TP04302;1+;Negatif;GS;Yes
+TP04303;1+;Negatif;GS;Yes
+TP04304;3+;Negatif;GS;Yes
+TP04305;1+;Negatif;GS;Yes
+TP04306;1+;Negatif;GS;Yes
+TP04307;1+;Negatif;GS;Yes
+TP04308;Scanty;Negatif;GS;Yes
+TP04309;3+;Negatif;GS;Yes
+TP04310;3+;Negatif;GS;Yes
+TP04311;2+;Negatif;GS;Yes
+TP04312;2+;Negatif;GS;Yes
+TP04313;2+;Negatif;GS;Yes
+TP04314;3+;Negatif;GS;Yes
+TP04315;3+;Negatif;GS;Yes
+TP04316;Scanty;Negatif;GS;Yes
+TP04317;Scanty;Negatif;GS;Yes
+TP04318;3+;Negatif;GS;Yes
+TP04319;3+;Negatif;GS;Yes
+TP04320;2+;Negatif;GS;Yes
+TP04321;1+;Negatif;GS;Yes
+TP04322;1+;Positif;GS;Yes
+TP04323;2+;Negatif;GS;Yes
+TP04324;Not tested;Negatif;GS;Yes
+TP04325;Not tested;Negatif;GS;Yes
+TP04326;Not tested;Negatif;GS;Yes
+TP04327;2+;Negatif;GS;Yes
+TP04328;Not tested;Negatif;GS;Yes
+TP04329;Not tested;Negatif;GS;Yes
+TP04330;1+;Negatif;GS;Yes
+TP04331;1+;Negatif;GS;Yes
+TP04332;1+;Negatif;GS;Yes
+TP04333;3+;Negatif;GS;Yes
+TP04334;2+;Negatif;GS;Yes
+TP04335;Scanty;Negatif;GS;No
+TP04336;1+;Negatif;GS;No
+TP04337;Scanty;Negatif;GS;No
+TP04338;2+;Negatif;GS;No
+TP04339;3+;Negatif;GS;Yes
+TP04340;1+;Negatif;GS;Yes
+TP04341;3+;Negatif;GS;Yes
+TP04342;3+;Negatif;GS;Yes
+TP04343;3+;Negatif;GS;Yes
+TP04344;3+;Negatif;GS;Yes
+TP04345;3+;Negatif;GS;Yes
+TP04346;3+;Negatif;GS;Yes
+TP04347;2+;Negatif;GS;Yes
+TP04348;2+;Negatif;GS;Yes
+TP04349;1+;Negatif;GS;Yes
+TP04350;1+;Negatif;GS;Yes
+TP04351;3+;Negatif;GS;Yes
+TP04353;2+;Negatif;GS;Yes
+TP04354;3+;Negatif;GS;Yes
+TP04355;3+;Negatif;GS;Yes
+TP04356;2+;Negatif;GS;Yes
+TP04357;1+;Negatif;GS;Yes
+TP04358;2+;Negatif;GS;Yes
+TP04359;3+;Negatif;GS;Yes
+TP04360;2+;Negatif;GS;Yes
+TP04361;2+;Negatif;GS;Yes
+TP04362;3+;Negatif;GS;Yes
+TP04363;1+;Negatif;GS;Yes
+TP04364;3+;Negatif;GS;Yes
+TP04365;2+;Negatif;GS;Yes
+TP04366;1+;Negatif;GS;Yes
+TP04367;3+;Negatif;GS;Yes
+TP04368;1+;Negatif;GS;Yes
+TP04369;3+;Negatif;GS;Yes
+TP04370;3+;Negatif;GS;Yes
+TP04371;3+;Negatif;GS;Yes
+TP04372;3+;Negatif;GS;Yes
+TP04373;3+;Negatif;GS;Yes
+TP04374;2+;Negatif;GS;Yes
+TP04375;3+;Negatif;GS;Yes
+TP04376;2+;Negatif;GS;Yes
+TP04377;1+;Negatif;GS;Yes
+TP04378;1+;Negatif;GS;Yes
+TP04379;1+;Negatif;GS;Yes
+TP04380;3+;Negatif;GS;No
+TP04383;1+;Negatif;GS;Yes
+TP04384;2+;Negatif;GS;Yes
+TP04385;1+;Negatif;GS;Yes
+TP04386;3+;Negatif;GS;Yes
+TP04387;3+;Negatif;GS;Yes
+TP04388;3+;Negatif;GS;Yes
+TP04389;2+;Negatif;GS;Yes
+TP04390;1+;Negatif;GS;Yes
+TP04391;1+;Negatif;GS;Yes
+TP04392;2+;Negatif;GS;Yes
+TP04393;3+;Negatif;GS;Yes
+TP04394;2+;Negatif;GS;Yes
+TP04395;1+;Negatif;GS;Yes
+TP04396;1+;Negatif;GS;Yes
+TP04397;2+;Negatif;GS;Yes
+TP04398;1+;Negatif;GS;Yes
+TP04399;2+;Negatif;GS;Yes
+TP04400;2+;Negatif;GS;Yes
+TP04401;2+;Negatif;GS;Yes
+TP04402;1+;Negatif;GS;Yes
+TP04403;2+;Negatif;GS;Yes
+TP04404;2+;Negatif;GS;Yes
+TP04405;3+;Negatif;GS;Yes
+TP04406;3+;Negatif;GS;Yes
+TP04407;2+;Negatif;GS;Yes
+TP04408;3+;Negatif;GS;Yes
+TP04409;3+;Negatif;GS;Yes
+TP04410;2+;Negatif;GS;Yes
+TP04411;3+;Negatif;GS;Yes
+TP04412;3+;Negatif;GS;Yes
+TP04413;1+;Negatif;GS;Yes
+TP04414;2+;Negatif;GS;Yes
+TP04415;1+;Negatif;GS;Yes
+TP04416;2+;Negatif;GS;Yes
+TP04417;3+;Negatif;GS;Yes
+TP04418;3+;Negatif;GS;Yes
+TP04419;2+;Negatif;GS;Yes
+TP04420;3+;Negatif;GS;Yes
+TP04421;1+;Negatif;GS;Yes
+TP04422;3+;Negatif;GS;Yes
+TP04425;1+;Negatif;GS;No
+TP04426;1+;Negatif;GS;No
+TP04428;2+;Negatif;GS;Yes
+TP04429;2+;Negatif;GS;Yes
+TP04430;2+;Negatif;GS;Yes
+TP04431;1+;Negatif;GS;Yes
+TP04432;3+;Negatif;GS;Yes
+TP04433;3+;Negatif;GS;Yes
+TP04434;3+;Negatif;GS;Yes
+TP04435;1+;Negatif;GS;Yes
+TP04436;2+;Negatif;GS;Yes
+TP04437;3+;Negatif;GS;Yes
+TP04438;2+;Negatif;GS;Yes
+TP04439;2+;Negatif;GS;Yes
+TP04440;1+;Negatif;GS;Yes
+TP04441;3+;Negatif;GS;Yes
+TP04442;2+;Negatif;GS;Yes
+TP04443;2+;Negatif;GS;Yes
+TP04444;1+;Negatif;GS;Yes
+TP04445;3+;Negatif;GS;Yes
+TP04446;2+;Negatif;GS;Yes
+TP04447;3+;Negatif;GS;Yes
+TP04448;3+;Negatif;GS;Yes
+TP04449;2+;Negatif;GS;Yes
+TP04450;3+;Negatif;GS;Yes
+TP04451;3+;Negatif;GS;Yes
+TP04452;2+;Negatif;GS;Yes
+TP04453;1+;Negatif;GS;Yes
+TP04454;3+;Negatif;GS;Yes
+TP04455;3+;Negatif;GS;Yes
+TP04456;2+;Negatif;GS;Yes
+TP04457;2+;Negatif;GS;Yes
+TP04458;2+;Negatif;GS;Yes
+TP04459;2+;Negatif;GS;Yes
+TP04460;2+;Negatif;GS;Yes
+TP04462;3+;Negatif;GS;Yes
+TP04463;3+;Negatif;GS;Yes
+TP04464;3+;Negatif;GS;Yes
+TP04465;3+;Negatif;GS;Yes
+TP04466;1+;Negatif;GS;Yes
+TP04467;3+;Negatif;GS;Yes
+TP04468;2+;Negatif;GS;Yes
+TP04382;3+;Negatif;GS;Yes
+TP04423;2+;Negatif;GS;Yes
+TP04424;2+;Negatif;GS;Yes
+TP04469;3+;Negatif;GS;Yes
+TP04470;3+;Negatif;GS;Yes
+TP04471;3+;Negatif;GS;Yes
+TP04472;1+;Negatif;GS;Yes
+TP04473;2+;Negatif;GS;No
+TP04474;2+;Negatif;GS;Yes
+TP04475;3+;Negatif;GS;Yes
+TP04476;2+;Negatif;GS;Yes
+TP04480;1+;Negatif;GS;Yes
+TP04477;1+;Negatif;GS;No
+TP04478;3+;Negatif;GS;Yes
+TP04479;3+;Negatif;GS;Yes
+TP04481;3+;Negatif;GS;Yes
+TP04482;3+;Negatif;GS;Yes
+TP04483;3+;Negatif;GS;Yes
+TP04484;2+;Negatif;GS;Yes
+TP04485;3+;Negatif;GS;Yes
+TP04486;3+;Negatif;GS;Yes
+TP04487;3+;Negatif;GS;Yes
+TP04488;3+;Negatif;GS;Yes
+TP04489;3+;Negatif;GS;Yes
+TP04490;2+;Negatif;GS;Yes
+TP04491;2+;Negatif;GS;Yes
+TP04493;1+;Negatif;GS;Yes
+TP04494;2+;Negatif;GS;Yes
+TP04495;1+;Negatif;GS;Yes
+TP04496;2+;Negatif;GS;Yes
+TP04497;1+;Negatif;GS;Yes
+TP04498;3+;Negatif;GS;Yes
+TP04499;2+;Negatif;GS;Yes
+TP04500;1+;Negatif;GS;Yes
+TP04501;1+;Negatif;GS;Yes
+TP04502;2+;Negatif;GS;Yes
+TP04503;2+;Negatif;GS;Yes
+TP04504;3+;Negatif;GS;Yes
+TP04505;3+;Negatif;GS;Yes
+TP04506;3+;Negatif;GS;Yes
+TP04507;1+;Negatif;GS;Yes
+TP04508;3+;Negatif;GS;Yes
+TP04509;1+;Negatif;GS;Yes
+TP04510;3+;Negatif;GS;Yes
+TP04511;3+;Negatif;GS;Yes
+TP04427;2+;Negatif;GS;Yes
+TP04512;1+;Negatif;GS;Yes
+TP04513;3+;Negatif;GS;Yes
+TP04514;3+;Negatif;GS;Yes
+TP04515;1+;Negatif;GS;Yes
+TP04516;3+;Negatif;GS;Yes
+TP04517;3+;Negatif;GS;Yes
+TP04518;1+;Negatif;GS;Yes
+TP04519;2+;Negatif;GS;Yes
+TP04520;2+;Negatif;GS;Yes
+TP04521;3+;Negatif;GS;Yes
+TP04522;3+;Negatif;GS;Yes
+TP04523;3+;Negatif;GS;Yes
+TP04524;1+;Negatif;GS;Yes
+TP04525;3+;Negatif;GS;Yes
+TP04526;3+;Negatif;GS;No
+TP04527;2+;Negatif;GS;Yes
+TP04528;3+;Negatif;GS;Yes
+TP04529;3+;Negatif;GS;Yes
+TP04530;3+;Negatif;GS;Yes
+TP04531;1+;Negatif;GS;Yes
+TP04532;3+;Negatif;GS;Yes
+TP04533;2+;Negatif;GS;Yes
+TP04534;2+;Negatif;GS;Yes
+TP04535;2+;Negatif;GS;Yes
+TP04536;3+;Negatif;GS;Yes
+TP04537;3+;Negatif;GS;Yes
+TP04538;2+;Negatif;GS;Yes
+TP04539;3+;Negatif;GS;Yes
+TP04540;3+;Negatif;GS;No
+TP04541;3+;Negatif;GS;Yes
+TP04542;3+;Negatif;GS;Yes
+TP04543;3+;Negatif;GS;Yes
+TP04544;2+;Negatif;GS;Yes
+TP04545;3+;Negatif;GS;Yes
+TP04546;2+;Negatif;GS;Yes
+TP04547;2+;Negatif;GS;Yes
+TP04548;1+;Positif;GS;Yes
+TP04549;3+;Negatif;GS;Yes
+TP04550;1+;Negatif;GS;No
+TP04551;1+;Negatif;GS;Yes
+TP04552;3+;Negatif;GS;Yes
+TP04553;1+;Negatif;GS;Yes
+TP04554;1+;Negatif;GS;Yes
+TP04555;3+;Negatif;GS;Yes
+TP04556;1+;Negatif;GS;Yes
+TP04557;3+;Negatif;GS;Yes
+TP04558;3+;Negatif;GS;Yes
+TP04559;3+;Negatif;GS;Yes
+TP04560;3+;Negatif;GS;Yes
+TP04561;3+;Negatif;GS;Yes
+TP04562;2+;Negatif;GS;Yes
+TP04563;2+;Negatif;GS;Yes
+TP04564;3+;Negatif;GS;Yes
+TP04565;2+;Negatif;GS;Yes
+TP04566;1+;Negatif;GS;Yes
+TP04567;3+;Negatif;GS;Yes
+TP04568;3+;Negatif;GS;Yes
+TP04569;2+;Negatif;GS;Yes
+TP04570;2+;Negatif;GS;Yes
+TP04571;3+;Negatif;GS;Yes
+TP04572;3+;Negatif;GS;Yes
+TP04573;1+;Negatif;GS;Yes
+TP04574;2+;Negatif;GS;Yes
+TP04575;1+;Negatif;GS;Yes
+TP04576;2+;Negatif;GS;Yes
+TP04577;2+;Negatif;GS;Yes
+TP04578;1+;Negatif;GS;Yes
+TP04579;3+;Negatif;GS;Yes
+TP04580;3+;Negatif;GS;Yes
+TP04581;3+;Negatif;GS;Yes
+TP04582;3+;Negatif;GS;Yes
+TP04583;2+;Negatif;GS;Yes
+TP04584;1+;Negatif;GS;Yes
+TP04585;2+;Negatif;GS;Yes
+TP04586;1+;Negatif;GS;No
+TP04587;3+;Negatif;GS;Yes
+TP04588;3+;Negatif;GS;Yes
+TP04589;2+;Negatif;GS;Yes
+TP04590;1+;Negatif;GS;Yes
+TP04591;1+;Negatif;GS;Yes
+TP04592;3+;Negatif;GS;Yes
+TP04593;3+;Negatif;GS;Yes
+TP04594;1+;Negatif;GS;Yes
+TP04595;2+;Negatif;GS;Yes
+TP04596;3+;Negatif;GS;Yes
+TP04597;3+;Negatif;GS;Yes
+TP04598;3+;Negatif;GS;Yes
+TP04599;2+;Negatif;GS;Yes
+TP04600;1+;Negatif;GS;Yes
+TP04601;3+;Negatif;GS;Yes
+TP04602;3+;Negatif;GS;Yes
+TP04603;2+;Negatif;GS;Yes
+TP04604;2+;Negatif;GS;Yes
+TP04605;2+;Negatif;GS;Yes
+TP04606;3+;Negatif;GS;Yes
+TP04607;3+;Negatif;GS;Yes
+TP04608;1+;Negatif;GS;Yes
+TP04609;2+;Negatif;GS;Yes
+TP04610;3+;Negatif;GS;Yes
+TP04611;1+;Negatif;GS;Yes
+TP04612;2+;Negatif;GS;Yes
+TP04613;1+;Negatif;GS;Yes
+TP04614;3+;Negatif;GS;Yes
+TP04615;3+;Negatif;GS;Yes
+TP04616;3+;Negatif;GS;Yes
+TP04617;1+;Negatif;GS;Yes
+TP04618;2+;Negatif;GS;Yes
+TP04619;1+;Negatif;GS;Yes
+TP04620;3+;Negatif;GS;Yes
+TP04621;3+;Negatif;GS;Yes
+TP04622;2+;Negatif;GS;Yes
+TP04623;2+;Negatif;GS;Yes
+TP04624;1+;Negatif;GS;No
+TP04625;3+;Negatif;GS;Yes
+TP04626;2+;Negatif;GS;Yes
+TP04627;1+;Negatif;GS;Yes
+TP04628;2+;Negatif;GS;Yes
+TP04629;3+;Negatif;GS;Yes
+TP04630;3+;Negatif;GS;Yes
+TP04631;3+;Negatif;GS;Yes
+TP04632;1+;Negatif;GS;No
+TP04633;1+;Negatif;GS;Yes
+TP04634;2+;Negatif;GS;Yes
+TP04635;1+;Negatif;GS;Yes
+TP04636;2+;Negatif;GS;Yes
+TP04637;1+;Negatif;GS;Yes
+TP04638;1+;Positif;GS;Yes
+TP04639;3+;Negatif;GS;Yes
+TP04640;2+;Negatif;GS;Yes
+TP04641;3+;Negatif;GS;No
+TP04642;2+;Negatif;GS;Yes
+TP04643;1+;Negatif;GS;Yes
+TP04644;3+;Positif;GS;Yes
+TP04645;3+;Negatif;GS;Yes
+TP04646;1+;Negatif;GS;Yes
+TP04647;3+;Negatif;GS;Yes
+TP04648;1+;Negatif;GS;Yes
+TP04649;3+;Negatif;GS;Yes
+TP04650;1+;Negatif;GS;Yes
+TP04651;1+;Negatif;GS;Yes
+TP04652;2+;Negatif;GS;Yes
+TP04653;3+;Negatif;GS;Yes
+TP04654;2+;Negatif;GS;Yes
+TP04655;3+;Negatif;GS;Yes
+TP04656;1+;Negatif;GS;Yes
+TP04657;2+;Negatif;GS;No
+TP04658;3+;Negatif;GS;No
+TP04659;3+;Negatif;GS;Yes
+TP04660;3+;Negatif;GS;Yes
+TP04661;1+;Negatif;GS;Yes
+TP04662;2+;Negatif;GS;Yes
+TP04663;1+;Negatif;GS;No
+TP04664;1+;Negatif;GS;No
+TP04665;1+;Negatif;GS;Yes
+TP04666;2+;Negatif;GS;Yes
+TP04667;1+;Negatif;GS;Yes
+TP04668;2+;Negatif;GS;No
+TP04669;3+;Negatif;GS;No
+TP04670;3+;Negatif;GS;Yes
+TP04671;2+;Negatif;GS;Yes
+TP04672;3+;Negatif;GS;Yes
+TP04673;2+;Negatif;GS;Yes
+TP04674;3+;Negatif;GS;Yes
+TP04675;3+;Negatif;GS;Yes
+TP04676;3+;Negatif;GS;Yes
+TP04677;3+;Negatif;GS;Yes
+TP04678;3+;Negatif;GS;Yes
+TP04679;1+;Negatif;GS;Yes
+TP04680;3+;Negatif;GS;Yes
+TP04681;1+;Negatif;GS;Yes
+TP04682;3+;Negatif;GS;Yes
+TP04683;1+;Negatif;GS;Yes
+TP04684;3+;Negatif;GS;Yes
+TP04685;3+;Negatif;GS;Yes
+TP04686;1+;Negatif;GS;Yes
+TP04687;1+;Negatif;GS;Yes
+TP04688;3+;Negatif;GS;Yes
+TP04689;3+;Negatif;GS;Yes
+TP04690;3+;Negatif;GS;Yes
+TP04691;Scanty;Negatif;GS;Yes
+TP04692;1+;Positif;GS;Yes
+TP04693;Scanty;Negatif;GS;Yes
+TP04694;2+;Negatif;GS;Yes
+TP04695;3+;Negatif;GS;Yes
+TP04696;1+;Negatif;GS;Yes
+TP04697;1+;Negatif;GS;Yes
+TP04698;1+;Negatif;GS;Yes
+TP04699;2+;Negatif;GS;Yes
+TP04700;3+;Negatif;GS;Yes
+TP04701;2+;Negatif;GS;Yes
+TP04702;3+;Negatif;GS;Yes
+TP04703;1+;Negatif;GS;Yes
+TP04704;2+;Negatif;GS;Yes
+TP04705;3+;Negatif;GS;No
+TP04706;1+;Negatif;GS;Yes
+TP04707;3+;Negatif;GS;Yes
+TP04708;Scanty;Negatif;GS;Yes
+TP04709;1+;Negatif;GS;Yes
+TP04710;Neg;Negatif;GS;No
+TP04711;3+;Negatif;GS;Yes
+TP04712;2+;Negatif;GS;Yes
+TP04713;3+;Negatif;GS;Yes
+TP04714;Neg;Negatif;GS;Yes
+TP04715;3+;Negatif;GS;Yes
+TP04716;3+;Negatif;GS;Yes
+TP04717;1+;Negatif;GS;Yes
+TP04718;Scanty;Negatif;GS;No
+TP04719;Neg;Negatif;GS;Yes
+TP04720;Neg;Negatif;GS;No
+TP04809;Neg;Negatif;GS;No
+TP04810;1+;Negatif;GS;Yes
+TP04811;Neg;Negatif;GS;No
+TP04812;2+;Negatif;GS;Yes
+TP04813;Scanty;Negatif;GS;Yes
+TP04814;3+;Negatif;GS;Yes
+TP04815;2+;Negatif;GS;Yes
+TP04816;3+;Negatif;GS;Yes
+TP04817;Scanty;Negatif;GS;Yes
+TP04818;2+;Negatif;GS;Yes
+TP04819;2+;Negatif;GS;Yes
+TP04820;Scanty;Negatif;GS;Yes
+TP04821;2+;Negatif;GS;Yes
+TP04822;3+;Negatif;GS;Yes
+TP04823;Scanty;Negatif;GS;Yes
+TP05486;Neg;Negatif;GS;Yes
+TP05487;3+;Negatif;GS;Yes
+TP05488;Neg;Negatif;GS;Yes
+TP05489;3+;Negatif;GS;Yes
+TP05490;3+;Negatif;GS;Yes
+TP05491;2+;Negatif;GS;Yes
+TP05492;1+;Negatif;GS;Yes
+TP05493;Neg;Negatif;GS;Yes
+TP05494;Neg;Negatif;GS;Yes
+TP05495;2+;Negatif;GS;Yes
+TP05496;1+;Negatif;GS;Yes
+TP05497;2+;Negatif;GS;Yes
+TP05498;2+;Negatif;GS;Yes
+TP05499;1+;Negatif;GS;Yes
+TP05500;Neg;Negatif;GS;Yes
+TP05501;1+;Negatif;GS;Yes
+TP05502;1+;Negatif;GS;Yes
+TP05503;3+;Negatif;GS;Yes
+TP05504;3+;Negatif;GS;Yes
+TP05505;1+;Negatif;GS;Yes
+TP05506;3+;Negatif;GS;Yes
+TP05507;3+;Positif;GS;Yes
+TP05508;2+;Negatif;GS;Yes
+TP05509;3+;Negatif;GS;Yes
+TP05510;Scanty;Negatif;GS;Yes
+TP05511;Neg;Negatif;GS;Yes
+TP05512;Neg;Positif;GS;Yes
+TP05513;3+;Negatif;GS;Yes
+TP05514;Neg;Negatif;GS;Yes
+TP05515;1+;Negatif;GS;Yes
+TP05516;1+;Negatif;GS;Yes
+TP05517;1+;Positif;GS;Yes
+TP05518;3+;Negatif;GS;Yes
+TP05519;2+;Negatif;GS;Yes
+TP05520;Neg;Negatif;GS;Yes
+TP05521;Scanty;Negatif;GS;Yes
+TP05522;3+;Negatif;GS;Yes
+TP05523;3+;Negatif;GS;Yes
+TP05524;3+;Negatif;GS;Yes
+TP05525;Neg;Negatif;GS;Yes
+TP05526;Scanty;Negatif;GS;Yes
+TP05527;Neg;Positif;GS;No
+TP05528;2+;Negatif;GS;No
+TP05529;3+;Negatif;GS;Yes
+TP05530;3+;Negatif;GS;Yes
+TP05531;2+;Negatif;GS;Yes
+TP05532;2+;Negatif;GS;Yes
+TP05533;Scanty;Negatif;GS;Yes
+TP05534;3+;Negatif;GS;Yes
+TP05535;Not tested;Negatif;GS;No
+TP05536;1+;Negatif;GS;No
+TP05537;Neg;Negatif;GS;Yes
+TP05538;Neg;Negatif;GS;No
+TP05539;Not tested;Negatif;GS;Yes
+TP05540;3+;Negatif;GS;Yes
+TP05541;3+;Negatif;GS;Yes
+TP05542;3+;Negatif;GS;Yes
+TP05543;2+;Negatif;GS;Yes
+TP05544;Neg;Negatif;GS;Yes
+TP05545;2+;Negatif;GS;Yes
+TP05546;Neg;Negatif;GS;Yes
+TP05547;Neg;Negatif;GS;Yes
+TP05548;Neg;Negatif;GS;Yes
+TP05549;Neg;Negatif;GS;Yes
+TP05550;2+;Negatif;GS;Yes
+TP05551;1+;Negatif;GS;Yes
+TP05552;2+;Negatif;GS;Yes
+TP05553;3+;Negatif;GS;Yes
+TP05554;Scanty;Negatif;GS;Yes
+TP05555;1+;Negatif;GS;Yes
+TP05556;1+;Negatif;GS;Yes
+TP05557;3+;Negatif;GS;Yes
+TP05558;1+;Negatif;GS;Yes
+TP05559;Neg;Negatif;GS;No
+TP05560;3+;Negatif;GS;Yes
+TP05561;1+;Negatif;GS;Yes
+TP05562;3+;Negatif;GS;Yes
+TP05563;2+;Negatif;GS;Yes
+TP05564;3+;Negatif;GS;No
+TP05565;3+;Negatif;GS;Yes
+TP03621;Scanty;Negatif;GS;Yes
+TP03622;2+;Negatif;GS;Yes
+TP03623;2+;Negatif;GS;Yes
+TP03624;1+;Negatif;GS;Yes
+TP03625;Scanty;Negatif;GS;Yes
+TP03626;1+;Negatif;GS;Yes
+TP03627;1+;Negatif;GS;Yes
+TP03628;1+;Negatif;GS;Yes
+TP03629;Neg;Negatif;GS;Yes
+TP03630;Neg;Positif;GS;Yes
+TP03631;Neg;Negatif;GS;Yes
+TP03632;1+;Negatif;GS;Yes
+TP03633;1+;Negatif;GS;Yes
+TP03634;2+;Negatif;GS;Yes
+TP03635;1+;Negatif;GS;Yes
+TP03636;3+;Negatif;GS;Yes
+TP03637;1+;Negatif;GS;Yes
+TP03638;3+;Negatif;GS;Yes
+TP03639;Neg;Negatif;GS;Yes
+TP03640;2+;Negatif;GS;Yes
+TP03641;3+;Negatif;GS;Yes
+TP03642;3+;Negatif;GS;Yes
+TP03643;2+;Negatif;GS;Yes
+TP03644;1+;Negatif;GS;Yes
+TP03645;1+;Negatif;GS;Yes
+TP03646;3+;Negatif;GS;Yes
+TP03647;2+;Negatif;GS;Yes
+TP03648;3+;Negatif;GS;Yes
+TP03649;1+;Negatif;GS;Yes
+TP03650;Neg;Negatif;GS;No
+TP03653;Neg;Negatif;GS;No
+TP03654;Neg;Negatif;GS;No
+TP03655;Neg;Negatif;GS;No
+TP03656;Neg;Negatif;GS;No
+TP03657;Neg;Negatif;GS;No
+TP03658;1+;Negatif;GS;No
+TP03659;Neg;Negatif;GS;No
+TP03660;Neg;Negatif;GS;No
+TP03661;Neg;Negatif;GS;No
+TP03662;Neg;Negatif;GS;No
+TP03663;Neg;Negatif;GS;No
+TP03664;3+;Negatif;GS;No
+TP03665;1+;Negatif;GS;Yes
+TP03666;1+;Negatif;GS;Yes
+TP03667;Neg;Negatif;GS;Yes
+TP03668;1+;Negatif;GS;Yes
+TP03669;1+;Negatif;GS;Yes
+TP03670;3+;Negatif;GS;Yes
+TP03671;2+;Negatif;GS;Yes
+TP03672;Neg;Negatif;GS;Yes
+TP03673;3+;Negatif;GS;Yes
+TP03674;3+;Negatif;GS;Yes
+TP03675;1+;Negatif;GS;Yes
+TP03676;Neg;Negatif;GS;Yes
+TP03677;Neg;Negatif;GS;Yes
+TP03678;Neg;Negatif;GS;Yes
+TP03679;1+;Negatif;GS;Yes
+TP03680;Neg;Negatif;GS;Yes
+TP03681;Neg;Negatif;GS;Yes
+TP03682;Scanty;Negatif;GS;Yes
+TP03683;Neg;Negatif;GS;Yes
+TP03684;1+;Negatif;GS;Yes
+TP03685;3+;Negatif;GS;Yes
+TP03686;Neg;Negatif;GS;Yes
+TP03687;2+;Negatif;GS;Yes
+TP03688;3+;Negatif;GS;Yes
+TP03689;Neg;Negatif;GS;Yes
+TP03690;Neg;Negatif;GS;Yes
+TP03691;1+;Negatif;GS;Yes
+TP03692;2+;Negatif;GS;Yes
+TP03693;1+;Negatif;GS;Yes
+TP03694;Neg;Negatif;GS;Yes
+TP03695;Neg;Negatif;GS;Yes
+TP03696;Neg;Negatif;GS;Yes
+TP03697;1+;Negatif;GS;Yes
+TP03698;Neg;Negatif;GS;Yes
+TP03699;Neg;Negatif;GS;Yes
+TP03700;Neg;Negatif;GS;Yes
+TP03701;1+;Negatif;GS;Yes
+TP03702;1+;Negatif;GS;No
+TP03703;3+;Negatif;GS;No
+TP03704;2+;Negatif;GS;No
+TP03705;Neg;Negatif;GS;No
+TP03706;Neg;Negatif;GS;No
+TP03707;3+;Negatif;GS;No
+TP03708;1+;Negatif;GS;No
+TP03709;1+;Negatif;GS;Yes
+TP03710;Neg;Negatif;GS;Yes
+TP03711;1+;Negatif;GS;Yes
+TP03712;1+;Negatif;GS;Yes
+TP03713;Neg;Negatif;GS;Yes
+TP03714;Scanty;Negatif;GS;Yes
+TP03715;Neg;Negatif;GS;Yes
+TP03716;Neg;Negatif;GS;Yes
+TP03717;Neg;Negatif;GS;No
+TP03718;Neg;Negatif;GS;No
+TP03719;Neg;Negatif;GS;No
+TP03720;3+;Negatif;GS;Yes
+TP03721;2+;Negatif;GS;Yes
+TP03722;Neg;Negatif;GS;Yes
+TP03723;3+;Negatif;GS;Yes
+TP03724;1+;Negatif;GS;Yes
+TP03725;Neg;Positif;GS;No
+TP03726;Neg;Negatif;GS;Yes
+TP03727;1+;Negatif;GS;Yes
+TP03728;Neg;Negatif;GS;Yes
+TP03729;Neg;Negatif;GS;No
+TP03730;Neg;Negatif;GS;No
+TP03731;Neg;Negatif;GS;Yes
+TP03732;1+;Negatif;GS;Yes
+TP03733;1+;Negatif;GS;Yes
+TP03734;Neg;Negatif;GS;No
+TP03735;1+;Negatif;GS;Yes
+TP03736;1+;Negatif;GS;No
+TP03737;Neg;Negatif;GS;Yes
+TP03738;Neg;Positif;GS;Yes
+TP03739;1+;Negatif;GS;Yes
+TP03740;Neg;Negatif;GS;No
+TP03741;Neg;Negatif;GS;Yes
+TP03743;2+;Negatif;GS;Yes
+TP03744;3+;Negatif;GS;Yes
+TP03745;1+;Negatif;GS;No
+TP03746;Neg;Negatif;GS;Yes
+TP03747;Neg;Negatif;GS;No
+TP03748;Neg;Negatif;GS;No
+TP03749;Neg;Negatif;GS;No
+TP03750;Neg;Negatif;GS;Yes
+TP03751;Neg;Negatif;GS;Yes
+TP03752;Neg;Negatif;GS;Yes
+TP03753;1+;Negatif;GS;Yes
+TP03754;2+;Negatif;GS;Yes
+TP03755;Neg;Negatif;GS;No
+TP03756;3+;Negatif;GS;Yes
+TP03757;2+;Negatif;GS;Yes
+TP03758;2+;Negatif;GS;Yes
+TP03760;2+;Negatif;GS;Yes
+TP03761;2+;Negatif;GS;Yes
+TP03762;Neg;Negatif;GS;No
+TP03763;2+;Negatif;GS;Yes
+TP03764;Neg;Negatif;GS;No
+TP03766;1+;Negatif;GS;Yes
+TP03767;Neg;Negatif;GS;No
+TP03768;Neg;Positif;GS;No
+TP03769;1+;Negatif;GS;Yes
+TP03770;2+;Negatif;GS;Yes
+TP03771;Neg;Negatif;GS;No
+TP03772;Neg;Negatif;GS;No
+TP03773;3+;Negatif;GS;Yes
+TP03774;2+;Negatif;GS;Yes
+TP03775;Neg;Negatif;GS;No
+TP03776;Neg;Negatif;GS;No
+TP03777;3+;Negatif;GS;Yes
+TP03778;1+;Negatif;GS;Yes
+TP03779;1+;Negatif;GS;Yes
+TP03780;Neg;Negatif;GS;No
+TP03781;Neg;Negatif;GS;No
+TP03782;2+;Negatif;GS;Yes
+TP03783;1+;Negatif;GS;Yes
+TP03784;Neg;Negatif;GS;No
+TP03785;Neg;Negatif;GS;Yes
+TP03786;Neg;Negatif;GS;Yes
+TP03787;Neg;Negatif;GS;No
+TP03788;Neg;Negatif;GS;Yes
+TP03789;Neg;Negatif;GS;No
+TP03791;3+;Negatif;GS;Yes
+TP03790;1+;Negatif;GS;Yes
+TP03792;1+;Negatif;GS;Yes
+TP03793;Neg;Negatif;GS;No
+TP03794;Neg;Negatif;GS;No
+TP03795;Neg;Negatif;GS;No
+TP03796;Neg;Negatif;GS;No
+TP03797;Neg;Negatif;GS;No
+TP03798;Neg;Negatif;GS;No
+TP03799;Neg;Negatif;GS;No
+TP03800;1+;Negatif;GS;No
+TP03801;Neg;Negatif;GS;No
+TP03803;Neg;Negatif;GS;No
+TP03802;Neg;Negatif;GS;No
+TP03804;3+;Negatif;GS;Yes
+TP03805;1+;Negatif;GS;Yes
+TP03815;Neg;Negatif;GS;Yes
+TP03807;2+;Negatif;GS;Yes
+TP03808;1+;Negatif;GS;Yes
+TP03806;1+;Negatif;GS;Yes
+TP03813;3+;Negatif;GS;Yes
+TP03811;Neg;Negatif;GS;Yes
+TP03809;1+;Negatif;GS;No
+TP03810;1+;Negatif;GS;Yes
+TP03814;1+;Negatif;GS;No
+TP03812;1+;Negatif;GS;No
+TP03816;3+;Negatif;GS;Yes
+TP03817;Neg;Negatif;GS;Yes
+TP03818;3+;Negatif;GS;Yes
+TP03819;3+;Negatif;GS;Yes
+TP03820;Neg;Negatif;GS;Yes
+TP03821;Neg;Positif;GS;No
+TP03822;Neg;Negatif;GS;Yes
+TP03823;1+;Negatif;GS;Yes
+TP03827;2+;Negatif;GS;Yes
+TP03825;1+;Negatif;GS;Yes
+TP03826;Neg;Negatif;GS;No
+TP03824;Neg;Negatif;GS;Yes
+TP03828;3+;Negatif;GS;Yes
+TP03829;3+;Negatif;GS;Yes
+TP03830;3+;Negatif;GS;Yes
+TP03831;2+;Negatif;GS;Yes
+TP03832;2+;Negatif;GS;Yes
+TP03833;Neg;Negatif;GS;No
+TP03837;Neg;Negatif;GS;Yes
+TP03835;3+;Negatif;GS;Yes
+TP03836;1+;Negatif;GS;Yes
+TP03834;3+;Negatif;GS;Yes
+TP03838;Neg;Negatif;GS;Yes
+TP03839;Neg;Negatif;GS;No
+TP03840;2+;Negatif;GS;Yes
+TP03841;3+;Negatif;GS;Yes
+TP03842;1+;Negatif;GS;Yes
+TP03843;1+;Negatif;GS;Yes
+TP03844;Neg;Negatif;GS;No
+TP03845;Neg;Negatif;GS;No
+TP03846;1+;Negatif;GS;Yes
+TP03847;Neg;Negatif;GS;No
+TP03848;Neg;Negatif;GS;No
+TP03852;3+;Negatif;GS;Yes
+TP03850;3+;Negatif;GS;Yes
+TP03851;Neg;Negatif;GS;Yes
+TP03849;Neg;Negatif;GS;No
+TP03853;2+;Negatif;GS;Yes
+TP03856;2+;Negatif;GS;Yes
+TP03858;Neg;Negatif;GS;No
+TP03894;Neg;Negatif;GS;No
+TP03854;Neg;Negatif;GS;Yes
+TP03855;2+;Negatif;GS;Yes
+TP03862;Neg;Negatif;GS;Yes
+TP03857;Scanty;Negatif;GS;Yes
+TP03863;3+;Negatif;GS;Yes
+TP03859;Scanty;Negatif;GS;No
+TP03860;Neg;Negatif;GS;No
+TP03861;Neg;Negatif;GS;No
+TP03864;3+;Negatif;GS;Yes
+TP03865;2+;Negatif;GS;Yes
+TP03866;Neg;Negatif;GS;Yes
+TP03871;Scanty;Negatif;GS;Yes
+TP03868;2+;Negatif;GS;Yes
+TP03867;3+;Negatif;GS;Yes
+TP03872;1+;Negatif;GS;Yes
+TP03869;Neg;Negatif;GS;No
+TP03870;3+;Negatif;GS;Yes
+TP03875;Neg;Positif;GS;Yes
+TP03874;Scanty;Negatif;GS;Yes
+TP03873;2+;Negatif;GS;Yes
+TP03876;Neg;Negatif;GS;No
+TP03877;1+;Negatif;GS;Yes
+TP03878;2+;Negatif;GS;Yes
+TP03883;Neg;Negatif;GS;Yes
+TP03880;1+;Negatif;GS;Yes
+TP03879;Neg;Negatif;GS;No
+TP03884;Neg;Negatif;GS;Yes
+TP03881;Neg;Negatif;GS;No
+TP03882;Neg;Negatif;GS;No
+TP03887;Neg;Negatif;GS;No
+TP03886;1+;Negatif;GS;Yes
+TP03885;3+;Negatif;GS;Yes
+TP03888;Neg;Negatif;GS;Yes
+TP03889;3+;Negatif;GS;Yes
+TP03890;Neg;Negatif;GS;No
+TP03909;1+;Negatif;GS;Yes
+TP03910;1+;Negatif;GS;Yes
+TP03911;Neg;Negatif;GS;Yes
+TP03912;Neg;Negatif;GS;Yes
+TP03913;Neg;Negatif;GS;No
+TP03898;Neg;Negatif;GS;No
+TP03914;Scanty;Negatif;GS;Yes
+TP03915;1+;Positif;GS;Yes
+TP03916;Neg;Negatif;GS;No
+TP03896;Neg;Negatif;GS;Yes
+TP03917;Neg;Negatif;GS;No
+TP03918;Neg;Negatif;GS;Yes
+TP03919;2+;Negatif;GS;Yes
+TP03920;Neg;Negatif;GS;No
+TP03921;Neg;Negatif;GS;No
+TP03922;1+;Negatif;GS;Yes
+TP03923;Neg;Negatif;GS;Yes
+TP03924;Neg;Negatif;GS;No
+TP03925;3+;Negatif;GS;Yes
+TP03926;Neg;Negatif;GS;No
+TP03927;1+;Negatif;GS;Yes
+TP03928;3+;Negatif;GS;Yes
+TP03929;3+;Negatif;GS;Yes
+TP03907;1+;Negatif;GS;Yes
+TP03908;Neg;Negatif;GS;No
+TP03930;Neg;Negatif;GS;Yes
+TP03902;Neg;Negatif;GS;Yes
+TP03931;3+;Negatif;GS;Yes
+TP03900;Neg;Negatif;GS;No
+TP03932;Neg;Negatif;GS;No
+TP03933;3+;Negatif;GS;Yes
+TP03897;Neg;Negatif;GS;Yes
+TP03934;Scanty;Negatif;GS;Yes
+TP03935;Neg;Negatif;GS;No
+TP03899;Neg;Negatif;GS;Yes
+TP03936;1+;Negatif;GS;No
+TP03937;Neg;Negatif;GS;Yes
+TP03938;3+;Negatif;GS;Yes
+TP03939;Neg;Negatif;GS;No
+TP03940;Neg;Negatif;GS;No
+TP03941;Neg;Negatif;GS;Yes
+TP03942;1+;Negatif;GS;Yes
+TP03904;3+;Negatif;GS;Yes
+TP03901;Neg;Negatif;GS;No
+TP03943;2+;Negatif;GS;Yes
+TP03906;3+;Negatif;GS;Yes
+TP03944;3+;Negatif;GS;Yes
+TP03945;1+;Negatif;GS;Yes
+TP03946;3+;Negatif;GS;Yes
+TP03947;Neg;Negatif;GS;Yes
+TP03948;Neg;Negatif;GS;No
+TP03949;Neg;Negatif;GS;No
+TP03950;2+;Negatif;GS;Yes
+TP03951;Neg;Negatif;GS;No
+TP03952;Neg;Negatif;GS;Yes
+TP03953;3+;Negatif;GS;Yes
+TP03954;1+;Negatif;GS;Yes
+TP03955;2+;Negatif;GS;Yes
+TP03956;2+;Negatif;GS;Yes
+TP03957;Neg;Negatif;GS;Yes
+TP03958;Neg;Negatif;GS;No
+TP03959;3+;Negatif;GS;Yes
+TP03960;2+;Negatif;GS;Yes
+TP03961;Neg;Negatif;GS;No
+TP03962;2+;Negatif;GS;Yes
+TP03963;Neg;Negatif;GS;No
+TP03964;2+;Negatif;GS;Yes
+TP03965;Scanty;Negatif;GS;Yes
+TP03966;3+;Negatif;GS;Yes
+TP03967;Scanty;Negatif;GS;Yes
+TP03968;Neg;Negatif;GS;No
+TP03969;Scanty;Negatif;GS;Yes
+TP03970;3+;Negatif;GS;Yes
+TP03971;Neg;Negatif;GS;Yes
+TP03972;3+;Negatif;GS;Yes
+TP03973;3+;Negatif;GS;Yes
+TP03974;Neg;Negatif;GS;No
+TP03975;Neg;Negatif;GS;Yes
+TP03976;Neg;Negatif;GS;No
+TP03977;1+;Negatif;GS;Yes
+TP03978;2+;Negatif;GS;Yes
+TP03979;3+;Negatif;GS;Yes
+TP03980;Scanty;Negatif;GS;No
+TP03981;Neg;Negatif;GS;No
+TP03982;Neg;Negatif;GS;No
+TP03983;3+;Negatif;GS;Yes
+TP03984;Neg;Negatif;GS;No
+TP03985;Neg;Negatif;GS;No
+TP03986;1+;Negatif;GS;No
+TP03987;Scanty;Negatif;GS;Yes
+TP03988;Neg;Negatif;GS;Yes
+TP03989;3+;Negatif;GS;Yes
+TP03990;3+;Negatif;GS;Yes
+TP03991;Neg;Negatif;GS;Yes
+TP03992;Neg;Negatif;GS;Yes
+TP03993;Neg;Negatif;GS;No
+TP03994;Neg;Negatif;GS;No
+TP03995;Neg;Negatif;GS;No
+TP03996;Neg;Negatif;GS;No
+TP03997;2+;Negatif;GS;Yes
+TP03998;Neg;Negatif;GS;No
+TP03999;2+;Negatif;GS;Yes
+TP04000;Neg;Negatif;GS;No
+TP04001;Neg;Negatif;GS;No
+TP04002;Scanty;Negatif;GS;Yes
+TP04003;Neg;Negatif;GS;No
+TP04004;1+;Negatif;GS;Yes
+TP04005;3+;Negatif;GS;Yes
+TP04006;Neg;Negatif;GS;No
+TP04007;Neg;Negatif;GS;Yes
+TP04008;Neg;Negatif;GS;No
+TP04009;2+;Negatif;GS;Yes
+TP04010;3+;Negatif;GS;Yes
+TP04011;1+;Negatif;GS;Yes
+TP04012;Neg;Negatif;GS;No
+TP04013;Neg;Negatif;GS;Yes
+TP04014;Neg;Negatif;GS;No
+TP04015;Neg;Negatif;GS;Yes
+TP04016;Neg;Negatif;GS;No
+TP04017;Neg;Negatif;GS;No
+TP04018;Neg;Negatif;GS;Yes
+TP04019;Neg;Negatif;GS;Yes
+TP04020;3+;Negatif;GS;Yes
+TP04021;Neg;Negatif;GS;No
+TP04022;Neg;Negatif;GS;No
+TP04023;3+;Negatif;GS;Yes
+TP04024;Neg;Negatif;GS;Yes
+TP04025;Neg;Negatif;GS;No
+TP04026;1+;Negatif;GS;Yes
+TP04027;Neg;Negatif;GS;Yes
+TP04028;Neg;Negatif;GS;Yes
+TP04029;Neg;Negatif;GS;Yes
+TP04030;Neg;Negatif;GS;No
+TP04031;1+;Negatif;GS;Yes
+TP04032;1+;Negatif;GS;Yes
+TP04033;Neg;Negatif;GS;No
+TP04034;Neg;Negatif;GS;Yes
+TP04035;Neg;Negatif;GS;Yes
+TP04036;Neg;Negatif;GS;No
+TP04037;2+;Negatif;GS;No
+TP04038;Neg;Negatif;GS;Yes
+TP04039;1+;Negatif;GS;Yes
+TP04040;Neg;Negatif;GS;No
+TP04041;1+;Negatif;GS;No
+TP04042;Neg;Negatif;GS;No
+TP04043;Neg;Negatif;GS;No
+TP04044;3+;Negatif;GS;No
+TP04045;1+;Negatif;GS;Yes
+TP04046;Neg;Negatif;GS;No
+TP04047;Neg;Negatif;GS;Yes
+TP04048;3+;Negatif;GS;Yes
+TP04049;Neg;Negatif;GS;No
+TP04050;Neg;Negatif;GS;No
+TP04051;2+;Negatif;GS;Yes
+TP04052;Neg;Negatif;GS;No
+TP04053;1+;Negatif;GS;No
+TP04054;Neg;Negatif;GS;No
+TP04055;3+;Negatif;GS;Yes
+TP04056;Neg;Negatif;GS;No
+TP04057;Neg;Negatif;GS;No
+TP04058;Neg;Negatif;GS;Yes
+TP04059;Neg;Negatif;GS;Yes
+TP04060;Not tested;Negatif;GS;No
+TP04061;Not tested;Negatif;GS;Yes
+TP04062;Neg;Negatif;GS;No
+TP04063;Not tested;Negatif;GS;No
+TP04064;3+;Negatif;GS;Yes
+TP04065;Neg;Negatif;GS;No
+TP04066;Neg;Negatif;GS;Yes
+TP04067;3+;Negatif;GS;Yes
+TP04068;1+;Negatif;GS;No
+TP04069;3+;Negatif;GS;Yes
+TP04070;Neg;Negatif;GS;No
+TP04071;Neg;Negatif;GS;No
+TP04072;Scanty;Negatif;GS;No
+TP04073;Neg;Negatif;GS;No
+TP04074;Neg;Negatif;GS;No
+TP04075;Neg;Negatif;GS;No
+TP04076;Neg;Negatif;GS;No
+TP04077;Scanty;Negatif;GS;No
+TP04078;Neg;Negatif;GS;No
+TP04079;Neg;Negatif;GS;No
+TP04080;3+;Negatif;GS;No
+TP04081;Scanty;Negatif;GS;Yes
+TP04082;3+;Negatif;GS;Yes
+TP04083;Scanty;Negatif;GS;Yes
+TP04084;2+;Negatif;GS;Yes
+TP04085;3+;Negatif;GS;Yes
+TP04086;3+;Negatif;GS;Yes
+TP04087;2+;Negatif;GS;Yes
+TP04088;2+;Negatif;GS;Yes
+TP04089;Neg;Negatif;GS;No
+TP04090;3+;Negatif;GS;Yes
+TP04091;Scanty;Negatif;GS;Yes
+TP04092;Neg;Negatif;GS;No
+TP04093;Neg;Negatif;GS;Yes
+TP04094;3+;Negatif;GS;Yes
+TP04095;Neg;Negatif;GS;No
+TP04096;Neg;Negatif;GS;No
+TP04097;2+;Negatif;GS;Yes
+TP04098;Neg;Negatif;GS;No
+TP04099;3+;Negatif;GS;Yes
+TP04100;3+;Negatif;GS;Yes
+TP04101;Neg;Negatif;GS;Yes
+TP04102;Neg;Negatif;GS;Yes
+TP04103;Neg;Negatif;GS;No
+TP04104;Neg;Negatif;GS;Yes
+TP04105;Neg;Negatif;GS;Yes
+TP04106;1+;Negatif;GS;Yes
+TP04107;Neg;Negatif;GS;No
+TP04108;3+;Negatif;GS;Yes
+TP04109;Neg;Negatif;GS;Yes
+TP04110;Neg;Negatif;GS;Yes
+TP04111;2+;Negatif;GS;No
+TP04112;2+;Negatif;GS;Yes
+TP04113;3+;Negatif;GS;Yes
+TP04114;Neg;Negatif;GS;Yes
+TP04115;3+;Negatif;GS;Yes
+TP04116;3+;Negatif;GS;Yes
+TP04117;1+;Negatif;GS;Yes
+TP04118;3+;Negatif;GS;Yes
+TP04119;1+;Negatif;GS;Yes
+TP04120;Neg;Negatif;GS;Yes
+TP04121;Neg;Negatif;GS;No
+TP04122;3+;Negatif;GS;No
+TP04123;3+;Negatif;GS;Yes
+TP04124;3+;Negatif;GS;Yes
+TP04260;Neg;Negatif;GS;No
+TP04261;Neg;Negatif;GS;No
+TP04262;Neg;Negatif;GS;No
+TP04263;Neg;Negatif;GS;Yes
+TP04264;Neg;Negatif;GS;No
+TP04265;Neg;Negatif;GS;No
+TP04266;Neg;Negatif;GS;No
+TP04267;3+;Negatif;GS;No
+TP04268;Neg;Negatif;GS;Yes
+TP04269;Neg;Negatif;GS;No
+TP03742;1+;Negatif;GS;Yes
+TP03903;Neg;Negatif;GS;No
+TP03759;Scanty;Negatif;GS;Yes
+TP04270;1+;Negatif;GS;Yes
+TP03765;3+;Negatif;GS;Yes
+TP04271;Neg;Negatif;GS;No
+TP04272;Neg;Negatif;GS;Yes
+TP04273;Neg;Negatif;GS;Yes
+TP04274;Neg;Negatif;GS;Yes
+TP04275;Neg;Negatif;GS;No
+TP04276;Neg;Negatif;GS;No
+TP04277;Neg;Negatif;GS;No
+TP04278;Neg;Negatif;GS;No
+TP04279;Neg;Negatif;GS;No
+TP04280;Neg;Negatif;GS;No
+TP04281;Neg;Negatif;GS;No
+TP04282;Neg;Negatif;GS;No
+TP04283;3+;Negatif;GS;Yes
+TP04284;Neg;Negatif;GS;No
+TP04285;Neg;Negatif;GS;No
+TP04286;Neg;Negatif;GS;Yes
+TP03652;Neg;Negatif;GS;Yes
+TP04287;Neg;Negatif;GS;Yes
+TP04288;Neg;Negatif;GS;No
+TP04289;Neg;Negatif;GS;No
+TP04290;Neg;Negatif;GS;No
+TP04291;Neg;Negatif;GS;No
+TP04292;1+;Negatif;GS;Yes
+TP03893;1+;Negatif;GS;Yes
+TP04293;Neg;Negatif;GS;No
+TP04294;2+;Negatif;GS;Yes
+TP04295;Neg;Negatif;GS;Yes
+TP06171;Neg;Negatif;GS;No
+TP06172;Neg;Negatif;GS;Yes
+TP03651;3+;Negatif;GS;Yes
+TP03081;1+;Negatif;GS;Yes
+TP03082;1+;Negatif;GS;Yes
+TP03083;3+;Negatif;GS;Yes
+TP03084;1+;Negatif;GS;Yes
+TP03085;3+;Negatif;GS;Yes
+TP03086;3+;Negatif;GS;Yes
+TP03087;2+;Negatif;GS;Yes
+TP03088;Neg;Negatif;GS;Yes
+TP03089;2+;Negatif;GS;Yes
+TP03090;1+;Negatif;GS;Yes
+TP03001;1+;Negatif;GS;Yes
+TP03002;Neg;Negatif;GS;No
+TP03003;3+;Negatif;GS;No
+TP03004;Neg;Negatif;GS;Yes
+TP03005;Neg;Negatif;GS;Yes
+TP03006;Neg;Negatif;GS;No
+TP03007;Scanty;Negatif;GS;Yes
+TP03008;Neg;Negatif;GS;No
+TP03009;Neg;Negatif;GS;No
+TP03010;Neg;Negatif;GS;No
+TP03011;2+;Negatif;GS;Yes
+TP03012;Neg;Negatif;GS;Yes
+TP03013;Neg;Negatif;GS;No
+TP03014;Neg;Negatif;GS;Yes
+TP03015;Neg;Negatif;GS;No
+TP03016;Scanty;Negatif;GS;No
+TP03017;3+;Negatif;GS;No
+TP03018;Scanty;Negatif;GS;Yes
+TP03019;1+;Negatif;GS;Yes
+TP03020;Neg;Negatif;GS;No
+TP03021;2+;Negatif;GS;Yes
+TP03022;1+;Negatif;GS;Yes
+TP03023;Scanty;Negatif;GS;Yes
+TP03024;Neg;Negatif;GS;No
+TP03025;1+;Negatif;GS;No
+TP03026;1+;Negatif;GS;Yes
+TP03027;1+;Negatif;GS;No
+TP03028;Neg;Negatif;GS;No
+TP03029;Neg;Negatif;GS;No
+TP03030;Neg;Negatif;GS;Yes
+TP03031;Neg;Negatif;GS;Yes
+TP03032;Neg;Negatif;GS;No
+TP03033;1+;Negatif;GS;Yes
+TP03034;Neg;Negatif;GS;Yes
+TP03035;Neg;Negatif;GS;No
+TP03036;3+;Negatif;GS;Yes
+TP03037;Neg;Negatif;GS;Yes
+TP03038;3+;Positif;GS;Yes
+TP03039;Neg;Negatif;GS;Yes
+TP03040;1+;Negatif;GS;Yes
+TP03041;1+;Negatif;GS;Yes
+TP03042;1+;Negatif;GS;Yes
+TP03043;3+;Negatif;GS;Yes
+TP03044;Scanty;Negatif;GS;Yes
+TP03045;Neg;Negatif;GS;Yes
+TP03046;3+;Negatif;GS;Yes
+TP03047;Neg;Negatif;GS;Yes
+TP03048;2+;Negatif;GS;Yes
+TP03049;3+;Negatif;GS;No
+TP03050;1+;Negatif;GS;Yes
+TP03051;2+;Negatif;GS;Yes
+TP03052;2+;Negatif;GS;Yes
+TP03053;2+;Negatif;GS;Yes
+TP03054;1+;Negatif;GS;Yes
+TP03055;1+;Negatif;GS;Yes
+TP03056;Scanty;Negatif;GS;Yes
+TP03057;2+;Negatif;GS;Yes
+TP03058;1+;Negatif;GS;Yes
+TP03059;Neg;Negatif;GS;Yes
+TP03060;3+;Negatif;GS;Yes
+TP03061;3+;Negatif;GS;Yes
+TP03062;3+;Negatif;GS;Yes
+TP03063;Neg;Negatif;GS;Yes
+TP03064;2+;Negatif;GS;Yes
+TP03065;Neg;Negatif;GS;Yes
+TP03066;1+;Negatif;GS;Yes
+TP03067;3+;Negatif;GS;Yes
+TP03068;Neg;Negatif;GS;Yes
+TP03069;Neg;Negatif;GS;No
+TP03070;Scanty;Negatif;GS;Yes
+TP03072;Scanty;Negatif;GS;No
+TP03073;Neg;Negatif;GS;Yes
+TP03074;Neg;Negatif;GS;Yes
+TP03075;3+;Negatif;GS;No
+TP03076;Not tested;Negatif;GS;Yes
+TP03077;3+;Negatif;GS;Yes
+TP03078;1+;Negatif;GS;Yes
+TP03079;3+;Negatif;GS;Yes
+TP03080;Neg;Negatif;GS;Yes
+TP03091;1+;Negatif;GS;Yes
+TP03092;Neg;Negatif;GS;No
+TP03093;Neg;Negatif;GS;Yes
+TP03094;1+;Negatif;GS;Yes
+TP03095;1+;Negatif;GS;Yes
+TP03097;Neg;Negatif;GS;Yes
+TP03098;3+;Negatif;GS;Yes
+TP03099;Neg;Negatif;GS;Yes
+TP03100;Neg;Negatif;GS;Yes
+TP03101;Neg;Negatif;GS;Yes
+TP03102;Neg;Negatif;GS;Yes
+TP03103;1+;Negatif;GS;Yes
+TP03104;1+;Negatif;GS;Yes
+TP03105;1+;Negatif;GS;Yes
+TP03106;Neg;Negatif;GS;Yes
+TP03107;Neg;Negatif;GS;Yes
+TP03108;Neg;Negatif;GS;Yes
+TP03109;Neg;Negatif;GS;Yes
+TP03110;Neg;Negatif;GS;Yes
+TP03111;1+;Negatif;GS;Yes
+TP03112;1+;Negatif;GS;Yes
+TP03113;2+;Negatif;GS;Yes
+TP03114;1+;Negatif;GS;No
+TP03115;Neg;Negatif;GS;Yes
+TP03116;Neg;Negatif;GS;Yes
+TP03117;Neg;Negatif;GS;Yes
+TP03118;Neg;Negatif;GS;Yes
+TP03119;Neg;Negatif;GS;No
+TP03120;1+;Negatif;GS;Yes
+TP03121;1+;Negatif;GS;Yes
+TP03122;Scanty;Negatif;GS;Yes
+TP03123;1+;Negatif;GS;No
+TP03124;3+;Negatif;GS;Yes
+TP03125;1+;Negatif;GS;Yes
+TP03126;1+;Negatif;GS;Yes
+TP03127;Neg;Negatif;GS;No
+TP03128;Neg;Negatif;GS;No
+TP03129;Neg;Negatif;GS;No
+TP03130;2+;Negatif;GS;Yes
+TP03131;Neg;Negatif;GS;Yes
+TP03132;Neg;Negatif;GS;Yes
+TP03133;3+;Negatif;GS;Yes
+TP03134;Neg;Negatif;GS;Yes
+TP03135;1+;Negatif;GS;Yes
+TP03136;2+;Negatif;GS;Yes
+TP03137;1+;Negatif;GS;Yes
+TP03138;1+;Negatif;GS;Yes
+TP03139;Neg;Negatif;GS;Yes
+TP03140;Neg;Negatif;GS;Yes
+TP03141;Neg;Negatif;GS;Yes
+TP03142;Neg;Negatif;GS;No
+TP03143;2+;Negatif;GS;No
+TP03144;Neg;Negatif;GS;No
+TP03145;3+;Negatif;GS;No
+TP03146;Neg;Negatif;GS;Yes
+TP03147;Neg;Negatif;GS;No
+TP03148;2+;Negatif;GS;Yes
+TP03149;Neg;Negatif;GS;Yes
+TP03150;Neg;Negatif;GS;No
+TP03151;Scanty;Negatif;GS;Yes
+TP03152;1+;Negatif;GS;Yes
+TP03153;Scanty;Negatif;GS;Yes
+TP03154;1+;Negatif;GS;Yes
+TP03155;2+;Negatif;GS;Yes
+TP03156;3+;Negatif;GS;Yes
+TP03157;Neg;Negatif;GS;Yes
+TP03158;1+;Negatif;GS;Yes
+TP03159;1+;Negatif;GS;Yes
+TP03160;Neg;Negatif;GS;Yes
+TP03161;Neg;Negatif;GS;Yes
+TP03162;Neg;Negatif;GS;Yes
+TP03163;1+;Negatif;GS;Yes
+TP03164;Neg;Negatif;GS;Yes
+TP03165;Neg;Negatif;GS;No
+TP03166;Neg;Negatif;GS;No
+TP03167;Neg;Negatif;GS;Yes
+TP03168;Scanty;Negatif;GS;Yes
+TP03169;Neg;Negatif;GS;Yes
+TP03170;3+;Negatif;GS;Yes
+TP03171;Neg;Negatif;GS;Yes
+TP03172;Neg;Negatif;GS;Yes
+TP03173;Neg;Negatif;GS;No
+TP03174;3+;Negatif;GS;Yes
+TP03175;Neg;Negatif;GS;Yes
+TP03176;2+;Negatif;GS;Yes
+TP03177;2+;Negatif;GS;Yes
+TP03178;Scanty;Negatif;GS;Yes
+TP03179;Neg;Negatif;GS;Yes
+TP03180;1+;Negatif;GS;Yes
+TP03181;1+;Negatif;GS;Yes
+TP03182;2+;Negatif;GS;Yes
+TP03183;3+;Negatif;GS;Yes
+TP03184;Neg;Negatif;GS;Yes
+TP03185;1+;Negatif;GS;Yes
+TP03186;3+;Negatif;GS;Yes
+TP03187;Neg;Negatif;GS;Yes
+TP03188;3+;Negatif;GS;Yes
+TP03189;3+;Negatif;GS;Yes
+TP03190;3+;Negatif;GS;Yes
+TP03191;3+;Negatif;GS;Yes
+TP03192;3+;Negatif;GS;Yes
+TP03193;Neg;Negatif;GS;Yes
+TP03194;Neg;Negatif;GS;Yes
+TP03195;1+;Negatif;GS;Yes
+TP03196;3+;Negatif;GS;Yes
+TP03197;3+;Negatif;GS;Yes
+TP03198;Neg;Negatif;GS;Yes
+TP03199;2+;Negatif;GS;Yes
+TP03200;Neg;Negatif;GS;Yes
+TP03201;Neg;Negatif;GS;No
+TP03202;Neg;Negatif;GS;Yes
+TP03203;Neg;Negatif;GS;Yes
+TP03204;Neg;Positif;GS;Yes
+TP03205;1+;Negatif;GS;Yes
+TP03206;2+;Negatif;GS;Yes
+TP03207;Neg;Negatif;GS;Yes
+TP03208;Neg;Negatif;GS;Yes
+TP03209;Neg;Negatif;GS;Yes
+TP03210;1+;Negatif;GS;Yes
+TP03211;3+;Negatif;GS;Yes
+TP03212;3+;Negatif;GS;Yes
+TP03213;Neg;Negatif;GS;No
+TP03214;1+;Negatif;GS;Yes
+TP03215;Neg;Negatif;GS;No
+TP03216;1+;Negatif;GS;Yes
+TP03217;3+;Negatif;GS;Yes
+TP03218;3+;Negatif;GS;Yes
+TP03219;2+;Negatif;GS;Yes
+TP03220;2+;Negatif;GS;Yes
+TP03221;Neg;Negatif;GS;Yes
+TP03222;Neg;Negatif;GS;Yes
+TP03223;3+;Negatif;GS;Yes
+TP03224;1+;Negatif;GS;Yes
+TP03225;Neg;Negatif;GS;Yes
+TP03226;Scanty;Negatif;GS;Yes
+TP03227;2+;Negatif;GS;Yes
+TP03228;3+;Negatif;GS;Yes
+TP03229;Neg;Negatif;GS;Yes
+TP03230;1+;Negatif;GS;Yes
+TP03231;2+;Negatif;GS;Yes
+TP03232;Neg;Negatif;GS;No
+TP03233;Neg;Negatif;GS;Yes
+TP03234;2+;Negatif;GS;Yes
+TP03235;3+;Negatif;GS;No
+TP03236;3+;Negatif;GS;Yes
+TP03237;Neg;Negatif;GS;Yes
+TP03238;Neg;Negatif;GS;Yes
+TP03239;3+;Negatif;GS;Yes
+TP03240;2+;Negatif;GS;Yes
+TP03241;3+;Negatif;GS;Yes
+TP03242;Neg;Negatif;GS;Yes
+TP03243;Neg;Negatif;GS;Yes
+TP03244;Neg;Positif;GS;Yes
+TP03245;Neg;Negatif;GS;Yes
+TP03246;1+;Negatif;GS;Yes
+TP03247;Neg;Negatif;GS;Yes
+TP03248;Neg;Negatif;GS;No
+TP03249;Neg;Negatif;GS;No
+TP03250;Neg;Negatif;GS;Yes
+TP03251;Neg;Negatif;GS;No
+TP03252;Neg;;GS;No
+TP03253;Neg;Negatif;GS;No
+TP03254;Neg;Negatif;GS;Yes
+TP03255;Neg;Negatif;GS;No
+TP03256;1+;Negatif;GS;Yes
+TP03257;1+;Negatif;GS;Yes
+TP03258;1+;Negatif;GS;Yes
+TP03259;3+;Negatif;GS;Yes
+TP03260;2+;Negatif;GS;Yes
+TP03261;Scanty;Negatif;GS;No
+TP03262;Neg;Negatif;GS;No
+TP03263;Scanty;Negatif;GS;No
+TP03268;Neg;Negatif;GS;Yes
+TP03269;3+;Negatif;GS;Yes
+TP03270;1+;Negatif;GS;Yes
+TP03271;Neg;Negatif;GS;Yes
+TP03272;3+;Negatif;GS;Yes
+TP03273;Scanty;Negatif;GS;Yes
+TP03274;Neg;Negatif;GS;Yes
+TP03275;1+;Negatif;GS;Yes
+TP03276;1+;Positif;GS;Yes
+TP03277;Scanty;Negatif;GS;Yes
+TP03278;1+;Negatif;GS;Yes
+TP03279;Neg;Negatif;GS;Yes
+TP03280;3+;Negatif;GS;Yes
+TP03281;Neg;Negatif;GS;No
+TP03282;Neg;Negatif;GS;Yes
+TP03283;1+;Negatif;GS;Yes
+TP03284;1+;Negatif;GS;Yes
+TP03285;Neg;Negatif;GS;No
+TP03286;Neg;Negatif;GS;Yes
+TP03287;Neg;Negatif;GS;Yes
+TP03288;Neg;Negatif;GS;No
+TP03289;2+;Negatif;GS;Yes
+TP03290;2+;Negatif;GS;Yes
+TP03291;Neg;Negatif;GS;Yes
+TP03292;Neg;Negatif;GS;Yes
+TP03293;3+;Negatif;GS;Yes
+TP03294;Neg;Negatif;GS;Yes
+TP03295;Neg;Negatif;GS;Yes
+TP03296;Neg;Negatif;GS;No
+TP03297;Neg;Negatif;GS;Yes
+TP03298;Scanty;Negatif;GS;Yes
+TP03299;2+;Negatif;GS;Yes
+TP03300;Neg;Negatif;GS;Yes
+TP03301;Scanty;Negatif;GS;Yes
+TP03302;3+;Negatif;GS;Yes
+TP03303;Scanty;Negatif;GS;Yes
+TP03304;3+;Negatif;GS;Yes
+TP03305;3+;Negatif;GS;Yes
+TP03306;Neg;Negatif;GS;Yes
+TP03307;Neg;Negatif;GS;Yes
+TP03308;1+;Negatif;GS;Yes
+TP03309;Neg;Negatif;GS;Yes
+TP03310;Neg;Negatif;GS;Yes
+TP03311;Neg;Negatif;GS;No
+TP03312;Neg;Negatif;GS;No
+TP05146;2+;Negatif;GS;Yes
+TP05148;1+;Negatif;GS;Yes
+TP05147;Not tested;Negatif;GS;Yes
+TP05151;Not tested;Negatif;GS;Yes
+TP05152;1+;Negatif;GS;Yes
+TP05153;3+;Negatif;GS;Yes
+TP05154;Neg;Negatif;GS;Yes
+TP05155;1+;Negatif;GS;Yes
+TP05157;1+;Negatif;GS;Yes
+TP05159;1+;Negatif;GS;No
+TP05160;2+;Negatif;GS;Yes
+TP05161;1+;Negatif;GS;Yes
+TP05162;3+;Negatif;GS;Yes
+TP05163;1+;Negatif;GS;Yes
+TP05164;1+;Negatif;GS;Yes
+TP05166;3+;Negatif;GS;Yes
+TP05167;3+;Negatif;GS;Yes
+TP05168;1+;Negatif;GS;Yes
+TP05169;1+;Negatif;GS;Yes
+TP05170;Neg;Negatif;GS;Yes
+TP05171;1+;Negatif;GS;Yes
+TP05173;1+;Negatif;GS;Yes
+TP05174;Scanty;Negatif;GS;Yes
+TP05175;1+;Negatif;GS;Yes
+TP05176;Neg;Negatif;GS;Yes
+TP05177;1+;Negatif;GS;Yes
+TP05179;Not tested;Negatif;GS;Yes
+TP05180;2+;Negatif;GS;Yes
+TP05181;1+;Negatif;GS;Yes
+TP05182;Not tested;Negatif;GS;Yes
+TP05183;3+;Negatif;GS;Yes
+TP05184;Scanty;Negatif;GS;No
+TP05185;Not tested;Negatif;GS;Yes
+TP05186;1+;Negatif;GS;Yes
+TP05188;Not tested;Negatif;GS;Yes
+TP05187;2+;Negatif;GS;Yes
+TP05190;2+;Negatif;GS;Yes
+TP05191;Neg;Negatif;GS;Yes
+TP05192;Neg;Negatif;GS;Yes
+TP05193;Neg;Negatif;GS;No
+TP05194;Neg;Negatif;GS;Yes
+TP05196;2+;Negatif;GS;Yes
+TP05197;Neg;Negatif;GS;No
+TP05198;1+;Negatif;GS;Yes
+TP05199;2+;Negatif;GS;Yes
+TP05200;3+;Negatif;GS;Yes
+TP05201;1+;Negatif;GS;Yes
+TP05202;Scanty;Negatif;GS;No
+TP05203;Neg;Negatif;GS;No
+TP05204;Neg;Negatif;GS;Yes
+TP05205;Neg;Negatif;GS;No
+TP05206;3+;Negatif;GS;Yes
+TP05207;Neg;Negatif;GS;Yes
+TP05208;Neg;Negatif;GS;Yes
+TP05209;1+;Negatif;GS;Yes
+TP05210;Neg;Negatif;GS;Yes
+TP05211;Scanty;Negatif;GS;Yes
+TP05212;Neg;Negatif;GS;Yes
+TP05213;3+;Negatif;GS;Yes
+TP05214;Neg;Negatif;GS;Yes
+TP05216;Scanty;Negatif;GS;Yes
+TP05217;1+;Negatif;GS;Yes
+TP05218;2+;Negatif;GS;Yes
+TP05219;2+;Negatif;GS;Yes
+TP05220;Scanty;Negatif;GS;Yes
+TP05221;Neg;Negatif;GS;Yes
+TP05222;Neg;Negatif;GS;Yes
+TP05223;Neg;Negatif;GS;Yes
+TP05224;1+;Negatif;GS;Yes
+TP05225;1+;Negatif;GS;Yes
+TP05226;Not tested;Negatif;GS;Yes
+TP05227;Scanty;Negatif;GS;No
+TP05228;1+;Negatif;GS;Yes
+TP05229;1+;Negatif;GS;No
+TP05230;2+;Negatif;GS;Yes
+TP05232;1+;Negatif;GS;Yes
+TP05233;3+;Negatif;GS;Yes
+TP05234;1+;Negatif;GS;Yes
+TP05235;3+;Negatif;GS;Yes
+TP05236;3+;Negatif;GS;Yes
+TP05237;3+;Positif;GS;Yes
+TP05238;1+;Negatif;GS;Yes
+TP05239;1+;Negatif;GS;Yes
+TP05240;2+;Negatif;GS;Yes
+TP05241;1+;Positif;GS;Yes
+TP05242;1+;Negatif;GS;Yes
+TP05243;3+;Negatif;GS;Yes
+TP05244;1+;Negatif;GS;Yes
+TP05245;Neg;Negatif;GS;Yes
+TP05246;2+;Negatif;GS;Yes
+TP05247;3+;Negatif;GS;Yes
+TP05248;3+;Negatif;GS;Yes
+TP05249;1+;Negatif;GS;Yes
+TP05250;3+;Negatif;GS;Yes
+TP05251;Scanty;Negatif;GS;Yes
+TP05252;3+;Negatif;GS;Yes
+TP05254;1+;Negatif;GS;Yes
+TP05255;Neg;Negatif;GS;Yes
+TP05256;2+;Negatif;GS;Yes
+TP05257;1+;Negatif;GS;Yes
+TP05258;3+;Negatif;GS;Yes
+TP05259;1+;Negatif;GS;Yes
+TP05260;1+;Negatif;GS;Yes
+TP05261;Neg;Negatif;GS;Yes
+TP05262;Neg;Negatif;GS;No
+TP05263;3+;Negatif;GS;Yes
+TP05264;Neg;Negatif;GS;Yes
+TP05265;3+;Negatif;GS;Yes
+TP05266;1+;Negatif;GS;Yes
+TP05267;1+;Positif;GS;Yes
+TP05268;1+;Negatif;GS;Yes
+TP05269;Neg;Negatif;GS;Yes
+TP05270;2+;Negatif;GS;Yes
+TP05271;1+;Negatif;GS;Yes
+TP05272;1+;Negatif;GS;Yes
+TP05273;1+;Negatif;GS;Yes
+TP05274;2+;Negatif;GS;Yes
+TP05275;3+;Negatif;GS;Yes
+TP05276;1+;Negatif;GS;Yes
+TP05277;Neg;Negatif;GS;Yes
+TP05278;3+;Negatif;GS;Yes
+TP05279;1+;Negatif;GS;Yes
+TP05280;1+;Negatif;GS;Yes
+TP05281;3+;Negatif;GS;Yes
+TP05282;3+;Negatif;GS;Yes
+TP05283;3+;Negatif;GS;Yes
+TP05284;3+;Negatif;GS;Yes
+TP05285;3+;Negatif;GS;Yes
+TP05286;1+;Negatif;GS;Yes
+TP05287;2+;Negatif;GS;Yes
+TP05288;3+;Negatif;GS;Yes
+TP05289;1+;Negatif;GS;Yes
+TP05290;3+;Negatif;GS;Yes
+TP05291;1+;Negatif;GS;Yes
+TP05292;1+;Negatif;GS;Yes
+TP05293;2+;Negatif;GS;Yes
+TP05294;3+;Negatif;GS;Yes
+TP05295;2+;Negatif;GS;Yes
+TP05296;3+;Negatif;GS;Yes
+TP05297;3+;Negatif;GS;Yes
+TP05298;1+;Negatif;GS;Yes
+TP05299;1+;Negatif;GS;Yes
+TP05300;1+;Negatif;GS;Yes
+TP05301;2+;Negatif;GS;Yes
+TP05302;1+;Negatif;GS;Yes
+TP05303;3+;Negatif;GS;Yes
+TP05304;1+;Positif;GS;Yes
+TP05305;1+;Negatif;GS;Yes
+TP05306;1+;Negatif;GS;Yes
+TP05307;1+;Negatif;GS;Yes
+TP05308;1+;Negatif;GS;Yes
+TP05309;1+;Negatif;GS;Yes
+TP05310;3+;Negatif;GS;Yes
+TP05311;3+;Negatif;GS;Yes
+TP05312;2+;Negatif;GS;Yes
+TP05313;3+;Negatif;GS;Yes
+TP05314;1+;Negatif;GS;Yes
+TP05315;3+;Negatif;GS;Yes
+TP05316;1+;Negatif;GS;Yes
+TP05317;3+;Negatif;GS;Yes
+TP05318;1+;Negatif;GS;Yes
+TP05319;3+;Negatif;GS;Yes
+TP05320;1+;Negatif;GS;Yes
+TP05321;1+;Negatif;GS;Yes
+TP05436;Neg;Negatif;GS;Yes
+TP05437;Neg;Negatif;GS;Yes
+TP05438;Neg;Negatif;GS;Yes
+TP05439;Neg;Negatif;GS;Yes
+TP05440;Neg;Negatif;GS;Yes
+TP05441;Scanty;Positif;GS;Yes
+TP05442;Neg;Negatif;GS;Yes
+TP05443;Neg;Positif;GS;Yes
+TP05444;Neg;Negatif;GS;Yes
+TP05445;Neg;Negatif;GS;Yes
+TP05446;Neg;Negatif;GS;Yes
+TP05447;Neg;Negatif;GS;Yes
+TP05448;Neg;Negatif;GS;Yes
+TP05449;1+;Negatif;GS;Yes
+TP05450;1+;Negatif;GS;Yes
+TP05451;2+;Negatif;GS;Yes
+TP05452;Neg;Negatif;GS;Yes
+TP05453;Scanty;Negatif;GS;Yes
+TP05454;Neg;Negatif;GS;Yes
+TP05455;Neg;Negatif;GS;Yes
+TP05456;Neg;Negatif;GS;Yes
+TP05457;3+;Negatif;GS;Yes
+TP05458;Neg;Negatif;GS;Yes
+TP05459;Scanty;Negatif;GS;Yes
+TP05460;Neg;Negatif;GS;Yes
+TP05461;Neg;Negatif;GS;Yes
+TP05462;Neg;Negatif;GS;Yes
+TP05463;Neg;Negatif;GS;Yes
+TP05464;Neg;Negatif;GS;Yes
+TP05465;Neg;Negatif;GS;Yes
+TP05466;Scanty;Negatif;GS;Yes
+TP05467;3+;Negatif;GS;Yes
+TP05423;Scanty;Negatif;GS;Yes
+TP05424;Neg;Negatif;GS;Yes
+TP05425;Neg;Negatif;GS;Yes
+TP05426;Neg;Negatif;GS;Yes
+TP05427;Neg;Negatif;GS;Yes
+TP05428;Neg;Negatif;GS;Yes
+TP05429;Neg;Negatif;GS;Yes
+TP05430;Neg;Negatif;GS;Yes
+TP05431;Neg;Negatif;GS;Yes
+TP05432;Neg;Negatif;GS;Yes
+TP05433;Neg;Negatif;GS;Yes
+TP05434;Neg;Negatif;GS;Yes
+TP05435;Neg;Negatif;GS;Yes
+TP05957;Scanty;Negatif;GS;Yes
+TP05958;Neg;Negatif;GS;Yes
+TP05959;Neg;Negatif;GS;No
+TP05960;Neg;Negatif;GS;Yes
+TP05961;Neg;Negatif;GS;No
+TP05962;Neg;Negatif;GS;No
+TP05963;1+;Negatif;GS;Yes
+TP05964;1+;Negatif;GS;Yes
+TP05965;Neg;Negatif;GS;No
+TP05966;1+;Negatif;GS;Yes
+TP05967;Not tested;Negatif;GS;Yes
+TP05968;Neg;Negatif;GS;Yes
+TP05969;Neg;Negatif;GS;No
+TP05970;Neg;Negatif;GS;No
+TP05971;Neg;Negatif;GS;No
+TP05972;1+;Negatif;GS;Yes
+TP05973;Neg;Negatif;GS;Yes
+TP05974;Scanty;Negatif;GS;Yes
+TP05975;Neg;Negatif;GS;No
+TP05976;Neg;Negatif;GS;No
+TP05977;Neg;Negatif;GS;Yes
+TP05978;Neg;Negatif;GS;Yes
+TP05979;1+;Negatif;GS;Yes
+TP05980;Neg;Negatif;GS;No
+TP05981;Neg;Negatif;GS;Yes
+TP05982;Neg;Negatif;GS;Yes
+TP05983;Neg;Negatif;GS;No
+TP05984;1+;Negatif;GS;Yes
+TP05985;Neg;Negatif;GS;No
+TP05986;Neg;Negatif;GS;No
+TP05987;1+;Negatif;GS;Yes
+TP05988;Scanty;Negatif;GS;Yes
+TP05989;1+;Negatif;GS;Yes
+TP05990;Neg;Negatif;GS;No
+TP05991;1+;Negatif;GS;Yes
+TP05992;Scanty;Negatif;GS;Yes
+TP05993;1+;Negatif;GS;Yes
+TP05994;1+;Negatif;GS;Yes
+TP01055;1+;Negatif;GS;Yes
+TP00977;3+;Negatif;GS;Yes
+TP01088;3+;Negatif;GS;Yes
+TP01076;1+;Negatif;GS;Yes
+TP01069;3+;Negatif;GS;Yes
+TP01064;2+;Negatif;GS;Yes
+TP01067;3+;Negatif;GS;Yes
+TP01098;3+;Negatif;GS;Yes
+TP01096;1+;Negatif;GS;Yes
+TP01058;3+;Positif;GS;Yes
+TP01037;2+;Negatif;GS;Yes
+TP01050;2+;Negatif;GS;Yes
+TP00972;1+;Negatif;GS;Yes
+TP01059;3+;Negatif;GS;Yes
+TP01042;3+;Negatif;GS;Yes
+TP01074;3+;Negatif;GS;Yes
+TP01063;3+;Negatif;GS;Yes
+TP01062;3+;Negatif;GS;Yes
+TP01043;3+;Negatif;GS;Yes
+TP01066;1+;Negatif;GS;Yes
+TP01035;3+;Negatif;GS;No
+TP00979;1+;Negatif;GS;Yes
+TP00970;1+;Negatif;GS;Yes
+TP01031;2+;Negatif;GS;Yes
+TP01073;1+;Negatif;GS;Yes
+TP01101;3+;Negatif;GS;Yes
+TP01041;1+;Negatif;GS;Yes
+TP00967;3+;Negatif;GS;Yes
+TP01061;1+;Negatif;GS;Yes
+TP00981;2+;Negatif;GS;Yes
+TP01097;1+;Negatif;GS;Yes
+TP01106;3+;Negatif;GS;Yes
+TP01102;1+;Negatif;GS;Yes
+TP01056;2+;Negatif;GS;Yes
+TP01095;2+;Negatif;GS;Yes
+TP01051;3+;Negatif;GS;Yes
+TP01044;3+;Negatif;GS;Yes
+TP01046;2+;Negatif;GS;Yes
+TP00937;Neg;Negatif;GS;No
+TP00982;3+;Negatif;GS;Yes
+TP05995;Scanty;Negatif;GS;Yes
+TP05996;2+;Negatif;GS;Yes
+TP05577;Scanty;Negatif;GS;Yes
+TP05578;Neg;Negatif;GS;Yes
+TP05579;3+;Negatif;GS;Yes
+TP05580;2+;Negatif;GS;Yes
+TP05581;Neg;Negatif;GS;No
+TP05582;Neg;Negatif;GS;No
+TP05583;Neg;Negatif;GS;No
+TP05584;3+;Negatif;GS;Yes
+TP05585;3+;Negatif;GS;Yes
+TP05586;Neg;Positif;GS;Yes
+TP05587;1+;Negatif;GS;Yes
+TP05588;3+;Negatif;GS;Yes
+TP05589;2+;Negatif;GS;Yes
+TP05590;3+;Negatif;GS;Yes
+TP05591;2+;Negatif;GS;Yes
+TP05592;Neg;Negatif;GS;Yes
+TP05593;Neg;Negatif;GS;Yes
+TP05594;Scanty;;GS;Yes
+TP05595;Neg;;GS;Yes
+TP05596;3+;Negatif;GS;Yes
+TP05597;3+;Negatif;GS;No
+TP05598;Scanty;Negatif;GS;No
+TP05600;Neg;Negatif;GS;No
+TP05601;1+;Negatif;GS;Yes
+TP05602;Scanty;;GS;Yes
+TP05604;Scanty;Negatif;GS;Yes
+TP05606;3+;Negatif;GS;Yes
+TP05607;1+;Negatif;GS;Yes
+TP05608;Scanty;Negatif;GS;No
+TP05609;Neg;Negatif;GS;No
+TP05610;Scanty;Negatif;GS;Yes
+TP05611;Neg;Negatif;GS;No
+TP05612;3+;Negatif;GS;Yes
+TP05613;Scanty;Negatif;GS;No
+TP05614;Scanty;;GS;Yes
+TP05615;Neg;;GS;No
+TP05616;Neg;Negatif;GS;No
+TP05617;2+;Negatif;GS;Yes
+TP05618;3+;Positif;GS;No
+TP05619;1+;Negatif;GS;No
+TP05620;Neg;Positif;GS;No
+TP05621;1+;Negatif;GS;No
+TP05622;2+;Negatif;GS;Yes
+TP05623;1+;Negatif;GS;No
+TP05624;Neg;Positif;GS;No
+TP05625;Neg;Negatif;GS;No
+TP05626;Neg;Negatif;GS;No
+TP05627;Neg;Negatif;GS;No
+TP05628;Neg;Negatif;GS;No
+TP05629;Neg;Negatif;GS;No
+TP05630;Neg;Negatif;GS;Yes
+TP05631;Neg;Negatif;GS;Yes
+TP05632;Neg;Negatif;GS;No
+TP05633;Scanty;Negatif;GS;No
+TP05634;3+;Negatif;GS;Yes
+TP05635;Neg;Negatif;GS;Yes
+TP05636;1+;;GS;No
+TP05637;1+;Negatif;GS;No
+TP05638;2+;Negatif;GS;No
+TP05640;1+;Negatif;GS;Yes
+TP05641;3+;Negatif;GS;Yes
+TP05642;Neg;Negatif;GS;No
+TP05644;Neg;Negatif;GS;No
+TP05645;1+;Positif;GS;Yes
+TP05646;Neg;Positif;GS;No
+TP05647;1+;Negatif;GS;No
+TP05648;Neg;Negatif;GS;Yes
+TP05649;1+;Negatif;GS;Yes
+TP05650;1+;Negatif;GS;No
+TP05651;3+;Negatif;GS;Yes
+TP05652;Scanty;Negatif;GS;No
+TP05653;3+;Negatif;GS;Yes
+TP05654;Neg;Negatif;GS;No
+TP05655;Neg;Negatif;GS;No
+TP05656;Neg;Negatif;GS;No
+TP05657;Neg;Negatif;GS;No
+TP05658;Neg;Negatif;GS;No
+TP05659;3+;Positif;GS;Yes
+TP05660;3+;Negatif;GS;No
+TP05661;Scanty;Positif;GS;Yes
+TP05662;2+;Negatif;GS;Yes
+TP05663;Neg;Negatif;GS;No
+TP05664;Neg;Positif;GS;No
+TP05666;Scanty;Positif;GS;Yes
+TP05667;2+;Negatif;GS;Yes
+TP05669;1+;Negatif;GS;No
+TP05670;3+;Positif;GS;Yes
+TP05671;Scanty;Negatif;GS;Yes
+TP05672;3+;Negatif;GS;Yes
+TP05673;Scanty;Negatif;GS;Yes
+TP05674;2+;Negatif;GS;Yes
+TP05675;1+;Negatif;GS;Yes
+TP05676;Scanty;Negatif;GS;Yes
+TP05677;2+;Negatif;GS;No
+TP05678;3+;Negatif;GS;Yes
+TP05679;2+;Negatif;GS;Yes
+TP05680;2+;Negatif;GS;Yes
+TP05681;1+;Negatif;GS;Yes
+TP05682;1+;Negatif;GS;Yes
+TP05683;3+;Negatif;GS;No
+TP05684;1+;Negatif;GS;No
+TP05685;2+;Negatif;GS;No
+TP05686;3+;Negatif;GS;Yes
+TP05687;1+;Negatif;GS;Yes
+TP05688;2+;Negatif;GS;No
+TP05689;3+;Negatif;GS;Yes
+TP05690;1+;Negatif;GS;Yes
+TP05692;2+;Negatif;GS;Yes
+TP05693;1+;Positif;GS;Yes
+TP05695;2+;Negatif;GS;Yes
+TP05696;2+;Negatif;GS;Yes
+TP05697;3+;Negatif;GS;Yes
+TP05699;2+;Negatif;GS;Yes
+TP05700;3+;Negatif;GS;Yes
+TP05701;3+;Negatif;GS;Yes
+TP05702;3+;Negatif;GS;Yes
+TP05704;3+;Positif;GS;Yes
+TP05705;2+;Negatif;GS;Yes
+TP05706;3+;Negatif;GS;Yes
+TP05707;3+;;GS;Yes
+TP05708;3+;Negatif;GS;Yes
+TP05710;1+;Positif;GS;Yes
+TP05713;3+;Negatif;GS;Yes
+TP05714;2+;Negatif;GS;Yes
+TP05715;3+;Negatif;GS;Yes
+TP05716;Scanty;Negatif;GS;Yes
+TP05717;Scanty;Negatif;GS;No
+TP05719;3+;Negatif;GS;No
+TP05720;3+;Negatif;GS;No
+TP05721;2+;Negatif;GS;Yes
+TP05722;2+;Negatif;GS;No
+TP05723;2+;Negatif;GS;No
+TP05724;3+;;GS;Yes
+TP05725;Neg;Negatif;GS;No
+TP05727;Neg;Negatif;GS;Yes
+TP05728;Neg;Negatif;GS;No
+TP05729;Neg;Positif;GS;No
+TP05730;Neg;;GS;No
+TP05731;Neg;Negatif;GS;Yes
+TP05732;Neg;Negatif;GS;No
+TP05733;Neg;Negatif;GS;No
+TP05734;Neg;Positif;GS;No
+TP05735;Neg;Positif;GS;No
+TP05736;Neg;Positif;GS;No
+TP05737;Neg;Negatif;GS;Yes
+TP05738;Neg;Negatif;GS;Yes
+TP05739;Neg;Negatif;GS;No
+TP05740;Neg;Negatif;GS;No
+TP05741;Neg;Negatif;GS;No
+TP05742;Neg;Negatif;GS;No
+TP05743;Neg;Negatif;GS;No
+TP05744;Neg;Negatif;GS;Yes
+TP05745;Neg;Negatif;GS;Yes
+TP05746;Neg;Negatif;GS;Yes
+TP05747;Neg;Negatif;GS;No
+TP05748;Neg;Negatif;GS;Yes
+TP05749;Neg;Negatif;GS;No
+TP05751;Neg;Negatif;GS;Yes
+TP05752;Neg;Negatif;GS;No
+TP05753;Neg;Negatif;GS;Yes
+TP05754;Neg;Negatif;GS;No
+TP05755;Neg;Negatif;GS;No
+TP05756;Neg;Negatif;GS;No
+TP05718;Scanty;Negatif;GS;Yes
+TP05757;3+;Negatif;GS;No
+TP05758;1+;Negatif;GS;Yes
+TP05759;1+;Negatif;GS;No
+TP05760;2+;Negatif;GS;Yes
+TP05761;1+;Negatif;GS;Yes
+TP05762;3+;Negatif;GS;Yes
+TP05763;2+;Negatif;GS;No
+TP05764;Scanty;Negatif;GS;Yes
+TP05765;1+;Negatif;GS;Yes
+TP05766;Scanty;Negatif;GS;Yes
+TP05767;1+;Negatif;GS;Yes
+TP05768;Scanty;Negatif;GS;Yes
+TP05769;2+;Negatif;GS;Yes
+TP05770;Scanty;Negatif;GS;Yes
+TP05771;Scanty;Negatif;GS;Yes
+TP05772;Scanty;Negatif;GS;Yes
+TP05773;Scanty;;GS;Yes
+TP05774;2+;Positif;GS;Yes
+TP05775;Neg;Negatif;GS;Yes
+TP05776;Neg;Negatif;GS;Yes
+TP05777;Neg;Negatif;GS;Yes
+TP05778;Neg;Negatif;GS;Yes
+TP05779;Neg;Negatif;GS;No
+TP05780;Neg;Negatif;GS;No
+TP05781;Neg;Negatif;GS;Yes
+TP05782;Neg;Negatif;GS;Yes
+TP05783;Neg;Negatif;GS;Yes
+TP05784;Neg;Negatif;GS;Yes
+TP05785;Neg;Positif;GS;Yes
+TP05786;Neg;;GS;Yes
+TP05787;Neg;Negatif;GS;No
+TP05788;Neg;Negatif;GS;Yes
+TP05789;Neg;Negatif;GS;Yes
+TP05790;Neg;;GS;Yes
+TP05791;Neg;Positif;GS;Yes
+TP05792;Neg;Positif;GS;No
+TP05793;Neg;Negatif;GS;No
+TP05794;Neg;Negatif;GS;Yes
+TP05795;Neg;Negatif;GS;No
+TP05796;Neg;Negatif;GS;Yes
+TP05797;Neg;Positif;GS;Yes
+TP05798;Neg;Negatif;GS;Yes
+TP05799;Neg;Positif;GS;Yes
+TP05800;Neg;Negatif;GS;Yes
+TP05802;Neg;Positif;GS;Yes
+TP05803;Neg;Negatif;GS;No
+TP05805;1+;Positif;GS;No
+TP05806;2+;Negatif;GS;No
+TP05807;Neg;Negatif;GS;Yes
+TP05808;Neg;Negatif;GS;Yes
+TP05809;Neg;Negatif;GS;No
+TP05810;1+;Negatif;GS;Yes
+TP05811;Neg;Negatif;GS;Yes
+TP05812;Neg;Negatif;GS;Yes
+TP05813;Neg;Negatif;GS;Yes
+TP05814;Neg;Negatif;GS;Yes
+TP05815;Neg;Negatif;GS;No
+TP05816;Neg;Negatif;GS;No
+TP05817;1+;Positif;GS;Yes
+TP05818;1+;Negatif;GS;Yes
+TP05819;Scanty;Negatif;GS;Yes
+TP05820;Neg;Negatif;GS;Yes
+TP05821;Neg;Negatif;GS;Yes
+TP05822;Scanty;Negatif;GS;Yes
+TP05823;Neg;Negatif;GS;Yes
+TP05824;Neg;Negatif;GS;Yes
+TP05825;Neg;Negatif;GS;No
+TP05826;Scanty;Positif;GS;Yes
+TP05827;2+;Negatif;GS;Yes
+TP05828;Neg;Negatif;GS;Yes
+TP05829;Neg;Negatif;GS;Yes
+TP05830;Neg;Negatif;GS;Yes
+TP05831;Neg;Negatif;GS;Yes
+TP05832;Neg;Negatif;GS;Yes
+TP05833;Scanty;Negatif;GS;Yes
+TP05834;Neg;Negatif;GS;Yes
+TP05835;Scanty;Negatif;GS;Yes
+TP05836;Scanty;Negatif;GS;Yes
+TP05837;3+;Negatif;GS;Yes
+TP05838;1+;Negatif;GS;No
+TP05839;3+;Negatif;GS;Yes
+TP05840;Neg;;GS;Yes
+TP05841;Neg;Negatif;GS;Yes
+TP05842;Neg;Negatif;GS;Yes
+TP05843;Neg;Negatif;GS;Yes
+TP05844;Neg;Negatif;GS;No
+TP05845;Neg;;GS;Yes
+TP05846;Neg;Negatif;GS;Yes
+TP05847;1+;Negatif;GS;Yes
+TP05848;1+;Negatif;GS;Yes
+TP05849;Neg;Negatif;GS;Yes
+TP05850;Neg;Negatif;GS;Yes
+TP05851;Neg;Negatif;GS;Yes
+TP05852;Neg;Negatif;GS;Yes
+TP05853;Neg;Negatif;GS;Yes
+TP05854;2+;Negatif;GS;Yes
+TP05855;1+;Positif;GS;Yes
+TP05856;1+;Negatif;GS;Yes
+TP05857;3+;Negatif;GS;Yes
+TP05858;Neg;Negatif;GS;Yes
+TP05859;2+;Negatif;GS;Yes
+TP05860;Neg;Negatif;GS;Yes
+TP05861;2+;Negatif;GS;Yes
+TP05862;Neg;Negatif;GS;No
+TP05863;Scanty;Negatif;GS;No
+TP05864;Scanty;Negatif;GS;Yes
+TP05865;Neg;Negatif;GS;Yes
+TP05866;Neg;;GS;Yes
+TP05867;1+;Negatif;GS;Yes
+TP05868;Neg;Negatif;GS;No
+TP05869;3+;Negatif;GS;Yes
+TP05871;Neg;Negatif;GS;Yes
+TP05872;Neg;Negatif;GS;Yes
+TP05873;Neg;Negatif;GS;No
+TP05874;1+;Negatif;GS;Yes
+TP05875;Neg;Positif;GS;Yes
+TP05876;3+;Negatif;GS;Yes
+TP05877;Neg;Negatif;GS;Yes
+TP05878;Neg;;GS;Yes
+TP05879;2+;Negatif;GS;No
+TP05880;Neg;Negatif;GS;Yes
+TP05881;Scanty;Negatif;GS;Yes
+TP06183;2+;Negatif;GS;No
+TP06184;3+;Negatif;GS;No
+TP06185;Scanty;Negatif;GS;No
+TP06186;Neg;Negatif;GS;No
+TP06187;1+;Negatif;GS;No
+TP06188;Neg;Negatif;GS;No
+TP06189;2+;Negatif;GS;No
+TP06190;1+;Positif;GS;No
+TP06191;3+;Negatif;GS;No
+TP06192;3+;Negatif;GS;No
+TP06193;Neg;Negatif;GS;No
+TP06194;Neg;Negatif;GS;No
+TP06195;2+;Negatif;GS;No
+TP06196;2+;Negatif;GS;No
+TP06197;1+;Negatif;GS;No
+TP06198;2+;Negatif;GS;No
+TP06200;Neg;Negatif;GS;No
+TP06201;2+;Negatif;GS;No
+TP06202;2+;Negatif;GS;No
+TP06203;Scanty;Negatif;GS;No
+TP06204;1+;Positif;GS;No
+TP06205;1+;Negatif;GS;No
+TP06206;2+;Negatif;GS;No
+TP06207;1+;Negatif;GS;No
+TP06208;Neg;Negatif;GS;No
+TP06209;2+;Negatif;GS;No
+TP06211;1+;Negatif;GS;No
+TP06212;3+;Negatif;GS;No
+TP06213;Neg;Negatif;GS;No
+TP06214;3+;Negatif;GS;No
+TP06215;Neg;Negatif;GS;No
+TP06216;Neg;Negatif;GS;No
+TP06218;Scanty;Negatif;GS;No
+TP06182;Neg;Negatif;GS;No
+TP06219;1+;Negatif;GS;No
+TP06239;Neg;Negatif;GS;No
+TP06048;2+;Negatif;GS;No
+TP06049;2+;Negatif;GS;No
+TP06053;Neg;Negatif;GS;No
+TP06054;3+;Negatif;GS;No
+TP06051;Neg;Negatif;GS;No
+TP06052;3+;Negatif;GS;No
+TP06055;Neg;Positif;GS;No
+TP06050;1+;Negatif;GS;No
+TP06047;Neg;Negatif;GS;No
+TP06046;Neg;Negatif;GS;No
+TB02367;2+;Negatif;GS;Yes
+TB02366;3+;Negatif;GS;Yes
+TB02368;2+;Negatif;GS;Yes
+TB02364;2+;Negatif;GS;Yes
+TB02363;3+;Negatif;GS;Yes
+TB02360;1+;Negatif;GS;Yes
+TB02362;3+;Negatif;GS;Yes
+TB02358;1+;Negatif;GS;Yes
+TB02357;3+;Negatif;GS;Yes
+TB02361;3+;Negatif;GS;Yes
+TB02333;1+;Negatif;GS;Yes
+TB02334;2+;Negatif;GS;Yes
+TB02356;2+;Negatif;GS;Yes
+TB02346;3+;Negatif;GS;Yes
+TB02348;1+;Negatif;GS;Yes
+TB02347;1+;Negatif;GS;Yes
+TB02344;1+;Negatif;GS;Yes
+TB02354;Scanty;Negatif;GS;Yes
+TB02342;Scanty;Negatif;GS;Yes
+TB02329;1+;Negatif;GS;Yes
+TB02314;3+;Negatif;GS;Yes
+TB02312;2+;Negatif;GS;Yes
+TB02324;3+;Negatif;GS;Yes
+TB02322;1+;Negatif;GS;Yes
+TB02323;Scanty;Negatif;GS;Yes
+TB02328;Scanty;Negatif;GS;Yes
+TB02332;3+;Negatif;GS;Yes
+TB02318;2+;Negatif;GS;Yes
+TB02311;2+;Negatif;GS;Yes
+TB02308;2+;Negatif;GS;Yes
+TB02313;Scanty;Negatif;GS;Yes
+TB02317;2+;Negatif;GS;Yes
+TB02307;2+;Negatif;GS;Yes
+TB02299;Scanty;Negatif;GS;Yes
+TB02296;3+;Negatif;GS;Yes
+TB02302;Scanty;Negatif;GS;Yes
+TB02298;3+;Negatif;GS;Yes
+TP06290;3+;Negatif;GS;Yes
+TP06291;2+;Negatif;GS;Yes
+TP01801;2+;Negatif;GS;Yes
+TP06292;3+;Negatif;GS;Yes
+TP06309;2+;Negatif;GS;Yes
+TP06298;2+;Negatif;GS;Yes
+TP01796;2+;Negatif;GS;Yes
+TP01794;3+;Negatif;GS;Yes
+TP01926;3+;Negatif;GS;Yes
+TP06301;3+;Negatif;GS;Yes
+TP06282;3+;Negatif;GS;Yes
+TP01935;2+;Negatif;GS;Yes
+TP06287;2+;Negatif;GS;Yes
+TP06300;Scanty;Negatif;GS;No
+TP06199;3+;Negatif;GS;Yes
+TP06294;Neg;Negatif;GS;Yes
+TP06288;3+;Negatif;GS;Yes
+TP06289;3+;Negatif;GS;No
+TP06278;3+;Negatif;GS;Yes
+TP06286;3+;Negatif;GS;Yes
+TP06283;1+;Negatif;GS;Yes
+TP01925;Neg;Negatif;GS;Yes
+TP01923;1+;Negatif;GS;Yes
+TP01917;1+;Negatif;GS;Yes
+TP01921;2+;Negatif;GS;Yes
+TP01934;1+;Negatif;GS;Yes
+TP01931;1+;Negatif;GS;Yes
+TP01924;3+;Negatif;GS;Yes
+TP01933;3+;Negatif;GS;Yes
+TP01929;2+;Negatif;GS;Yes
+TP01770;2+;Negatif;GS;Yes
+TB02369;2+;Negatif;GS;Yes
+TP01728;3+;Negatif;GS;Yes
+TP01910;3+;Negatif;GS;Yes
+TP01709;3+;Negatif;GS;Yes
+TP01911;Scanty;Negatif;GS;Yes
+TP01908;1+;Negatif;GS;Yes
+TP01778;1+;Negatif;GS;Yes
+TB02370;1+;Negatif;GS;Yes
+TP01769;Scanty;Negatif;GS;Yes
+TP06325;2+;Negatif;GS;Yes
+TP06305;1+;Negatif;GS;Yes
+TP06296;2+;Negatif;GS;Yes
+TP01936;1+;Negatif;GS;Yes
+TP06310;2+;Negatif;GS;Yes
+TP06302;3+;Negatif;GS;Yes
+TP06311;3+;Positif;GS;Yes
+TP06315;2+;Negatif;GS;Yes
+TP06307;3+;Negatif;GS;Yes
+TP06320;2+;Negatif;GS;Yes
+TP06306;3+;Negatif;GS;Yes
+TP06319;3+;Negatif;GS;Yes
+TB02350;Scanty;Negatif;GS;Yes
+TP03267;Scanty;Negatif;GS;No
+TP03266;3+;Negatif;GS;Yes
+TP03265;3+;Negatif;GS;Yes
+TP03264;2+;Negatif;GS;Yes
+TP02265;Scanty;Negatif;GS;Yes
+TP01884;Neg;Negatif;GS;Yes
+TP02099;1+;Negatif;GS;Yes
+TP01940;1+;Negatif;GS;Yes
+TP01937;3+;Negatif;GS;Yes
+TP02105;3+;Negatif;GS;Yes
+TP02108;1+;Negatif;GS;Yes
+TP02106;2+;Negatif;GS;Yes
+TP02100;1+;Negatif;GS;Yes
+TP02107;1+;Negatif;GS;Yes
+TP02111;3+;Negatif;GS;No
+TP02110;2+;Negatif;GS;Yes
+TP02114;1+;Negatif;GS;Yes
+TP02112;2+;Negatif;GS;Yes
+TP02127;1+;Negatif;GS;Yes
+TP02121;2+;Negatif;GS;Yes
+TP02123;1+;Negatif;GS;Yes
+TP02124;2+;Negatif;GS;Yes
+TP02129;2+;Negatif;GS;Yes
+TP02139;2+;Negatif;GS;Yes
+TP02132;1+;Negatif;GS;Yes
+TP02138;1+;Negatif;GS;Yes
+TP02159;2+;Negatif;GS;Yes
+TP02126;3+;Negatif;GS;Yes
+TP02118;2+;Negatif;GS;Yes
+TP02176;1+;Negatif;GS;Yes
+TP02172;2+;Negatif;GS;Yes
+TP02174;1+;Negatif;GS;Yes
+TP02167;1+;Negatif;GS;Yes
+TP02171;1+;Negatif;GS;Yes
+TP02165;1+;Negatif;GS;Yes
+TP02163;1+;Negatif;GS;Yes
+TP02166;2+;Negatif;GS;Yes
+TP02162;3+;Negatif;GS;Yes
+TP02136;2+;Negatif;GS;Yes
+TP02157;1+;Negatif;GS;Yes
+TP02141;2+;Negatif;GS;Yes
+TP02140;1+;Negatif;GS;Yes
+TP02146;2+;Negatif;GS;Yes
+TP02152;2+;Negatif;GS;Yes
+TP02169;2+;Negatif;GS;Yes
