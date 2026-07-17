@@ -266,28 +266,7 @@ library(grid)
 
 ---
 
-# Repository Structure
 
-```
-.
-├── data
-│   └── 2026-07-15_AFB.csv
-│
-├── scripts
-│   ├── 01_success_rate_plot.R
-│   ├── 02_logistic_regression.R
-│   └── 03_forest_plot.R
-│
-├── results
-│   ├── Success_rate_AFB_HIV.png
-│   ├── Adjusted_OR_table.csv
-│   ├── Forest_plot_tNGS_success.pdf
-│   └── Forest_plot_tNGS_success.png
-│
-└── README.md
-```
-
----
 
 # Citation
 
