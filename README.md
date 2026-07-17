@@ -1,55 +1,59 @@
-# tNGS Success Rate Analysis by AFB Smear Grade and HIV Status
+# tNGS Success Rate and Multivariable Logistic Regression Analysis
 
 ## Overview
 
-This script evaluates the success rate of targeted next-generation sequencing (tNGS) for *Mycobacterium tuberculosis* drug resistance profiling, stratified by:
+This repository contains the R scripts used to evaluate the performance of targeted next-generation sequencing (tNGS) for tuberculosis drug resistance testing.
 
-- Acid-fast bacilli (AFB) smear grade
-- HIV status
-- Sequencing platform (Oxford Nanopore Technologies [ONT] and GeneStudio S5 [GS])
+The analyses include:
 
-The analysis calculates the proportion of samples yielding an identifiable resistance profile and generates a publication-quality stacked horizontal bar plot.
+1. Success rate of tNGS stratified by AFB smear grade, HIV status, and sequencing platform.
+2. Multivariable logistic regression to identify factors independently associated with successful tNGS.
+3. Forest plot visualization of adjusted odds ratios (aORs).
 
 ---
 
-## Input Data
+# Study Objective
 
-**File**
+To evaluate whether successful tNGS testing is associated with:
+
+- Acid-fast bacilli (AFB) smear grade
+- HIV status
+- Sequencing platform
+
+---
+
+# Input Data
 
 ```
 2026-07-15_AFB.csv
 ```
 
-**Required columns**
+Required variables
 
-| Column | Description |
-|---------|-------------|
+| Variable | Description |
+|-----------|-------------|
 | Sample_code | Sample identifier |
 | AFB | AFB smear grade |
 | HIV | HIV status |
 | tNGS_platform | Sequencing platform (ONT or GS) |
-| Identifiable? | Whether resistance profile was successfully identified (Yes/No) |
+| Identifiable? | Successful resistance identification (Yes/No) |
 
 ---
 
-## Data Cleaning
+# Data Cleaning
 
-The script:
+The scripts perform the following preprocessing steps:
 
-- trims whitespace
-- renames `Identifiable?` to `Identifiable`
-- excludes samples with
-
-  - AFB = `Not tested`
-  - AFB = `No Data`
-  - AFB = `POS`
-  - HIV = `no data`
-
-Only the following categories are retained.
+- Rename `Identifiable?` to `Identifiable`
+- Trim leading and trailing whitespace
+- Create:
+  - `Platform`
+  - `Success`
+- Restrict analyses to
 
 ### AFB
 
-- Neg
+- Negative
 - Scanty
 - 1+
 - 2+
@@ -57,52 +61,58 @@ Only the following categories are retained.
 
 ### HIV
 
-- Negatif
-- Positif
+- Negative
+- Positive
 
-### Sequencing platform
-
-- ONT
-- GS
-
----
-
-## Definition of Successful Testing
-
-A sample is considered **successful** when
-
-```
-Identifiable = "Yes"
-```
-
-A sample is considered **unsuccessful** when
-
-```
-Identifiable = "No"
-```
-
----
-
-## Calculated Outcomes
-
-For each platform and subgroup, the script computes
-
-- total number of samples
-- number of successful tests
-- number of unsuccessful tests
-- success rate
-- unsuccessful rate
-
----
-
-## Figure
-
-The script produces a stacked horizontal bar plot showing
+### Platform
 
 - ONT
 - GS
 
-Each platform is stratified by
+Samples with unavailable AFB grading, HIV status, or sequencing outcome are excluded.
+
+---
+
+# Analysis 1
+
+## Success Rate by AFB Smear Grade and HIV Status
+
+### Objective
+
+To compare the proportion of successful tNGS tests across
+
+- AFB smear grade
+- HIV status
+- sequencing platform
+
+### Outcome
+
+Successful tNGS
+
+```
+Yes
+```
+
+versus
+
+```
+No
+```
+
+### Output
+
+Publication-quality stacked horizontal bar plot
+
+```
+Success_rate_AFB_HIV.png
+```
+
+The figure displays
+
+- ONT
+- GS
+
+stratified by
 
 - AFB negative
 - AFB scanty
@@ -112,45 +122,185 @@ Each platform is stratified by
 - HIV negative
 - HIV positive
 
-Colors
+---
 
-| Result | Color |
-|---------|-------|
-| Successful | #43aec4 |
-| Unsuccessful | #bf5757 |
+# Analysis 2
+
+## Multivariable Logistic Regression
+
+### Objective
+
+To determine factors independently associated with successful tNGS.
+
+### Outcome
+
+Successful tNGS
+
+```
+Yes
+```
+
+versus
+
+```
+No
+```
+
+### Independent variables
+
+- AFB smear grade
+- HIV status
+- Sequencing platform
+
+### Reference categories
+
+| Variable | Reference |
+|-----------|-----------|
+| AFB | Negative |
+| HIV | Negative |
+| Platform | ONT |
+
+The model estimates adjusted odds ratios (aORs) with 95% confidence intervals.
 
 ---
 
-## Output
+# Interpretation
 
-The figure is exported as
+An adjusted odds ratio (aOR)
 
-```
-Success_rate_AFB_HIV.png
-```
+- greater than 1 indicates higher odds of successful tNGS
+- less than 1 indicates lower odds of successful tNGS
+- equal to 1 indicates no association
 
-at
-
-- width = 8 in
-- height = 7 in
-- resolution = 600 dpi
+All estimates are adjusted for the other variables included in the regression model.
 
 ---
 
-## R Packages
+# Outputs
+
+The logistic regression exports
+
+```
+Adjusted_OR_table.csv
+```
+
+containing
+
+- Variable
+- Adjusted odds ratio (aOR)
+- Lower 95% confidence interval
+- Upper 95% confidence interval
+- 95% confidence interval
+- p-value
+
+---
+
+# Forest Plot
+
+The adjusted odds ratios are visualized using a logarithmic forest plot.
+
+Outputs
+
+```
+Forest_plot_tNGS_success.pdf
+```
+
+and
+
+```
+Forest_plot_tNGS_success.png
+```
+
+The figure displays
+
+- adjusted odds ratio
+- 95% confidence interval
+- p-value
+
+for
+
+- AFB Scanty vs Negative
+- AFB 1+ vs Negative
+- AFB 2+ vs Negative
+- AFB 3+ vs Negative
+- HIV Positive vs Negative
+- GS vs ONT
+
+---
+
+# Statistical Methods
+
+Descriptive analysis
+
+- Counts
+- Proportions
+
+Regression analysis
+
+- Multivariable logistic regression
+
+Model
+
+```
+Success ~ AFB + HIV + Platform
+```
+
+Outputs
+
+- Adjusted odds ratio (aOR)
+- 95% confidence interval
+- p-value
+
+---
+
+# R Packages
 
 ```r
 library(tidyverse)
-library(ggplot2)
 library(dplyr)
-library(tidyr)
-library(scales)
+library(broom)
+library(ggplot2)
+library(forestploter)
+library(grid)
 ```
 
 ---
 
-## Reproducibility
+# Repository Structure
 
-The analysis is fully data-driven.
+```
+.
+├── data
+│   └── 2026-07-15_AFB.csv
+│
+├── scripts
+│   ├── 01_success_rate_plot.R
+│   ├── 02_logistic_regression.R
+│   └── 03_forest_plot.R
+│
+├── results
+│   ├── Success_rate_AFB_HIV.png
+│   ├── Adjusted_OR_table.csv
+│   ├── Forest_plot_tNGS_success.pdf
+│   └── Forest_plot_tNGS_success.png
+│
+└── README.md
+```
 
-No proportions or sample sizes are entered manually. All counts, percentages, and labels are automatically calculated from the input dataset, ensuring that updates to the CSV file are reflected directly in the generated figure.
+---
+
+# Citation
+
+If these scripts contribute to published work, please cite the associated manuscript.
+
+---
+
+# Author
+
+Brahmastra Megasakti
+
+UC Berkeley School of Public Health
+
+Master of Public Health (Infectious Diseases and Vaccinology)
+
+2026
