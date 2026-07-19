@@ -104,7 +104,7 @@ No
 Publication-quality stacked horizontal bar plot
 
 ```
-Success_rate_AFB_HIV.png
+2026-07-16_Success_Rate_barstacked.png
 ```
 
 The figure displays
@@ -181,7 +181,7 @@ All estimates are adjusted for the other variables included in the regression mo
 The logistic regression exports
 
 ```
-Adjusted_OR_table.csv
+2026-07-16_Success_Rate_aORForestPlot.png
 ```
 
 containing
@@ -202,13 +202,7 @@ The adjusted odds ratios are visualized using a logarithmic forest plot.
 Outputs
 
 ```
-Forest_plot_tNGS_success.pdf
-```
-
-and
-
-```
-Forest_plot_tNGS_success.png
+2026-07-16_Success_Rate_aORForestPlot.png
 ```
 
 The figure displays
